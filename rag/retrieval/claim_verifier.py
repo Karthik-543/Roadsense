@@ -1,6 +1,6 @@
+import os
 import re
 from typing import List, Dict, Any
-from sentence_transformers import SentenceTransformer, util
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 _model = None
@@ -8,7 +8,11 @@ _model = None
 def get_model():
     global _model
     if _model is None:
-        _model = SentenceTransformer(MODEL_NAME)
+        try:
+            from sentence_transformers import SentenceTransformer
+            _model = SentenceTransformer(MODEL_NAME)
+        except ImportError:
+            _model = None
     return _model
 
 class ClaimVerifier:
@@ -59,12 +63,29 @@ class ClaimVerifier:
                 "citation": None
             }
 
-        model = get_model()
-        claim_emb = model.encode(claim, convert_to_tensor=True)
-        chunk_texts = [c["text"] for c in evidence_chunks]
-        chunk_embs = model.encode(chunk_texts, convert_to_tensor=True)
+        deployment_mode = os.environ.get("RAG_DEPLOYMENT_MODE", "lightweight").lower()
+        model = get_model() if deployment_mode != "lightweight" else None
 
-        scores = util.cos_sim(claim_emb, chunk_embs)[0]
+        if model is not None:
+            from sentence_transformers import util
+            claim_emb = model.encode(claim, convert_to_tensor=True)
+            chunk_texts = [c["text"] for c in evidence_chunks]
+            chunk_embs = model.encode(chunk_texts, convert_to_tensor=True)
+            scores = util.cos_sim(claim_emb, chunk_embs)[0]
+        else:
+            scores = []
+            stopwords = {"the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "with", "by", "of", "is", "are", "was", "were", "be", "been", "being", "this", "that", "it"}
+            claim_words = set(re.findall(r'\w+', claim.lower())) - stopwords
+            for chunk in evidence_chunks:
+                chunk_text = chunk.get("text", "")
+                chunk_words = set(re.findall(r'\w+', chunk_text.lower())) - stopwords
+                if claim_words and chunk_words:
+                    overlap = len(claim_words.intersection(chunk_words)) / max(len(claim_words), 1)
+                else:
+                    overlap = 0.0
+                chunk_score = chunk.get("score", 0.5)
+                score = 0.6 * overlap + 0.4 * chunk_score
+                scores.append(score)
 
         best_score = 0.0
         best_chunk = None

@@ -30,6 +30,9 @@ class TestRoadSenseLLMIntegration(unittest.TestCase):
         elif "OPENAI_MODEL" in os.environ:
             del os.environ["OPENAI_MODEL"]
 
+        from api.app import pipeline
+        pipeline.llm = LLMInterface()
+
     def test_llm_config_loading(self):
         os.environ["OPENAI_MODEL"] = "gpt-4o-mini"
         if "OPENAI_API_KEY" in os.environ:
@@ -91,7 +94,7 @@ class TestRoadSenseLLMIntegration(unittest.TestCase):
         os.environ["OPENAI_API_KEY"] = "sk-test-invalid-key"
 
         mock_client = MagicMock()
-        mock_client.chat.completions.create.side_call = Exception("Authentication failed or quota exceeded")
+        mock_client.chat.completions.create.side_effect = Exception("Authentication failed or quota exceeded")
         mock_openai_cls.return_value = mock_client
 
         llm = LLMInterface(provider="openai")
@@ -111,6 +114,9 @@ class TestRoadSenseLLMIntegration(unittest.TestCase):
     def test_api_response_does_not_contain_api_key(self):
         secret_key = "TEST_API_KEY_PLACEHOLDER"
         os.environ["OPENAI_API_KEY"] = secret_key
+
+        from api.app import pipeline
+        pipeline.llm = LLMInterface()
 
         client = TestClient(app)
 

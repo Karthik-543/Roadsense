@@ -76,15 +76,17 @@ class LightweightRetriever:
                 except Exception as e:
                     print(f"[LightweightRetriever] ONNX init note: {e}")
 
-        # Fallback to SentenceTransformer if installed (Research Mode)
-        try:
-            from sentence_transformers import SentenceTransformer
-            self.encoder = SentenceTransformer("all-MiniLM-L6-v2")
-            self.encoder_type = "sentence_transformers"
-            print("[LightweightRetriever] Initialized SentenceTransformer query encoder.")
-            return
-        except Exception:
-            pass
+        # Fallback to SentenceTransformer ONLY in Research Mode
+        deployment_mode = os.environ.get("RAG_DEPLOYMENT_MODE", "lightweight").lower()
+        if deployment_mode == "research":
+            try:
+                from sentence_transformers import SentenceTransformer
+                self.encoder = SentenceTransformer("all-MiniLM-L6-v2")
+                self.encoder_type = "sentence_transformers"
+                print("[LightweightRetriever] Initialized SentenceTransformer query encoder (Research Mode).")
+                return
+            except Exception:
+                pass
 
         self.encoder_type = "cache_or_keyword"
         print("[LightweightRetriever] Initialized Query Cache + Keyword fallback encoder.")
