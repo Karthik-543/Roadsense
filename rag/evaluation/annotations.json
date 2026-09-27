@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Q01",
+    "query": "What maintenance treatment is recommended for potholes?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["potholes", "pavement_distress"],
+    "expected_sources": ["SRC_MORTH_POTHOLE", "SRC_MORTH_SOP_MAINT", "SRC_IRC_SHOWIMG"]
+  },
+  {
+    "id": "Q02",
+    "query": "What activities are included in routine pavement maintenance?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["general_engineering", "pavement_distress"],
+    "expected_sources": ["SRC_MORTH_CONTRACT_MAINT", "SRC_MORTH_SOP_MAINT"]
+  },
+  {
+    "id": "Q03",
+    "query": "What maintenance actions are recommended for pavement cracks?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_IRC_SHOWIMG"]
+  },
+  {
+    "id": "Q04",
+    "query": "What are the benefits of preventive road maintenance?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance", "pavement_distress"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC", "SRC_MORTH_SOP_MAINT"]
+  },
+  {
+    "id": "Q05",
+    "query": "What factors should be considered when selecting a maintenance treatment?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress", "traffic_maintenance"],
+    "expected_sources": ["SRC_MORTH_ASSET_MANAGEMENT", "SRC_NHAI_WORKS_MANUAL"]
+  },
+  {
+    "id": "Q06",
+    "query": "What equipment is recommended for road maintenance activities?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_NHAI_NSV_SOP", "SRC_MORTH_NSV"]
+  },
+  {
+    "id": "Q07",
+    "query": "What causes potholes in bituminous pavements?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["potholes", "weather_climate"],
+    "expected_sources": ["SRC_MORTH_POTHOLE", "SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q08",
+    "query": "What are the recommended repair methods for longitudinal cracks?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_IRC_SHOWIMG"]
+  },
+  {
+    "id": "Q09",
+    "query": "What are the recommended repair methods for transverse cracks?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q10",
+    "query": "What maintenance methods are used for alligator cracking?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress", "drainage_subgrade"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_FHWA_GEOTECH"]
+  },
+  {
+    "id": "Q11",
+    "query": "What factors influence pavement deterioration?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["weather_climate", "traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_ENV_FACTORS", "SRC_FHWA_HIGH_TRAFFIC"]
+  },
+  {
+    "id": "Q12",
+    "query": "What road maintenance actions can improve road serviceability?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_MORTH_ROUGHNESS", "SRC_MORTH_CONTRACT_MAINT"]
+  },
+  {
+    "id": "Q13",
+    "query": "What maintenance approach should be selected for a pavement with existing distress?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_POTHOLE", "SRC_IRC_SHOWIMG"]
+  },
+  {
+    "id": "Q14",
+    "query": "What information is needed before selecting a pavement maintenance treatment?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_MORTH_NSV", "SRC_NHAI_NSV_SOP"]
+  },
+  {
+    "id": "Q15",
+    "query": "What is the relationship between pavement distress and maintenance requirements?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_MORTH_SOP_MAINT"]
+  },
+  {
+    "id": "Q16",
+    "query": "What exact remaining service life can be determined from a single pothole image?",
+    "sufficiency_expected": false,
+    "is_limitation_query": true,
+    "expected_categories": ["research_detection"],
+    "expected_sources": ["SRC_RESEARCH_MAIN"]
+  },
+  {
+    "id": "Q17",
+    "query": "Can a road damage image alone determine the structural load carrying capacity of the pavement?",
+    "sufficiency_expected": false,
+    "is_limitation_query": true,
+    "expected_categories": ["research_detection"],
+    "expected_sources": ["SRC_RESEARCH_MAIN"]
+  },
+  {
+    "id": "Q18",
+    "query": "Can a road damage image alone determine the exact cost of repairing the road?",
+    "sufficiency_expected": false,
+    "is_limitation_query": true,
+    "expected_categories": ["research_detection"],
+    "expected_sources": ["SRC_RESEARCH_MAIN"]
+  },
+  {
+    "id": "Q19",
+    "query": "What maintenance recommendations are supported when both potholes and cracks are observed?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["potholes", "pavement_distress"],
+    "expected_sources": ["SRC_MORTH_POTHOLE", "SRC_MORTH_TERMINOLOGY"]
+  },
+  {
+    "id": "Q20",
+    "query": "What evidence is required before making a road maintenance recommendation?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_MORTH_NSV", "SRC_NHAI_WORKS_MANUAL"]
+  },
+  {
+    "id": "Q21",
+    "query": "How does moisture intrusion affect subgrade soil stability and pavement distress?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["drainage_subgrade", "weather_climate"],
+    "expected_sources": ["SRC_FHWA_GEOTECH", "SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q22",
+    "query": "What is the relationship between heavy rainfall events and moisture acceleration in bituminous layers?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["weather_climate"],
+    "expected_sources": ["SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q23",
+    "query": "How do temperature variations and freeze-thaw cycles contribute to transverse crack propagation?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["weather_climate"],
+    "expected_sources": ["SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q24",
+    "query": "What pavement drainage maintenance practices prevent moisture-induced stripping?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["drainage_subgrade"],
+    "expected_sources": ["SRC_FHWA_GEOTECH", "SRC_MORTH_SOP_MAINT"]
+  },
+  {
+    "id": "Q25",
+    "query": "Can recent rainfall data be stated as the sole cause of a pothole?",
+    "sufficiency_expected": false,
+    "is_limitation_query": true,
+    "expected_categories": ["weather_climate"],
+    "expected_sources": ["SRC_FHWA_ENV_FACTORS"]
+  },
+  {
+    "id": "Q26",
+    "query": "How does heavy traffic volume influence maintenance work zone planning and traffic control constraints?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC", "SRC_NHAI_WORKS_MANUAL"]
+  },
+  {
+    "id": "Q27",
+    "query": "What operational factors determine repair priority on high-traffic volume National Highways?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC", "SRC_MORTH_CONTRACT_MAINT"]
+  },
+  {
+    "id": "Q28",
+    "query": "Does heavy traffic volume prove direct physical causation of pavement cracking?",
+    "sufficiency_expected": false,
+    "is_limitation_query": true,
+    "expected_categories": ["traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC"]
+  },
+  {
+    "id": "Q29",
+    "query": "What preservation strategies are specified for high-traffic roadway corridors?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC"]
+  },
+  {
+    "id": "Q30",
+    "query": "How should traffic delay metrics be incorporated into maintenance scheduling?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC"]
+  },
+  {
+    "id": "Q31",
+    "query": "What are the standard operating parameters for Network Survey Vehicle (NSV) condition surveys?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_NHAI_NSV_SOP", "SRC_MORTH_NSV"]
+  },
+  {
+    "id": "Q32",
+    "query": "What quality assurance standards are required for bitumen tack coat application in patch repair?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["general_engineering"],
+    "expected_sources": ["SRC_NHAI_QA_MANUAL", "SRC_MORTH_POTHOLE"]
+  },
+  {
+    "id": "Q33",
+    "query": "What International Roughness Index (IRI) threshold indicates severe pavement roughness?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_condition"],
+    "expected_sources": ["SRC_MORTH_ROUGHNESS"]
+  },
+  {
+    "id": "Q34",
+    "query": "What safety inspection items are required for road hazard remediation near schools and junctions?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["road_safety"],
+    "expected_sources": ["SRC_MORTH_SAFETY_INSPECT", "SRC_ROAD_SAFETY_AUDIT"]
+  },
+  {
+    "id": "Q35",
+    "query": "What performance standards govern contract maintenance on National Highways?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress"],
+    "expected_sources": ["SRC_MORTH_CONTRACT_MAINT"]
+  },
+  {
+    "id": "Q36",
+    "query": "What synthetic repair strategy is indicated when high traffic volume, severe moisture exposure, and alligator cracking co-occur?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance", "pavement_distress"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC", "SRC_MORTH_TERMINOLOGY"]
+  },
+  {
+    "id": "Q37",
+    "query": "How do computer vision models like RF-DETR classify road damage in multi-national datasets?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["research_detection"],
+    "expected_sources": ["SRC_RESEARCH_RDD2022", "SRC_RESEARCH_AUTOMATED_DETECTION"]
+  },
+  {
+    "id": "Q38",
+    "query": "What are the acknowledged limitations of image-only road distress detection in literature?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["research_detection"],
+    "expected_sources": ["SRC_RESEARCH_MAIN"]
+  },
+  {
+    "id": "Q39",
+    "query": "What preventive maintenance treatments extend pavement service life prior to structural failure?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["traffic_maintenance", "pavement_distress"],
+    "expected_sources": ["SRC_FHWA_HIGH_TRAFFIC", "SRC_MORTH_SOP_MAINT"]
+  },
+  {
+    "id": "Q40",
+    "query": "What evidence distinguishes surface raveling from deep subgrade structural degradation?",
+    "sufficiency_expected": true,
+    "is_limitation_query": false,
+    "expected_categories": ["pavement_distress", "drainage_subgrade"],
+    "expected_sources": ["SRC_MORTH_TERMINOLOGY", "SRC_FHWA_GEOTECH"]
+  }
+]

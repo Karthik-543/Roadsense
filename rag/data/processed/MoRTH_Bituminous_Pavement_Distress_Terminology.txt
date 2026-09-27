@@ -1,0 +1,270 @@
+7600/2
+1 in 2 and that in higher embankments will not be steeper than 1 in 3. In case, the higher embankments are protected by
+dp-rap, the river side slope of earthen embankments upto6 metres high may be 1 in 2 or 1 in15 depending upon the
+type of slope protection. In embankments constructed of sandy materials, the river side slope should preferably be pro-
+tected with cover of 06. m (2 ft) thick good soil
+<ii)
+COUNTRY SIDE SLOPE
+The countryside slope will largely depend on the hydraulic gradient line in different types of soil tised in the Gil.
+In order to avoid seepage of water from the countryside face and consequent damage to the bank, minimum cover of 06.
+m over the hydraulic gradient line would be necessary. Generally for embankments upto 4.5 m height, the countryside
+slope should be 1 in 2 from the top of embankment upto the point where the cover over hydraulic gradient line is 06, m,
+after which either a berm of suitable width with the countryside slope of 1: 2 from the end of the berm upto the ground
+level may be provided or the slope may run parallel to the hydraulic gradient line down to the ground level For the
+embankments above 45 m and below 6 m heights, the corresponding slope should be 1 : 3. In this case also, the provi-
+sion of berms or a slope running parallel to the hydraulic gradient line from the point where the cover over the hyd-
+raulic gradient line is 0.6 m only may be considered. Generally the berm will be 1.5 metre (5 ft) wide In selecting a
+section for the embankment, the economics of the type adopted will be examined.
+For embankment* above o m height detailed design may be furnished in the project estimate.
+(iii)
+SLOPE PROTECTION WORKS
+Generally the side slopes and 2 ft wide (0.6 metres) on top from the edges of the embankments should be turfed
+with grass sods. In embankments which are in imminent danger of erosion, necessity of protective measures such as
+slope protection by rip-rap and/or river training works should be examined separately.
+(iv)
+TREATMENT ON TOP OF EMBANKMENTS
+For embankments protecting bigger towns, industrial establishments and places of strategic importance, the
+necessity of providing all weather road surface such as water-bound-macadam or brick-on-edge soling or creteways or
+moorum surface in 3 to 3.5 metres width should be examined for such reaches which are not easily accessible from the
+existing net-work of roads in order to ensure proper repair and maintenance of the embankments especially during
+emergencies. In general only creteways should be provided on major embankments from flood sector. If for some special
+reasons proper road surface is to be provided on top of embankments, the cost thereof should not be borne by the flood
+sector.
+(v)
+LAND ACQUISITION
+To ensure uniformity in respect of land acquisition for flood protection embankments, it is suggested that the pro-
+vision for land acquisition should include at least 1.5 metres addtional width beyond the toe of the embankments on the
+river side and width of 3 metres beyond the toe of embankment on the countryside.
+(7)
+BORROW AREAS
+Generally the borrow area will be on the river side of the embankment However, in unavoidable circumstances, when
+the earth is to be borrowed from the countryside, the borrow pits shall not be closer than 10 m from
+^
+the countryside toe of the
+embankment In certain cases when the depth of the borrow pit is limited to 03 metres (1 foot) the borrow pit may be closer to
+the embankment but in no case the distance between the toe of the embankment and the edge of the borrow pit shall be less
+than 5 metres (16 ft). In order to obviate development of flow parallel to the embankment 5 to 6 metres wide cross bars spaced
+at 50 to 60 metres center to center shall be left in the borrow pits.
+^
+< i m n..1 mu.u n i ' r - iiafcdtmiiiimua—
+i>u i n n u^^fi'tiii- t * nii 'i 1 * 1
+7600.2.
+No. NH VI-50 (15)/78
+Dated the 14th August, 1978
+MEMORANDUM
+Subject: Standard Terminology for Bituminous Pavement Distress Modes
+Pavement condition survery is a useful tool in maintenance management and in working out the
+strategy for strengthening the pavement This usually consists of a visual survey for the pavement distress
+or objective measurements for strength/riding quality, or a combination of both.
+2.
+When a visual survey is made, either during the inspection of an officer or specifically for
+maintenance/strengthening purposes it is necessary to record the distress manifestations of the pavement
+for objective evaluation etc. in the design office. For the individual bias not to enter into the recording of
+the distress, it would be desirable to use clearly understood and proper terms for the different distress types.
+A standardised terminology has therefore been attempted and is given in the Annexure for use of the
+Technical Officers, The Annexure in addition gives the likely causes and a few illustrations.
+3.
+For detailed information about pavement distress etc. the following books may be consulted :
+(i)
+“ Principles of Pavement Design" by EJ. Yoder and MW. Witczak—
+Chapter on pavement distress.
+
+7600/3
+(ii)
+“ Soil Mechanks for Road Engineers" published by Her Majesty's Stationery Office.
+1.
+All Technical Officers in the Roads Directorate at Headquarters.
+2.
+ROs/ELOi
+Enclosure to letter Sa NHVI-50 (J5J/78 dt 14.8.78
+ANNEXURE
+DISTRESS ON BITUMINOUS PAVEMENTS
+SL
+No.
+Distress type
+Distress manifestation
+Cause/distress mechanism
+1.
+1
+3.
+4.
+1.
+Weathering
+Surface appearing dry and bitumen seems
+oxidised.
+Too old a surfacing, use of less bitumen.
+2.
+Bleeding
+Surface
+appearing
+rich
+in
+bitumen;
+free
+bitumen on surface particularly in
+wheel
+paths.
+Too much bitumen in mix, use of loo soft a
+bitumen.
+3.
+Rutting
+Depression
+in
+the
+wheel
+paths
+without
+upheaval in the adjacent area.
+Densification, consolidation.
+4.
+(a)
+Shear failure
+in subgrade
+Depression in the wheel path accompanied by
+upheaval
+at
+some
+distance
+from
+the
+depression.
+Shear failure due to excessive loading poor
+shear strength of subgrade.
+(b)
+in pavement
+— Do—
+but upheaval relatively close to the
+depression.
+— Do—
+poor shear strength
+of
+pavement
+materials.
+5.
+Cracking
+(a)
+Longitudinal
+cracks.
+Single or multiple cracks in the longitudinal
+direction.
+Differential settlement of fill, lack of internal
+friction of base.
+(b)
+Alligator cracks
+Class 1
+Cracks in more than one direction joined with
+each other to form a map pattern. Crack edges
+are not raised or spalled and there is no rock-
+ing under the load.
+Fatigue of surface. Excessive resiliance of sub
+grade
+(c)
+Alligator cracks.
+Class 2
+Same as above but of more in tensive nature.
+Edges of cracks raised or spalled and the
+pieces rock under wheel loads.
+Pavement in serious distress. Excessive move-
+ment of underlying layers. Pavement struc-
+turally inadequate
+(d)
+Reflection
+crakes
+Reflection of cracks from semirigid or rigid
+base. Generally regular in occurrence.
+Reflection of cracks from underlying layer.
+6.
+Potholes
+(a)
+Isolated pot
+holes
+Potholes at isolated location not associated
+with other failure modes.
+Local distress, local soft spots, local locking up
+of water.
+(b)
+Potholes associated
+with cracking
+Potholes
+associated
+with
+alligator
+cracks.
+Cracked pieces getting removed under traffic.
+Pavement in severe distress, at its last phase of
+life. Structurally inadequate.
+7.
+Edge breaking
+Pavement edges getting broken
+Lack of shoulder support, tracking at pave-
+ment edges.
+8.
+Ravelling
+Aggregates, both coarse and fine getting out of
+the pavement and getting collected in areas
+other than wheel paths.
+Stripping, abrasion by traffic, degradation of
+aggregates,
+insufficient
+bitumen,
+bitumen
+oxidised.
+Notes: (a)
+For detailed information the following books may be consulted ;
+( j)
+“ Principles of Pavement Design” by EJ. Yoder and M.W. Witczak — Chapter on pavement distress,
+(ii)
+“ Soil Mechanics for Road Engineers" published by Her Majesty's Stationery Office.
+(b)
+A few illustrations of pavement distress are given in the drawing attached
+
+ILLUSTRATIONS OF PAVEMENT DISTRESS
+v
+i
+RUTTING
+SHEAR FAILURE
+IN SUBGRADE
+SHEAR FAILURE
+IN PAVEMENT
+I
+I
+i
+I
+'' . r
+jr-7 JV/
+f
+-fy—
+i
+r /
+7 /
+^
+.
+i
+A
+r i f />J
+i
+1
+i
+i
+l
+CRACKING AND
+POT HOLES
+A. ALLIGATOR CRACKING
+E
+EDOE
+BREAKING
+L
+LONGITUDINAL CRACK
+If ISOLATED
+POTHOLE
+P2 POTHOLE
+ASSOCIATED
+WITH
+CRACKING
+0r,
+£ /
+.i
+/
+A
+P,
+

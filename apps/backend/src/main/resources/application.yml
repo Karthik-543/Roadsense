@@ -1,0 +1,49 @@
+server:
+  port: ${PORT:8080}
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: roadsense-backend
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/RoadSense}
+      database: RoadSense
+  servlet:
+    multipart:
+      max-file-size: 15MB
+      max-request-size: 50MB
+
+app:
+  jwt:
+    secret: ${JWT_SECRET:default_jwt_secret_change_in_production}
+    expiration-ms: 86400000 # 24 hours
+  cors:
+    allowed-origins: ${ALLOWED_ORIGINS:http://localhost:5173,http://localhost:3000}
+
+services:
+  detection-service:
+    url: ${DETECTION_SERVICE_URL:http://localhost:8000}
+    timeout-ms: 30000
+  rag-service:
+    url: ${RAG_SERVICE_URL:http://localhost:8001}
+    timeout-ms: 60000
+  google-routes:
+    api-key: ${GOOGLE_ROUTES_API_KEY:}
+    url: https://routes.googleapis.com/directions/v2:computeRoutes
+  open-meteo:
+    url: https://api.open-meteo.com/v1/forecast
+  osm:
+    nominatim-url: https://nominatim.openstreetmap.org
+    overpass-url: https://overpass-api.de/api/interpreter
+    user-agent: RoadSenseAI-ResearchPrototype/1.0 (contact@roadsense.ai)
+
+storage:
+  upload-dir: ${UPLOAD_DIR:uploads/images}
+
+logging:
+  level:
+    root: INFO
+    com.roadsense.backend: DEBUG
+    org.springframework.data.mongodb: INFO

@@ -1,0 +1,55 @@
+
+.env
+.env.*
+!.env.example
+
+appdata/
+target/
+dist/
+build/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+uploads/
+logs/
+*.log
+
+models/lightning_test/
+cnn/runs/
+data/raw/
+data/processed/rdd2022/
+data/processed/rfdetr_rdd2022/
+*.zip
+*.ckpt
+
+rag/.chroma/
+rag/data/raw/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Training artifacts / local model downloads
+.roboflow/
+models/rfdetr_medium_pilot/
+yolo11n.pt
+
+# RAG local caches and generated vector stores
+rag/.hf_cache/
+rag/vectorstore/
+rag/logs/
+
+# Temporary/test artifacts
+rag/test_write.txt
+rag/retrieval/evidence_evaluator
+rag/retrieval/test_retrieval.py
+
+# Detection test artifacts
+apps/detection-service/tests/test_result.jpg
+apps/detection-service/tests/test_road.jpg
+apps/detection-service/tests/invalid.txt

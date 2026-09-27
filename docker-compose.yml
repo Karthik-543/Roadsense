@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: roadsense-mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: RoadSense
+    volumes:
+      - mongo-data:/data/db
+
+  detection-service:
+    build:
+      context: ./apps/detection-service
+      dockerfile: Dockerfile
+    container_name: roadsense-detection-service
+    restart: always
+    ports:
+      - "8000:8000"
+
+  rag-service:
+    build:
+      context: ./rag
+      dockerfile: Dockerfile
+    container_name: roadsense-rag-service
+    restart: always
+    ports:
+      - "8001:8001"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+
+  backend:
+    build:
+      context: ./apps/backend
+      dockerfile: Dockerfile
+    container_name: roadsense-backend
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATA_MONGODB_URI: mongodb://mongodb:27017/RoadSense
+      SERVICES_DETECTION_SERVICE_URL: http://detection-service:8000
+      SERVICES_RAG_SERVICE_URL: http://rag-service:8001
+      APP_UPLOAD_DIR: /app/uploads
+    depends_on:
+      - mongodb
+      - detection-service
+      - rag-service
+    volumes:
+      - backend-uploads:/app/uploads
+
+  frontend:
+    build:
+      context: ./apps/frontend
+      dockerfile: Dockerfile
+    container_name: roadsense-frontend
+    restart: always
+    ports:
+      - "80:80"
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  mongo-data:
+  backend-uploads:

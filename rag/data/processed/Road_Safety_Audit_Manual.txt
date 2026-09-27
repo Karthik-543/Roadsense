@@ -1,0 +1,5123 @@
+IRC:SP:88-2010
+MANUAL
+ON
+ROAD SAFETY AUDIT
+INDIAN ROADS CONGRESS
+2010
+
+
+Digitized by the Internet Arcliive
+in 2014
+https://archive.org/details/govlawircy2010sp88
+
+
+IRC:SP:88-2010
+MANUAL
+ON
+ROAD SAFETY AUDIT
+Published by
+INDIAN ROADS CONGRESS
+Kama Koti Marg,
+Sectors, R.K. Puram,
+New Delhi-110 022
+NOVEMBER -2010
+Price Rs 1200/-
+(Packing & postage extra)
+
+!RC:SP:88-2010
+First Revision
+:
+November, 2010
+Reprinted
+:
+August, 2013
+(All Rights Reserved. No part of this publication shall be reproduced,
+translated or transmitted in any form or by any means without the
+permission of the Indian Roads Congress)
+Printed at India Offset Press, New Deliii
+(1000 copies)
+
+CONTENTS
+PERSONNEL OF THE HIGHWAYS SPECIFICATIONS AND
+STANDARDS COMMITTEE
+INTRODUCTION
+GENERAL
+1.1
+Road Safety Situation in India
+1 .2
+Accident Prevention
+1 .3
+Road Safety Audit - Part of Road Safety Strategy
+ROAD SAFETY AUDIT - AN OVERVIEW
+2.1
+What is Road Safety Audit?
+2.2
+Road Safety Audit and Quality Assurance
+2.3
+Where Did the Idea of RSA Start and How?
+2.4
+Why Road Safety Audit?
+2.5
+Road Safety Audit: What is Done and not Done
+2.6
+Who Does the Safety Audit?
+2.7
+Organisations Involved in Road Safety Audit
+2.7.1
+Role of designer
+2.7.2
+Role of client
+2.7.3
+Role of auditor
+2.8
+What Type of Projects should be Audited?
+2.9
+Ways of Organizing a Road Safety Audit
+2.1 0
+Road Safety Auditors and Key Personnel in RSA
+2.10.1
+Qualifications and background
+2.10.2
+Size of RSA team
+2.1 0.3
+Training of auditors required and training content
+2.1 1
+Success Factors
+2.12
+Costs and Benefits
+STAGES OF ROAD SAFETY AUDIT
+3.1
+Stage
+1 Audit (During Feasibility Study)
+
+IRC:SP:88-2010
+3.2
+Stage 2 Audit (Completion of Preliminary Design)
+20
+3.3
+Stage 3 Audit (Completion of Detailed Design)
+21
+3.4
+Stage 4 Audit (During Construction Stage)
+21
+3.5
+Stage 5 Audit (Completion of Construction) (Pre-opening)
+23
+3.6
+Stage 6 Audit-Audit on Existing Roads and During Operation and
+24
+Maintenence of Concessionaire Projects
+3.7
+What are the Safety Issues to be Focused in Different Stages
+24
+of the Project?
+3.8
+What are the Data Requirements for RSA?
+24
+4
+ROAD SAFETY AUDIT PROCESS
+26
+4.1
+Audit of New Roadway Sections
+26
+4.1.1
+Selecting road safety audit team
+27
+4.1.2
+Enhancing availability of skilled personnel for
+28
+road safety audit
+4.1.3
+Providing the background information
+28
+4.1.4
+Commencement meetings
+^
+29
+4.1.5
+Assessing the documents
+29
+4.1.6
+Inspecting the site
+30
+4.1.7
+Preparation of safety audit report
+30
+4.1.8
+Holding a completion meeting
+32
+4.1.9
+Responding to the audit report
+32
+4.1.10
+Implementing the agreed recommendations
+32
+4.2
+Audit of Existing Roadway Sections
+33
+4.2.1
+Road inventory
+33
+4.2.2
+Classified volume counts
+34
+4.2.3
+Speed surveys
+34
+4.2.4
+First information reports from police stations
+34
+5
+SALIENT FEATURES AND PRINCIPLES FOR SAFE
+34
+ROAD DESIGN
+5.1
+Principles of Road Safety
+34
+5.2
+Special Safety Issues Related to Road Designs
+36
+5.2.1
+Designing for the users
+36
+5.2.2
+Design speed
+36
+
+IRC:SP:88-2010
+5.2.3
+Design context
+38
+5.2.4
+Horizontal and vertical curves
+39
+5.2.5
+Intersections
+39
+5.2.6
+Access control
+43
+5.2.7
+Cross-section
+44
+5.2.8
+Trees
+47
+5.2.9
+Road signs
+48
+5.2.10
+Merges
+50
+5.2.11
+Sight distance
+51
+5.2.12
+Night visibility
+51
+5.2.13
+Parked vehicles
+52
+6
+SPECIFIC PARAMETERS TO BE CONSIDERED IN THE PRESENT
+53
+DAY TRAFFIC SCENARIO IN INDIA
+6.1
+Safety Issues for Non-Motorised Traffic
+53
+6.1.1
+Pedestrian walking facilities
+53
+6.1.2
+Pedestrian crossings
+54
+6.1.3
+Lay-byes/bus bays
+55
+6. 1 .4
+Bicyclists, rickshaws and animal drawn carts
+57
+6.2
+Safety Issues on High Speed Corridors
+58
+7
+SAFETY AUDIT PROCESS FOR RURAL ROADS (OTHER DISTRICT
+60
+ROADS AND VILLAGE ROADS) WITH SPECIAL REFERENCE
+TO PMGSY ROADS
+7.1
+Context
+60
+7.2
+Safety Aspects in Rural Roads
+61
+7.3
+Safety Audit
+61
+7.3.1
+Projects to be audited
+61
+7.3.2
+Audit team
+61
+7.3.3
+Stages of safety audit
+62
+7.3.4
+Audit process
+62
+7.3.5
+Checklists
+63
+8
+CHECKLISTS
+63
+8.1
+General
+63
+8.2
+Purpose of Checklists
+63
+
+!RC:SP:88-2010
+8.3
+When to use Checklists
+64
+8.4
+How to use Checklists
+64
+9
+ELEMENTS OF A GOOD RSA AND MEASURE OF ITS SUCCESS
+64
+1 0
+HOW TO GET ROAD SAFETY AUDIT STARTED IN THE ROAD
+65
+ORGANISATION?
+Annexure
+1
+CHECKLISTS FOR CARRYING OUT ROAD SAFETY AUDIT
+67
+FOR DIFFERENT STAGES OF THE PROJECT
+Checklist
+1
+-
+Stage
+1 Audit
+68
+Checklist 2
+-
+Stage 2 Audit
+'
+69
+Checklists
+-
+Stage 3 Audit
+72
+Checklist 4
+-
+Stage 4 Audit
+77
+Checklists
+-
+Stage 5 Audit
+78
+Checklist 6
+-
+Stage 6 Audit
+79
+Checklist 7
+-
+Planning
+80
+Checklist 8
+-
+Alignment
+;^
+80
+Checklist 9
+-
+Cross-Section
+81
+Checklist 10
+-
+Junctions
+82
+Checklist 11
+-
+Road Signs
+84
+Checklist 12
+-
+Road Markings
+85
+Checklist 13
+-
+Lighting
+85
+Checklists
+-
+Roadside Hazards
+86
+Checklist 15
+-
+Roadside
+Facilities
+88
+Checklist 16
+-
+Vulnerable Road Users
+88
+Checklist 17
+-
+Developmental Proposals
+89
+Checklist 18
+-
+Maintenance Work
+90
+
+!RC:SP:88-2010
+PERSONNEL OF THE HIGHWAYS SPECIFICATIONS AND
+STANDARDS COMMITTEE
+1.
+Singh, Nirmal Jit
+(Convenor)
+2.
+Sinha.A.V.
+(Co-convenor)
+3.
+Kandasamy C.
+(Member-Secretary)
+(As on 20*^ October, 2009)
+Director General (RD) & Spl. Secretary, Ministry of
+Road Transport & Highways, New Delhi
+Addl. Director General, Ministry of Road
+Transport & Highways, New Delhi
+Chief Engineer (R) S&R, Ministry of Road
+Transport & Highways, New Delhi
+4.
+Dhodapkar, A.N.
+5.
+Datta, P.K.
+6.
+Gupta K.K.
+7.
+Sinha, S.
+8.
+Kadiyali, Dr. L.R.
+9.
+Katare,
+P.K.
+10.
+Jain, Dr. S.S.
+11.
+Reddy, K. Siva
+12.
+Basu, S.B.
+13.
+Bordoloi, A.C.
+14.
+Rathore, S.S.
+15.
+Pradhan, B.C.
+16.
+Prasad, D.N.
+17.
+Kumar, Ashok
+18.
+Kumar, Kamlesh
+19.
+Krishna, Prabhat
+Members
+Chief Engineer (Pig.), Ministry of Road Transport & Highways,
+New Delhi
+Executive
+Director, Consulting Engg. Services
+(I)
+Pvt.
+Ltd.,
+New Delhi
+Chief Engineer (Retd.), Haryana, PWD
+Addl. Chief Transportation Engineer, CIDCO, Navi Mumbai
+Chief Execuitve, L.R. Kadiyali & Associates, New Delhi
+Director
+(Projects-Ill),
+National
+Rural Roads Development
+Agency, (Ministry of Rural Development), New Delhi
+Professor & Coordinator, Centre
+of Transportation Engg.,
+IITRoorkee
+E-in-C (R&B) Andhra Pradesh, Hyderabad
+Chief Engineer (Retd.), Ministry of Road Transport & Highways,
+New Delhi
+Chief Engineer (NH) Assam, Guwahati
+Principal Secretary to the Govt,
+of Gujarat, R&B
+Deptt.
+Gandhinagar
+Chief Engineer (NH), Govt, of Orissa, Bhubaneshwar
+Chief Engineer (NH), RCD, Patna
+Chief Engineer,
+Ministry
+of Road Transport & Highways,
+New Delhi
+Chief Engineer,
+Ministry
+of Road Transport & Highways,
+New Delhi
+Chief Engineer (Retd), Ministry of Road Transport & Highways,
+New Delhi
+(i)
+
+IRC:SP:88-2010
+20.
+Patankar, V.L.
+21.
+Kumar, Mahesh
+22.
+Bongirwar,
+P.L.
+23.
+Sinha, A.K.
+24.
+Sharma, S.C.
+25.
+Sharma, Dr. V.M.
+26.
+Gupta, D.P.
+27.
+Momin, S.S.
+28.
+Reddy, Dr. T.S.
+29.
+Shukia, R.S.
+30.
+Jain, R.K.
+31.
+Chandrasekhar,
+Dr. B.P.
+32.
+Singh, B.N.
+33.
+Nashkar, S.S.
+34.
+Raju, Dr. G.V.S.
+35.
+Alam, Parvez
+36.
+Gangopadhyay, Dr. S.
+37.
+Representative
+1.
+President, IRC
+2.
+Director General (RD) &
+Spl. Secretary
+3.
+Secretary General, IRC
+1.
+Justo,
+Dr. C.E.G.
+2.
+Khattar, M.D.
+3.
+Agarwal, M.K.
+4.
+Borge, V.B.
+Chief Engineer,
+Ministry
+of
+Road Transport & Highways,
+New Delhi
+Engineer-in-Chief, Haryana, PWD
+Advisor L&T, Mumbai
+Chief Engineer (NH), UP PWD, Lucknow
+Director General (RD) & AS, MORT&H (Retd.), New Delhi
+Consultant, AIMIL, New Delhi
+Director General (RD) & AS, MORT&H (Retd.), New Delhi
+Former Member, Maharashtra Public Service Commission,
+Mumbai
+Ex-Scientist, Central Road Research
+Institute, New Delhi
+Ex-Scientist, Central Road Research
+Institute, New Delhi
+Chief Engineer (Retd.) Haryana PWD, Sonepat
+Director (Tech.), National Rural Roads Development Agency
+(Ministry of Rural Development), New Delhi
+Chief Engineer,
+Ministry of Road Trnasport & Highways,
+New Delhi
+Chief Engineer (NH), PW (R), Kolkata
+Chief Engineer (R&B), Andhra Pradesh, Hyderabad
+Vice President, Hindustan Constn. Co. Ltd., Mumbai
+Director, Central Road Research Institute, New Delhi
+DGBR, Directorate General Border Roads, New Delhi
+Ex-Officio Members
+(Deshpande, D.B.), Advisor, Maharashtra Airport Dev. Authority,
+Mumbai
+(Singh, Nirmal
+Jit),
+Ministry of Road Transport & Highways,
+New Delhi
+(Indoria, R.P.), Indian Roads Congress, New Delhi
+Corresponding Members
+Emeritus Fellow, Bangalore Univ., Bangalore
+Consultant, Runwal Centre, Mumbai
+E-in-C (Retd), Haryana, PWD
+Secretary (Roads) (Retd.), Maharashtra PWD, Mumbai
+'
+(ii)
+
+IRC:SP:88-2010
+MANUAL ON ROAD SAFETY AUDIT
+INTRODUCTION
+This Manual on Road Safety Audit is based on the research study sponsored by the Ministry of
+Road Transport and Highways to the Central Road Research Institute (CRRI), New Delhi. The
+study report was submitted by the CRRI in April, 2003 and the research work was initially done by
+its
+Project Team headed by
+Dr.
+S.M.
+Sarin and
+later by
+Shri
+R.K.
+Bajpai and
+Dr. (Ms.) Nishi Mittal under the directions of Prof. P.K. Sikdar, the then Director CRRI.
+The draft of the Manual was considered and reviewed by the Transport Planning, Traffic Engineering
+and Road Safety Committee (H-1 ) of the Indian Roads Congress. As desired by the Committee,
+the draft document was revised by the CRRI team headed by Dr. (Ms.) Nishi Mittal under the
+direction of Dr. S. Gangopadhyay, Director, CRRI and supported by Shri D.P. Gupta in editing the
+whole document in the light of comments made by the Members of the H-1 Committee (Personnel
+given below)
+:
+Sharma, S.C.
+Gangopadhyay, Dr. S.
+Velmurugan, Dr. S.
+Co-Convenor
+Convenor
+Member-Secretary
+Members
+Basu
+, S.B.
+Bajpai
+, R.K.
+Chandra, Dr. Satish
+Gajria, Maj. Gen. K.T.
+Gupta, D.P.
+Gupta, Dr. Sanjay
+Kadiyali, Dr. L.R.
+Kandasamy, C.
+Kumar, Sudhir
+Mittal, Dr. (Ms) Nishi
+Pal, (Ms) Nimisha
+Palekar, R. C.
+Parida, Dr. M.
+Raju, Dr. M.P.
+Ranganathan, Prof. N.
+Singh, Dr. (Ms.) Raj Shri
+Singh, Pawan Kumar
+Sikdar, Dr. P.K.
+Singh, Nirmal Jit
+Tiwari, Dr. Geetam
+Director (Tech.), NRRDA
+(Dr. B.P. Chandrasekhar)
+Jt. Comm. of Delhi Police
+(Traffic) (S.N. Srivastava)
+Rep. of E-in-C, NDMC
+1
+
+IRC:SP:88-2010
+Corresponding Members
+Bahadur, A. P.
+Sarkar, J.R.
+Reddy, Dr. T.S.
+Tare, Dr. (Mrs.) Vandana
+Rao, Prof. K.V. Krishna
+This Manual is aimed at decision-makers, engineers and technicians throughout the Indian
+roads sector, irrespective of whether they work at National, State, District or Local level.
+It is
+intended for all those who can and should contribute to improve safety on Indian roads.
+It
+provides procedures for applying quality assurance to road projects, from the standpoint of
+road safety. The methodology is known as 'road safety audit'. When its application becomes
+widespread,
+it is expected to make a significant contribution to the prevention of accidents
+on roads.
+The application of cost-effective measures on existing roads as a basis for accident reduction
+is established through accident investigation procedures, whereas, the application of safety
+principles in the provision, improvement and maintenance of roads as a means of accident
+prevention can be established through road safety audit. Thus, the purpose of this audit is to
+ensure that all road schemes should function as safely as possible, which means that the
+road users will be exposed to minimal risks of accidents, on new roads as well as on existing
+roads. The purpose of the Manual
+is to introduce the subject of road safety audit and to
+provide guidelines for conducting audit by qualified and experienced road safety auditors.
+The Manual describes the concept of road safety audit, stages when the audit may be taken
+up and the process for both new and existing roads. A section has been separately added
+for rural roads with special reference to the PMGSY roads. Check Lists related to different
+stages and various aspects of road safety have been added to facilitate the task of Road
+Safety Audit.
+The draft of the Manual, revised by the CRRI team, was considered by the Transport Planning,
+Traffic
+Engineering
+and
+Road
+Safety
+Committee
+in
+their
+meeting
+held
+on
+1 8 September 2009 and
+it authorized the Convenor Shri S.C. Sharma to finalise the draft in
+the light of comments made by the Committee members and send
+it to IRC for consideration
+by the Highways Specifications and Standards Committee.
+The Highways Specifications and Standards Committee approved the draft in
+its meeting
+held on 20 October, 2009. Subsequently the draft was approved by the Executive Committee
+on
+31
+October, 2009 and by the Council
+in
+its
+189*^
+meeting held
+at Patna on
+1 4 November, 2009. The document was finalized later taking into consideration the comments
+made by the Council Members and those received subsequently, by a small group comprising
+S/Shri C.Kandasamy, S.K.Verma and D.P.Gupta under the chairmanship of DG(RD) and
+SS, MORTH, Shri Nirma! Jit Singh.
+2
+
+1 GENERAL
+IRC:SP:88~2010
+1.1
+Road Safety Situation In India
+India with
+1 ,05,725 fatalities per annum (in year 2006), accounts for about 10 percent of total
+world's road fatalities. The share of National Highways and State Highways
+in the total road
+network is just 6 percent but these cater to 70 to 75 percent of total road traffic in India. However,
+the National Highways, which constitute less than 2 percent of the total road network, account for
+20 percent of total road accidents and 25 percent of total road traffic fatalities occurring on Indian
+roads. Further, the severity of road traffic accidents on National Highways is more because of
+higher speeds as compared to other roads. The road safety situation
+in India
+is worsening.
+Accidents, fatalities and casualties have been increasing dramatically over last 20 years - about
+5 percent growth rate over last two decades - partly due to exponential growth of vehicles. The
+death rate per vehicle is 1 0 to 20 times higher in India as compared to high-income countries like
+Sweden, Norway, Japan, Australia, UK and USA.
+It is much higher even when compared to many
+low-income countries like Brazil, Mexico and Malaysia.
+There is loss of productivity, property damage and costs to the hospital system and emergency
+services.
+In addition, there
+is incalculable personal loss of loved ones. For India, the socio-
+economic cost of road accidents in
+1 999-2000 was estimated at 3 percent of GDP (Tenth Five-
+Year Plan Vol.11 page 963). Pedestrians, bicyclists and motorised two-wheeler riders are the
+Vulnerable Road Users (VRU), which constitute 60-80 percent of all traffic fatalities in India. This
+seems logical as this class of road users forms the majority of those on roads. On highways, the
+proportion of VRU and other motor vehicle occupants are 32 percent and 68 percent respectively.
+In addition, they sustain relatively more serious injuries even at low velocity crashes, unlike car
+occupants who are protected by impact absorbing metallic body of the vehicles.
+Table 1 .1 shows the worsening situation of road accident fatalities and injuries in India. Accident
+prevention can be enhanced by the application of road safety audit over the road network at its
+different stages of development.
+1.2
+Accident Prevention
+Accident reduction and accident prevention are the two main strategies in road safety work. In
+accident reduction, we use the knowledge of accidents that have occurred on our existing roads
+to improve the design of the roads or to influence the behaviour of road users, so that similar
+accidents do not occur again.
+Accident prevention is the application of expertise in safe road design
+- road geometry, as well
+as the materials used - when we construct new streets and roads or redesign the existing roads,
+regardless of the reasons for which an individual project is undertaken. This expertise
+is the
+result of research and to a significant extent of practical experience gained through working on
+accident reduction.
+3
+
+IRC:SP:88-2010
+Table 1 .1 Year-Wise Road Accident Statistics In India
+Year
+Number of Accidents
+Number of Persons
+No. of
+Total
+1 \JlCll
+1
+CllCll
+(Figures within
+brackets give
+pel Ucl llciyt;
+of total)
+KiIIpH
+II IJUl
+persons
+killed per
+100
+accidents
+2001
+405,637
+71,219(17.6)
+80,888
+405,216
+19.9
+2002
+407,497
+736,50(18.1)
+84,674
+408,711
+20.8
+2003
+406,726
+73,589(18.1)
+85,998
+435,122
+21.1
+2004
+429,910
+79,357(18.5)
+92,618
+464,521
+21.5
+2005
+439,255
+83,491(19.0)
+94,968
+465,282
+21.6
+2006(P)
+460,920
+93,917(20.4)
+105,749
+496,481
+22.9
+Source
+: National Road Safety Profile of India (2008) Central Bureau of Health Intelligence
+Accident prevention should be the objective of any highway authority to ensure that the roads are
+safe. A road is considered safe when only a few - or, in the best case, no accident occurs.
+If many
+accidents occur, a road
+is not safe, regardless of whether
+all standards and norms were
+observed during
+its planning and design, and regardless of whether any accidents can be
+attributed to contravention of the law or other inappropriate behaviour on the part of road users.
+In road safety work, the concept of 'contributing accident factors'
+is used. There are factors,
+which, by their very presence, or which, through their absence have contributed to the occurrence
+of an accident. Such factors can be related to the road user, the vehicle and the road and
+its
+surroundings. Each element, constituting many factors within, contribution (in percentage) in the
+occurrence of accidents is presented in Table 1 .2.
+Table
+1 .2 Percentage-Wise Contribution of Various Elements in Road Accidents
+1
+Element
+Percentage
+Road User
+65.0
+Road & Surroundings
+2.5
+Vehicle
+2.5
+Road User, Road & Surroundings
+24.0
+Road User and Vehicle
+4.5
+Road User, Road & Surroundings and Vehicle
+1.5
+Road users are not perfect. Behaviour of road users appears as a contributing factor in all road
+accidents. This does not mean, however, that road engineering measures have no effect on the
+4
+
+IRC:SP:88-2010
+frequency of accidents. On the contrary,
+it demands that we guide road users into law-abiding
+and appropriate behaviour through the design of 'forgiving' roads.
+1 .3
+Road Safety Audit - Part of Road Safety Strategy
+The management of accident risk is both a short-term and a long-term strategy, which requires
+support of central and state authorities. The most effective way of managing accident risk is
+through the development of a 'safety culture'. A safety culture is 'the ideas and beliefs shared by
+all members of an organisation about accidents and the
+risk of their happening'. Highway
+authorities have the task of delivering products and services to road users, and there are many
+practical ways
+in which they can do to foster the interest of road safety. The most important
+requirement within any highway authority is to have a commitment to road safety. This commitment
+allows assuming responsibility for their actions, be
+it designing a road, implementation on the
+ground, approving a development access, allocating resources or training staff.
+It is not necessary
+for accidents to occur before steps are taken to both reduce the likelihood of them occurring and
+minimize their consequences. Road safety audit should be viewed as part of an overall strategy
+to reduce accident risk.
+Road safety audit has the greatest potential for improving safety when
+it is applied to a road or
+traffic design before the project
+is
+built.
+It can be conducted on any design proposal, which
+involves changes to the ways road users will interact, either with each other or with their physical
+environment. Purpose of the audit is to look at the accident potential and safety performance of
+the proposal.
+It is a formal process using a defined procedure and not an informal check. To be
+effective,
+it must be conducted by persons who have appropriate expertise, experience and
+training and who are independent of the design team. An audit may also be conducted on an
+existing road, since
+it permits hazards to be identified and opportunity becomes available to
+identify preferred road engineering measures to improve safety.
+2 ROAD SAFETY AUDIT - AN OVERVIEW
+2.1
+What is Road Safety Audit?
+Road Safety Audit (RSA)
+is a formal procedure for assessing accident potential and safety
+performance
+in the provision of new road schemes and schemes for the improvement and
+maintenance of existing roads.
+However, its systematic application can also ensure that a growing awareness about good road
+safety principles
+is achieved throughout
+in highway planning, design, construction and
+maintenance organisation. The essential elements of the definition are that
+it is:
+a)
+A formal process and not an informal check,
+b)
+Carried out by persons who are independent of the design and construction,
+c)
+Carried out by persons with appropriate expertise, experience and training, and
+d)
+Restricted to road safety issues.
+5
+
+IRC:SP:88"2010
+The main aim of road safety audit is to ensure that all new road schemes operate as safely as
+practicable. This means that safety should be considered throughout the entire cycle of design,
+construction and pre-opening of any project facility and also during operation & maintenance of
+the highway. Specific aims of RSA are
+:
+a)
+To minimize the risk of accidents likely to occur/occurring on the project facility
+and to minimize their severity.
+b)
+To minimize the risk of accidents likely to occur/occurring on adjacent roads
+i.e., to avoid creating accidents elsewhere on the network.
+c)
+To recognise the importance of safety in highway design to meet the needs
+and perceptions of all types of road users; and to achieve a balance between
+needs of different road user types where they may be
+in conflict with one
+another.
+d)
+To reduce long-term costs of a project facility, bearing
+in mind that unsafe
+designs may be expensive or even impossible to correct at a later stage.
+e)
+To increase awareness about safe design practices among ail those involved
+in the planning, design, construction and maintenance of roads.
+Road safety audits assess the operation of a road, focusing on road safety as
+it affects the users
+of the road. These users include pedestrians, cyclists, motorcyclists, truck/bus drivers, on-road
+public transport users, etc. The outcome of a road safety audit is the identification of any road
+safety deficiencies and formulation of recommendations aimed at removing or reducing those
+deficiencies.
+2.2
+Road Safety Audit and Quality Assurance
+Road safety audit is an important aspect of Quality Assurance (QA), applied to the implementation
+of a road project.
+It is a management process in which the provider of goods or services assures
+the customer or client of the quality of those goods or services, without the customer or client
+having to check each time.
+Quality assurance is done by the implementation, in the organization, of a set of procedures
+designed to ensure that agreed standards are met. Quality assurance procedures for the design
+and implementation of new road or traffic projects are to input road safety engineering expertise
+into the design. Often the client and the customer are the same person or organization. In case of
+roads, the client for whom the road is designed and built is usually the highway authority, whereas
+the customer is the road user. A road safety audit is undertaken for the highway authority to
+ensure that the customer is afforded a level of protection from unsafe design and construction.
+'Getting
+it right the first time' is the underlying theme of quality assurance. Road safety audits
+seek to ensure the road operates 'right the first time' once
+it opens and that the road users make
+fewer mistakes. Quality assurance is a continuous process. So far as the safe design of roads is
+concerned, quality assurance starts with a safety culture in an organization. While designing a
+6
+
+1RC:SP:88-2010
+road, engineers will apply quality assurance techniques by established procedures and regularly
+check the details of their own work. This regular checking includes checking safety aspects. This
+type of assessment, however, is not 'road safety auditing' because
+it is not done with a 'fresh pair
+of eyes' and
+it probably is not applying road safety engineering skills and experience required for
+the task. Road safety audit, on the other hand, is a 'step-by-step' process, performed at all stages.
+An independent road safety audit of the design
+is sought, to permit independent road safety
+engineering advice to be input, for the benefit of the future road users. Presently,
+it has become
+practice of involving safety engineers during the life of project, liaising informally with professionals
+of all disciplines at all stages, from feasibility/concept stage to completion. In turn, quality assurance
+can be applied to the providers of road safety audit services.
+2.3
+Where Did the Idea of RSA Start and How?
+Traffic engineers in UK developed the idea of Road Safety Audit as a safety check for new and
+improved road projects and schemes in the early 1980s. The Road Safety Audit process in the
+UK started to gather momentum when safety engineers realized that they were carrying out
+accident remedial schemes on relatively new roads. Common mistakes in carriageway layout,
+positioning and type of street furniture, poor signing and marking, inappropriate surfacing
+materials, lack of facilities for vulnerable road users such as pedestrians and cyclists were being
+repeated over and over. There was no feedback from the safety facilitators to the highway designers
+and constructors in the same way as vehicle crash investigators fed their findings into the car
+design process. Safety audit was born.
+Adopting the principle of 'precaution is better than cure', they decided to use some of the safety
+experience they had gained from the remedial work and design safety into new road schemes.
+The Institution of Highways and Transportation Guidelines on Accident Investigation and Prevention
+produced during that time emphasized on 'safety checking', as an accident prevention mechanism.
+The widespread growth in the use of road safety audits has been helped by two facts namely, the
+concern with improving road safety and the application of quality assurance principles to road
+projects. The road safety audit is a snapshot in time that checks to see
+if the quality is being
+implemented. Many countries have formulated comprehensive strategies to reduce crash toll,
+which in turn have identified safety audits as a part of overall strategic approach.
+2.4
+Why Road Safety Audit?
+Road safety audit must assess projects on the basis of road user knowledge, attributes and
+skills, day/night and wet and dry road conditions. Safety audit is only a study of safety aspects
+and an auditor may indicate road safety problems inherent in designs that conform to our road
+standards. This is due to the fact that our road standards are an expression of a socio-economic
+balance between road safety, accessibility, environment and economy.
+The goal of road safety audit is to ensure that all new road projects
+- and major operating and
+maintenance activities on existing roads - are assessed from the standpoint of road safety, so
+that any parameters of the project that are unsuitable from the standpoint of road safety are
+7
+
+IRC:SP:88-2010
+corrected in time. The benefits of conducting road safety audit are that:
+•
+The likelihood of accidents on the road network can be reduced,
+•
+The severity of accidents can be reduced,
+•
+Road safety is given greater prominence in the minds of road designers and
+traffic engineers,
+•
+The need for costly remedial work is reduced, and
+•
+The total cost of a project to the community, including accidents, disruption and
+trauma, is minimized.
+The cost of road safety audit and the consequent cost of changing a design are significantly less
+than the cost of remedial treatments after works are constructed.
+It
+is easier to change the
+lines/alignment or so on a plan than to move concrete structures. With less remedial work
+included
+in a highway authority's works programme, budgets can be kept down or the same
+money can be utilized more effectively.
+2.5
+Road Safety Audit
+: What is Done and Not Done
+ROAD SAFETY AUDIT IS
+:
+a)
+Minimizing the likelihood of crashes occurring through safety-conscious
+planning and design;
+b)
+Ensuring that,
+if a crash occurs, then the likelihood of the injury is minimized
+(such as provision of anti-skid surfacing and crash barriers);
+c)
+Ensuring that safety related design criteria (e.g. critical sight distances) have
+been met;
+d)
+Managing risks, such that the risk of major safety problems occurring is less
+than the risk of minor problems occurring;
+e)
+Reducing the whole-life cycle costs of a design (unsatisfactory designs are
+expensive to correct after they are built);
+f)
+Minimizing the risk of crashes on the adjacent road network (particularly at
+intersections) as well as on the new road scheme;
+g)
+Enhancing the importance and relevance of road safety engineering
+in
+highway design work and to enhance consideration for the safety of
+all
+categories of road users in all new and existing schemes.
+ROAD SAFETY AUDIT IS NOT
+:
+a)
+A way of assessing or rating a project as good or poor;
+b)
+A means of ranking or justifying one project against others in a works programme;
+c)
+A way of rating one option against another;
+8
+
+!RC:SP:88"2010
+d)
+An accident investigation;
+e)
+A redesign of a project;
+f)
+Something to be applied only to high cost projects or only to projects involving
+safety problems;
+g)
+The name you use to describe informal checks, inspections or consultations;
+h)
+An opportunity to raise subjective concerns.
+2.6
+Who Does The Safety Audit?
+To be effective, the safety audit needs to be carried out by specialists, who are independent of
+the design process.
+In this way auditors will be taking a fresh look at the project without the
+distraction of having been involved
+in their design. Road safety audit involves one set of
+professionals checking the work of other professionals. Crucial factor is that auditors should be
+independent and impartial. Road safety auditor must not question the justification for a project
+but must bring to light its consequences on road safety and endeavour to ensure that the project
+as presented in the brief is as safe as possible. Auditors need to be objective in their assessments,
+yet sensitive to the fact that no one likes criticism. Designers and clients need to consider audit
+recommendations objectively as brought out from the audit outcome.
+Expertise and experience in road safety engineering are the essential ingredients in any road
+safety audit team. This should be linked to an understanding of:
+•
+Traffic engineering and traffic management, and
+•
+Road design and road construction techniques
+A person who has an understanding of road user behaviour and human perception is also likely
+to be able to develop road safety audit skills. This understanding
+is
+in fact a desirable
+skill
+because of the interactive nature of road user behaviour with the road environment. An audit
+team leader must not only have knowledge and skills in road safety engineering, but also should
+have received training and participated
+in a number of audits.
+It
+is expected that the safety
+auditors
+will apply due diligence
+in
+identifying the deficiencies and evolving audit
+recommendations which should be supported with reasons.
+The Authority, which engage safety auditors should ensure that the team leader has:
+•
+Adequate road safety engineering experience for the stage of the audit,
+•
+Successfully completed a recognised audit training course,
+•
+At least five years experience in a relevant road design, road construction or
+traffic engineering field, and
+•
+Undertaken at least three road safety audits including design stage, etc.
+It is not practical or necessary to have a multi-member team conducting an audit. An audit of a
+low budget project, a road safety audit by more than two persons may not be justified. For large
+projects, three persons are needed where as for small projects two persons will be required.
+9
+
+IRC:SP:88-2010
+2.7
+Organisations Involved In Road Safety Audit
+Road Safety Audit is based on the principle of an independent review. Road safety audit process
+reveals that three parties will be involved in this process - Client, Designer and Auditor. For the
+Public Private Partnership projects (PPP) the
+client would be both the Govt, and the
+Concessionaire with their respective obligations as provided
+in the Concession Agreement.
+One fundamental idea is that disagreements between the designer and the auditor are resolved
+not by the designer but by the client. So
+it is an interaction between different parties, whose roles
+are predefined at specific stages. In India, for large and small projects client may be National
+Highways Authority of India (NHAI)/Ministry of Road Transport and Highways/concerned Public
+Works Departments (PWD). Designer may be one consultant and Auditor may be another
+consultant. Sometimes design may be done by the design section of concerned client. Here the
+client and the designer are same. In such cases, some other divisions of concerned highway/
+road authorities could carry out the task of auditing. Main functions of the key stages in road
+safety audit are shown in Table 2.1
+. In case of PMGSY projects of road connectivity to villages
+and other rural habitations, the National Rural Roads Development Agency (NRRDA) and the
+State Rural Roads Development Agency (SRRDA) at the State level would be concerned. Their
+State technical agencies would need to be sensitized to check the estimate, alignment, etc.,
+from safety angle also, keeping in view the constraints of the availability of land. For roads in
+urban areas, the client may be local urban bodies, municipal corporations, urban development
+authorities etc.
+2.7.1
+Role of designer
+Designer is responsible for planning/designing the project. Designer bears the responsibility for
+ensuring that a road safety audit is conducted and that the necessary measures are agreed on
+the basis of the auditor's recommendations and / or the client's decisions. The designer is also
+responsible for ensuring that the audit input information is unambiguously defined and that all
+circumstances are described in an easily understandable manner. For existing roads,
+it is the
+responsibility of operating organisation of the relevant highway authority which requests the auditor
+to prepare accident analysis of the project and which arranges for the road operator to be notified
+about the results of the audit. The project manager, or design engineer should be responsible for
+initiating the safety audit process for each scheme and for responding to the audit. The role of the
+designer is thus to:
+•
+Attend commencement and completion meetings.
+•
+Bring out the action proposed
+in response to the audit report and
+its
+recommendations and to document these proposed actions.
+•
+Implement the decisions given by the client on the proposed action by
+amending the original design
+•
+Feed the experience back into the designer's organization and to avoid similar
+design problems recurring.
+10
+
+!RC:SP:88~2010
+Table 2.1 Main Functions of the Key Players in Road Safety Audit
+Key Player
+Main Functions
+Project Owner
+(Govt, and/or
+Concessionaire)
+•
+Expresses a commitment to road safety
+•
+Provides funding and resources
+•
+Considers safety audits and reviews as an essential quality
+control requirement
+•
+Commissions audits and reviews at appropriate times
+•
+Selects road safety audit team
+•
+Facilitates the response to the recommendations of audits and
+reviews and arranges implementation of recommendations that
+are accepted
+•
+Attenus commencement ana completion meetings
+Design Team
+•
+Attends commencement and completion meetings
+•
+Provides relevant information to safety team
+•
+Acts upon and documents response to recommendations of
+audit
+Safety Audit Team
+•
+laeniiTies saiety issues in tne proposea aessgn
+•
+Makes constructive recommendations to enhance safety
+•
+Documents safety issues and recommendations
+•
+Holds commencement and completion meetings with the client
+and design team
+2.7.2
+Role of client
+Client is one who allots the project to the designer and owns the project. As the party responsible
+for the basic conditions of the project,
+it is the task of the client to decide in cases where the
+designer and auditor disagree. Disagreements are presented to the client who conveys its decision
+to the designer and the auditor. Road operator assumes this responsibility in case of existing
+roads. The client should be responsible for ensuring that clear terms of reference are laid down
+to cover the whole range and scope of audit and for commissioning audits at appropriate stages.
+The role of the client is thus to:
+•
+Select an appropriate auditor,
+•
+Provide all the relevant and necessary documents, and
+•
+Hold a commencement meeting with the auditor and the client.
+2.7.3
+Role of auditor
+Auditor's responsibility is to carefully review the presented project material in its entirety, in the
+light of best road safety expertise and from the viewpoints of all relevant road users. Auditor also
+11
+
+!RC:SP:88=2010
+indicates all circumstances that cause misgivings conceming road safety. Persons designated
+as Road Safety Auditors work with, and have experience of, road accident analyses and road
+accident reduction. Auditors must be familiar with road planning, design and construction work
+and must undertake to keep their expertise up-to-date.
+Auditors should comply with the terms of reference. They should comment only on the safety
+implications of schemes and provide constructive recommendations as to how any potential
+difficulties can be resolved. The role of the auditor is thus to:
+•
+Review all the documents and audit the drawings and designs,
+•
+Inspect the site (including during night time),
+•
+Repeat these two steps,
+•
+Prepare a report,
+•
+Hold a completion meeting with the designer or client or both,
+•
+Participate
+in the meeting organized by the
+client sequel
+to designers
+reactions in the Auditor's Report.
+2.8
+What Type of Projects should be Audited?
+Road safety audits are applicable to all types of road projects and to all categories of roads in
+both urban and non-urban areas. Road safety audits can be conducted on road projects as
+diverse as:
+•
+Expressways,
+•
+Major four-laning and multi-laning projects,
+•
+Reconstruction and realignment projects,
+•
+Intersection projects both signalised and non-signalised
+•
+Pedestrian and bicycle routes,
+•
+Rural roads providing access to villages/habitations
+•
+Access roads near project roads,
+•
+Local area traffic management schemes in urban areas
+•
+Accident reduction schemes,
+•
+Traffic calming measures through built-up areas
+•
+Approaches to bridges, rail over/under bridges
+•
+Grade separators and interchanges
+Some road authorities require a percentage of design projects on major roads to be audited.
+Others require all projects, or a percentage of projects, above a set value to be audited.
+It is unrealistic
+to audit all projects at all possible design stages. When deciding which projects should be audited
+12
+
+IRC:SP:88-2010
+ahead of any other, the effective allocation of resources should be a deciding factor. Choose a
+range of project sizes and seek to audit them earlier rather than later. Audits can also be conducted
+on projects, which are 'off-road', but which affect nearby roads or create off-road areas, which
+effectively operate like roads. Audits would also prove useful in rural roads being constructed under
+the PMGSY and other state government programmes for the reasons that due to policy of land
+contribution by the community, situations could arise in some stretches where geometries are
+compromised. However, safety audit in respect of such roads should be simplified but process
+should be effective. Chapter 7 describes the essential elements of such a process along with
+safety aspects that may be considered by the road agencies in design stage itself.
+For some schemes
+it may be possible to omit or combine stages. For example, PPR and DPR
+stages can be combined for smaller improvements, or for traffic management, feasibility and
+PPR stages can be combined. Table 2.3 sets guidelines for organizing the road safety audit
+system. There
+is need for post delivering monitoring of RSA after
+its recommendations are
+implemented. This would provide feedback for its effectiveness.
+Table 2.3 Guidelines for Organizing RSA at Different Stages of the Project
+SI.
+No
+Scheme Type
+F
+PPR
+F+
+PPR
+DPR
+PPR+
+DPR
+During
+Const.
+Pre-
+Opening
+1)
+Major Road Schemes
+*
+*
+*
+*
+2)
+Major Rehabilitation Schemes
+*
+*
+*
+3)
+Minor Road Schemes
+*
+*
+4)
+Traffic Management Schemes/
+Traffic Calming
+*
+*
+5)
+Accident Remedial Schemes
+*
+6)
+Major Maintenance Schemes
+*
+*
+7)
+Major Development Schemes
+*
+*
+*
+*
+8)
+Minor Development Schemes
+*
+*
+9)
+Temporary Traffic Management
+of Major Schemes
+*
+*
+Source: MORTH Manual For Safety in Road Design (1998)
+F=Feasibility; PPR = Preliminary Project Report; DPR = Detailed Project Report
+2.9
+Ways of Organising a Road Safety Audit
+There are many ways of organizing a road safety audit. However, the two essential attributes of
+road safety auditor are that the person should be skilled and independent. Practically, two options
+are there for conducting a road safety audit:
+•
+Audit by specialist auditors,
+•
+Audit by those within the original design team or by other road designers.
+13
+
+IRC:SP:88-2010
+In case of audit by specialist auditors, team needs to be a separate entity from the normal road
+design functions of an organisation and team members should not, except for the purpose of an
+audit, be involved with the design of the project. There needs to be a clear understanding, prior to
+commencement of an audit, about how the audit findings and recommendations will be dealt
+with. Someone has to consider the safety recommendations and resolve the inevitable
+trade-offs i.e., project cost, road capacity, likelihood of severity of accidents, etc. In every case
+where an audit recommendation is rejected, the reasons must be stated and documented. Other
+ways of dealing with audit recommendations can include:
+•
+A requirement that each recommendation must be formally considered by the
+client with a view to its acceptance in a normal course and the work cannot
+proceed to the next stage until formal written approval has been issued by the
+client based on the recommendations of the audit team.
+•
+The audit recommendations are considered by the designers, or by the project
+manager. This has the risk that the safety concerns may be rationalized away,
+in the atmosphere of keeping the project moving with minimal changes.
+Instead of using specialist auditors, another designer or design team could undertake the audit.
+This approach may be applicable in organisations, which have sufficient road design work to
+have two or more separate design teams. This separation provides a level of independence. But
+this arrangement does not provide for the one essential ingredient in any road safety audit
+experience in road safety engineering. Using auditors from within the same organisation also
+has
+its limitations.
+It may be considered that the original designer can audit his or her own
+designs, on the basis that this
+is better than nothing. However,
+this option does not meet
+requirement of independence. Experience shows that no matter how concerned a designer or
+design team is about road safety,
+it is almost inevitable that they will be too close to the issues in
+the design to apply the 'fresh pair of eyes' needed to inquire into design policies, approaches or
+details. A more effective way to organize a road safety audit is to engage specialist auditor(s)
+who is(are) independent and possess requisite road safety engineering skills and experience.
+The independence of the RSA Team is vital to ensure that the design team does not influence the
+recommendations of the Safety Audit and, therefore, compromise safety at the expense of other
+issues. This, however, does not mean that there should not be any interaction between the
+Design Team and the Safety Auditors. A meeting between Safety Auditors at the start and at the
+end of the audit process would be useful and Safety Auditors could be asked to provide advice
+on safety issues during the design. However, the independence of the Audit Team is critical and
+should not be compromised.
+2.10
+Road Safety Auditors and Key Personnel in RSA
+2.10.1
+Qualifications and background
+A road safety audit is performed by an individual or team with expertise in one or more areas of
+road safety. Typical backgrounds include traffic or transportation engineering, highway design
+and construction, crash investigation and analysis and human factors/road-user behaviour.
+14
+
+IRC:SP:88-2010
+While
+it is not always feasible or practical to use a team in conducting audits,
+it is very important
+that auditors possess an understanding of traffic engineering and road design techniques and
+have some experience
+in crash
+investigation. An understanding of human factors
+is also
+important, because of the strong interaction between road users and road environment.
+The desirable qualifications and background of the auditors at different stages of the Road Safety
+Audit are as under:
+a)
+For Feasibility and Preliminary Project Report (PPR) Stages
+•
+Road Safety Specialist with experience in accident investigation, safety
+management, safety engineering principles and assessment of
+potential user risks;
+•
+Road Design Engineer with familiarity in geometric design standards;
+•
+Person with Safety Audit Experience and/or with specialist knowledge
+of any aspect of proposal and who can generate discussion.
+b)
+For Detailed Project Report (DPR) Stage
+In addition to the safety specialist person with specialist skills as
+in DPR,
+depending on the type of the scheme; e.g., experience in traffic signal control
+of facilities for Vulnerable Road Users (VRU), experience in geometric design
+standards, traffic control devices etc.
+c)
+For Pre-opening Stage and In-service Roads
+Additional representatives are recommended, e.g.,
+•
+Police Officer experienced in regulation of traffic;
+•
+Engineer who will be responsible for maintenance of the scheme with
+experience of similar roads; and
+•
+Person familiar with road user needs for schemes which are particularly
+relevant for VRU.
+d)
+For Smaller Schemes
+Two persons with safety and traffic engineering specialization.
+2.10.2
+Size of RSA team
+The most appropriate size of an audit team depends on the size of the audit task; there is no
+optimum number of members in a team. Teams of more than four persons, at times, can be
+unmanageable. Major projects require at least two persons. Experienced auditors often discourage
+one-man teams.
+Experience has shown that two persons carrying out a Safety Audit will identify more potential
+safety issues than a single Safety Auditor. In many cases, the Senior Auditor will be the Team
+15
+
+IRC:SP:88-2010
+Leader with the second person being a team member. Ideally,
+it is desirable to have a team of
+individuals rather than a single auditor for the following reasons:
+a)
+Diverse backgrounds and different approaches of different experts are
+beneficial.
+b)
+The cross-fertilization of ideas that can result from discussions is helpful.
+c)
+More than one "pair of eyes" can be an advantage
+Therefore,
+it is recommended that a Safety Audit Team should comprise normally two persons
+who are independent of the team, involved in project design or construction.
+2.1 0.3
+Training of auditors and training content
+Training in the audit process must be recognized, as vital,
+if the road safety audit is to retain
+credibility as a powerful road safety engineering tool. Training of Road Safety Auditors is essential
+and any Audit Team member should have attended recognized road safety engineering and
+Safety Audit training courses. The situation in India, at present, is that there is no formal qualification
+in Safety Audit or Road Safety Engineering.
+It is possible for staff with very little safety engineering
+experience to produce audits that are at best a check on design standards. In the initial stages of
+introduction of safety audit for road projects, the safety audit inputs may be provided by research/
+academic institutions. Three groups of individuals need specific RSA training:
+•
+Those who need awareness
+of the process
+(typically road safety
+professionals, senior managers);
+•
+Those who are to understand the audits; and
+•
+Those who are to use and respond to the audit outcomes (typically project
+managers).
+The minimum requirements of road safety audit training course should be:
+•
+Thedefinitionof an RSAandwhy itisneeded?
+•
+How road safety audit is applied and managed?
+•
+How to present an audit report, and how to respond to an audit report;
+•
+Geometric Design
+Principles, Traffic Control Devices,
+Intersections and
+Interchange Design
+•
+At least one
+real-life case study, preferably a design stage audit or a
+pre-opening stage audit.
+•
+Road Safety Engineering and Principles of Traffic Flow
+Other associated and preferable training in the following topics should be encouraged:
+•
+Black-spot investigations
+•
+Road side hazards and the use of crash barriers
+16
+
+IRC:SP:88-2010
+•
+Road work sites
+•
+Risk assessment/management
+•
+Tlie preparation of response action reports.
+It may be mentioned tliat the Transit New Zealand has a training process whereby a potential
+auditor
+is
+first an observer on an audit team, then a team member on a group led by an
+experienced auditor and eventually moves to a team leader position. This is interpreted as an
+informal accreditation process.
+2.11
+Success Factors
+It is understandable that some design engineers may perceive safety audits as unnecessary
+check on design skills. The success of the road safety audit process depends on trust and
+commitment from all parties. Audits identify deficiencies and could be viewed as threat to road
+designers.
+It is critical that the focus be on the process and audit report not be viewed as criticism
+of the project design. A designer may have legitimate reasons for making decisions that consider
+factors other than safety in the proposed design and the compromise could be identified in the
+audit. Factors influencing a decision would be identified in a response to the safety audit. Since
+a structured safety audit can usefully identify potential problems and make recommendations for
+alleviating them, a safety audit, as such, should be regarded as an aid to design of safer roads.
+2.12
+Costs and Benefits
+Due to infancy of the road safety audit process, there is only limited documented information on
+costs and benefits. Evidence to date indicates that auditing a large-scale new project (requiring
+audit at various stages) will add about 4 to 6 percent (total) to the road design costs. As design
+costs can be in the order of 2 to 3 percent of total implementation costs for projects, the increase
+in total project costs is insignificant. The cost of rectifying any inadequacies depends on how
+early in the design process they are identified and the consequent amount of redundant design
+time.
+•
+An evaluation study, (Schelling,
+1 995) which involved a cost-benefit analysis of
+1 3 projects in Denmark that had been subject to road safety audit, gave a first
+year rate of return of 146 percent.
+•
+A study in the Middle East, which considered a number of projects that were
+not subject to road safety audit but developed problems soon
+after
+construction, concluded that road safety audit would have provided a first year
+rate of return of 120 percent. (Al Masaeid, 1998)
+•
+One British road safety expert (Sabey,
+1 993) has reported that the systematic
+application of road safety audit procedures (including audit of existing roads)
+across
+Britain has the potential to give a 3 percent saving
+in casualty
+accidents.
+17
+
+IRC:SP:88-2010
+The benefits of road safety audit are numerous. They range from the more obvious direct
+improvements in a design to aspects as broad as enhancement of corporate safety policies.
+Other important benefits are:
+Safer roads through accident prevention and accident severity reduction.
+More explicit consideration of the safety needs of vulnerable road users.
+Enhancement of road safety engineering.
+Reduced whole life-costs of road schemes.
+Eliminating or avoiding need to modify new schemes after they are built.
+Incorporating safety parameters in standards and procedures.
+There are clear, positive benefits from the road safety audit process. The cost of an audit is low
+(in the order of 0.1 percent of the total project cost). With such low costs and potential for high
+returns, road safety audit is a process that should become a practice at all levels of governments.
+3 STAGES OF ROAD SAFETY AUDIT
+Safety Audit can be applied on (a) new roads and (b) existing roads. On new roads, safety audit
+will lead to avoiding building accident-prone situations and on existing roads, audit will lead to
+improved roads from the safety point of view.
+It should be realized that safety audits are a necessary
+cost, and not an additional expense. As project is audited,
+it provides further scope to improve/
+enhance safety. In projects where there is a choice of route or standards, or there are known
+safety problems, the designer should discuss these with auditors at the initial stage. The safety
+audit shall be carried out on road and traffic improvement projects. Safety audit during construction
+stage is a new concept and no country has developed any checklists for carrying road safety
+audit during construction stage.
+a)
+New Construction
+During Feasibility Study
+During Preliminary Design
+Completion of Detailed Design
+During Construction Stage
+^
+Completion of Construction (Pre-opening)
+b)
+Existing Roads
+On Existing Roads (Monitoring)
+Stage
+1 Audit
+Stage 2 Audit
+Stage 3 Audit
+Stage 4 Audit
+Stage 5 Audit
+Monitoring
+3.1
+Stage 1 Audit (During Feasibility Study)
+Stage 1
+is recommended for major schemes, including in urban areas, in order to influence route
+choice, alignment selection, standards, impact on and continuity with the existing network, junction
+provision, possible hazards from roadside development etc. Reviews of initial project/planning
+18
+
+IRC:SP:88"2010
+study. Important subjects for assessment at this stage will include:
+Choice of route options
+Alignment and ease of achieving design standards
+Standards and cross-section
+Effects on existing network
+Number of junctions, their types, etc.
+Possible hazards from roadside development
+The road safety auditor should not question on planning information or reassess matters of
+strategy. Auditor should only concern himself with the presented planning information. Steps
+involved in Stage
+1 Audit are given in Fig. 3.1.
+Stage 1 Audit
+Analysis of Data
+Preparation of Road/
+Bridge Inventory
+Information
+EIRR check for
+viability of Project
+Submission
+of
+Feasibility Report for
+Approval
+For Existing
+Roads
+For New
+Roads
+Stage 2 Audit
+Selection of Design
+Standards
+Layout of Alternative
+Alignments
+Layout of
+Interchanges,
+Junctions,
+etc.
+Preparation of Road/
+Bridge Inventory
+Information
+Preparation of
+Pavement Charts
+EIRR check for
+Viability of Project
+Submission
+of
+Feasibility Report for
+Approval
+EIRR:
+Economic Internal Rate of Return
+Fig. 3.1 Steps Involved in Stage
+1 Audit
+19
+
+!RC:SP:88-2010
+3.2
+Stage 2 Audit (Completion of Preliminary Design)
+Stage 2 is recommended on completion of preliminary design, to assess horizontal and vertical
+alignments, sight lines and layout of junctions including slip roads and lay-byes. After this stage,
+land acquisition may be taken up.
+Examination when preliminary design is completed i.e., where the alignment has largely been
+decided, but can
+still be modified before approval. Important subjects for assessment at this
+stage are:
+•
+Project changes since Stage
+1 Audit
+•
+Alignment
+®
+Cross-section
+•
+Arrangement of Junctions
+•
+Any Interim Measures
+All groups of road users, including those who have special needs and users of the adjoining
+areas, should be taken into consideration.
+If there is any risk of special road safety problem
+occuring during the construction phase, the risk must be assessed. Steps involved in Stage 2
+Audit are given in Fig. 3.2.
+Stage 2 Audit
+Obtain Data Required for
+Detailed Design
+Detailed Design of all
+Elements
+Obtain Additional Data for
+Preparation of Final Drawings
+Preparation of Land Plans for
+Land Acquisition*
+Submission of all Drawings
+and Details relating to Road
+and Bridge Works
+t
+Stage 3 Audit
+* Land acquisition is required for new
+roads and sometimes for existing
+roads also
+if alignment changes or
+widening of road
+is involved.
+Fig. 3.2 Steps Involved In Stage 2 Audit
+20
+
+!RC:SP:88-2010
+3.3
+Stage 3 Audit (Completion of Detailed Design)
+Stage 3 is recommended on completion of detailed design and before preparation of contract
+documents, to assess detailed junction layout, markings, signs, signals, lighting details, etc.
+Examination when detailed design is completed and the limits of expropriation have been set,
+but before the tender documents are prepared and tenders are
+invited.
+Vital subjects for
+assessment at this stage are:
+•
+Project changes since Stage 2 Audit
+•
+Detail Design of junctions
+•
+Design of geometries
+•
+Cross-fall
+•
+Markings and Signs
+•
+Side drains
+•
+Embankment slopes
+•
+Presence of clear zone
+•
+Traffic Signals
+•
+Lighting
+•
+Interim Measures
+Tender documents must not be issued to bidders until auditing at this stage has been completed
+and all agreed changes have been incorporated in the project documents. Steps involved
+in
+Stage 3 Audit are given in Fig. 3.3.
+3.4
+Stage 4 Audit (During Construction Stage)
+Construction zone is that area of the road which is affected by the works and which affects traffic
+flow and safety of workers and road users. In this context
+it can also be called Traffic Control
+Zone'.
+In
+rural areas, problem at these zones
+is accentuated by the reduced availability of
+carriageway, acquisition of land for diversions, etc. In urban areas, the problems are even more
+acute as diversions may have to be over adjacent road street of the road network as well as the
+sharing of road space by different categories of road users. Traffic control zone can be divided
+into three major components i.e.. Advance Warning Zone, Transition Zone and Work Zone. Manual
+on Traffic Management at Construction Zones is published by the Indian Roads Congress as
+IRC:SP:55 should be referred to. Steps involved in Stage 4 Audit are given in Fig. 3.4.
+•
+Examination of Terminal Transition Zone, Work Zone, Approach Transition Zone
+and Advance Warning Zone with respect to safety point of view.
+•
+Examination of safety measures adopted for workmen and road users.
+•
+Examination of traffic control devices adopted at construction zone.
+21
+
+IRC:SP:88-2010
+Stage 3 Audit
+Check and Propose Amendments
+in Road Design
+Final Decision from Client and
+Amendments According to Client Decision
+Revised BOQ and Estimate of
+Project Cost
+Approved Plans
+Submission of Final Detailed
+Store Data
+Designs to Authorities
+Invitation of Tenders
+Stage 4 Audit
+Fig. 3.3 Steps Involved in Stage 3 Audit
+Stage 4 Audit
+Terminal Transition Zone, Work Zone, Approach
+Transition Zone and Advance Warning Zone
+Safety of Workmen and Safety of
+Road Users
+Application of Traffic Control
+Devices and other Safety measures
+Any other parameter noticed which can
+enhance safety
+Fig. 3.4 Steps Involved in Stage 4 Audits
+22
+
+IRC:SP:88"2010
+Motorists need to know about safe driving requirements in construction zones. Major problems
+in work zones are attentiveness and speed.
+It
+is necessary to help the drivers to be more
+attentive by using signages, rumble strips and any thing that brings alertness and gets them to
+realize that there is something different about this stretch of road and there would be lower speed
+limits in the work zones. Work zone safety measures should be aggressive and comprehensive.
+It should include public service announcements, safety training for workers in work zones, lower
+speed limits in work zones, rumble strips and other speed reducing measures, proper signages,
+flagman to control and guide traffic, stepped-up enforcement.
+3.5
+Stage 5 Audit (Completion of Construction) (Pre-opening)
+Stage 5 is recommended immediately prior to opening of scheme, involving the site staff and
+local traffic police in car and truck. This should take the form of driving and when appropriate,
+walking and/or cycling the new route. This is checked during night time also to ensure that required
+night time safety standards have been achieved.
+•
+A final review of the finished construction, to check from the standpoint of road
+safety that
+it is ready to be opened for traffic.
+It is particularly important to check
+the location and
+visibility of markings and other
+traffic control devices
+especially where changes were made during the construction period. The
+finished scheme should be assessed from the road users' point of view
+in
+daylight and in darkness.
+•
+After opening for one or two months, the auditor should examine whether or not
+road users are using the project facility in an appropriate manner.
+Many schemes are constructed with the road open to traffic throughout the entire construction
+phase. When there is no question of an actual opening for traffic, an overall examination is to be
+carried out to audit whether the markings and
+all
+traffic control devices are
+in place. This
+examination is to be carried out by the auditor independently in the first instance and thereafter
+along with the Project Manager of the Contractor. Steps involved
+in Stage 5 Audit are given
+in Fig. 3.5.
+Stage 5 Audit
+Check for visibility and effectiveness
+of all traffic control devices
+Final review of finished construction
+i
+Project Completion and Pre-opening
+Fig. 3.5 Steps Involved in Stage 5 Audit
+23
+
+IRC:SP:88-2010
+3.6
+Stage 6 Audit-Audit on Existing Roads and During Operation and
+Maintenence of Concession Projects
+Safety Audit methodology is also successful on existing roads which includes both Operation
+and Maintenance (O&M) of existing roads. The existing roads represent the present condition of
+the road after completion of construction as well as any hazardous conditions that may have
+been created during its lifetime such as encroachments, ribbon development or deterioration of
+road conditions as well as traffic conditions, etc.
+An analysis of any accident data and inspection of the scheme every year, with a view to
+determine whether or not road users use the scheme appropriately. Subjects for monitoring
+include:
+a)
+Does the prevailing speed correspond to the design speed?
+b)
+Are the visibility and sight distance criteria still satisfied?
+c)
+Have any changes been made which could affect road safety?
+d)
+For carriageway and paved shoulders examine things
+like any breach or
+blockade, roughness value, pot holes, cracking, rutting, skidding, damage to
+pavement, edge drop at shoulders.
+e)
+Check the roadside furniture including road signs and markings damage to
+their shape or position, loss of retro-reflectivity
+f)
+Street lighting and Highway Traffic Management System (HTMS)
+g)
+Rest areas - cleaning, defects in electrical, water and sanitary installations.
+h)
+Bridges - super structure, foundations, bearings, joints, etc.
+3.7
+What are tlie Safety Issues to be Focused in Different Stages of thie Project?
+There are at least four distinct phases at which a road safety audit may be conducted. Only
+experience with the process will enable one to determine how and when the audits should occur.
+At different stages of the project, the safety issues focused will be different as these are not the
+same at all stages. Table 3.1 details the safety issues that need to be focused at different stages
+of the project. On the various highway upgradation programmes being carried out in India,
+it is
+suggested that road safety audit be carried out at RPR, DPR and Pre-opening stages.
+It is to be
+recognized that safety audits at DPR stage in case of EPC contracts and development stage in
+case of BOT contracts would be most advantageous to all key players in the sector.
+3.B
+What are the Data Requirements for RSA?
+The database for conducting an audit should include plans and drawings; site information, such
+as detailed crash history and traffic volumes; design standards that have been used; environmental
+effects; and on-site evaluations, which examine a location from the perspective of the road users
+(motorists, drivers of buses and trucks, pedestrians, or bicyclists). The RSA must encompass a
+review of
+all types of movements, special needs of the elderly and disabled, weather and
+environmental problems.
+24
+
+IRC:SP:88-2010
+Table 3.1 Safety Focus in Different Stages of the Project
+Stage of the Project
+Focus of the Audit
+Feasibility
+Safety issues associated with options such as route locations,
+fixing
+design speeds and standards, impact on adjacent network, provision
+of fixing intersections and interchanges, access control, number of
+lanes, traffic control, functionality, future needs.
+Preliminary Project
+Report (PPR)
+Evaluation
+of general design standards, alignment,
+sight distance
+and
+lines
+of sight,
+layout
+of intersections, grade separators and
+interchanges, lanes and shoulder widths, cross-slopes and super
+elevation, provision for cycles, pedestrians, emergency vehicles, bus
+bays, truck laybyes, rest areas, parking, etc, provision of traffic control
+devices, safety during construction.
+Detailed Project
+Report (DPR)
+Examining safety issues
+of specific geometric design features,
+traffic control devices,
+delineators, roadside clear zones, detailed
+design of intersections, interchanges, grade separators, glare concerns
+and lighting, safety issues related to landscaping, provision for special
+road users like elderly, school children, persons with disabilities, buses,
+equestrian,
+rail roads, heavy trucks, etc.
+• Construction sites
+• During
+Construction
+Examining the maintenance
+of existing lanes during construction,
+ensuring safe and smooth flow of
+traffic, safety of
+all road users,
+construction workers, required road signs, markings and other traffic
+control devices, lighting at work zones.
+Pre-opening
+Final check prior to opening the facility to ensure that the safety concerns
+of
+all road users have been addressed and that there are no apparent
+hazardous conditions. The Audit team needs to actually travel both during
+the day and the night on a bus, on a truck as well as a car. Should include
+day/night checks; evaluation considering dry/wet weather; and driving/
+riding and walking.
+On existing Roads
+and during O&M
+of concessions
+An
+audit
+of existing roadway to determine,
+if the
+safety needs of all
+road users are currently being served.
+It recognizes that a roadway
+may change over time. Changes may have resulted from changing road
+use, encroachments, design inconsistency, ageing infrastructure and
+inadequate maintenance of road and traffic control devices and other
+measures. Points to be emphasized are adequacy of roadway, roadside
+and intersections, interchanges, grade separators, location of bus stops,
+truck laybyes,
+needs of VRU, access management.
+25
+
+IRC:SP:88-2010
+4 ROAD SAFETY AUDIT PROCESS
+4.1
+Audit of New Roadway Sections
+Road Safety Audit is a relatively straightforward process. For smaller projects some of the steps
+shown may be brief, but the sequence of the steps will still apply. Responsibility for the planning,
+design and construction
+of the project always remains with the road authority and the
+implementation team. On new roadway sections Stage
+1 Audit to Stage 5 Audit will be applied
+depending upon the stage of the project. The steps in the road safety audit process are illustrated
+in flow chart in Fig. 4.1
+. The details of each step of the flow chart should be adapted to suit the
+nature and scale of particular project.
+It is not the role of the road safety auditor to take over or
+redesign the project. The role of the auditor is to provide independent advice
+in the form of
+written recommendations. The designer and/or client then consider the advice and a formal
+The Steps
+Select the audit team
+Provide the background
+information
+i
+IHold a commencement
+meeting
+i
+Assess the documents
+Ke^onMhviCty of....
+Client or Designer
+Designer
+Client / Designer &
+Audit team
+Audit team
+Write the audit report
+t
+Inspect the site
+Hold a completion meeting
+t
+Write the response
+implement the decisions
+arrived at
+Audit team
+Audit team &
+Client / Designer
+Client & Designer
+Client & Designer
+Fig. 4.1 Steps Involved in Road Safety Audit Process
+26
+
+!RC:SP:88-2010
+decision is taken by the road authority on whether or not to adopt each of the safety measures
+recommended by the Audit Team. The key steps in a successful road safety audit are:
+a)
+Selecting an appropriate auditor and audit team
+b)
+Obtaining
+all the relevant background information and related documents
+covering plans, designs, etc.
+c)
+Conducting a site inspection.
+d)
+Providing a written report.
+To carry out safety audit on new roadway sections scheme/rehabilitation scheme, the following
+should be thoroughly cross-checked. The team should check planning, cross-sections,
+alignment, road side furniture and facilities available, junctions, facilities for road users, signs,
+markings and lighting and also road side hazards. The process is described in Sections 4.1 .1 to
+4.1 .9. Some of the important considerations in a road safety audit include:
+a)
+Alignment inconsistency
+- no unexpected sharp curves or steep grades.
+If
+unavoidable, such stretch should have proper road signages and speed
+management measures.
+b)
+Cross-sections must be consistent - no narrow sections.
+If unavoidable, they
+should be preceded with cautionary signs.
+c)
+Hardshouldersof required width.
+d)
+Proper super elevation and extra widening (on curves).
+e)
+Side slopes and side drains.
+f)
+Signages on curves and other difficult sections.
+g)
+Signages and safety barriers at hazardous locations.
+h)
+Footways, parking areas and service roads in towns.
+i)
+Layout and design of intersections, interchanges, grade separators.
+j)
+Provision of lay-byes at bus stops and important truck stops.
+k)
+Road signs, pavement markings, other Traffic Control Devices, roadside
+furniture and crash barriers.
+I)
+Guard rails, crash barriers on bridges and in medians on multilane highways.
+m)
+Marking of overtaking sections and treatment of sections with deficient sight
+distance and substandard horizontal curves.
+4.1 .1
+Selecting road safety audit team
+Objective: To select an audit team whiichi is independent, hias appropriate skills for the
+particular project and would exercise due diligence in preparing the Audit Report.
+The audit team may comprise of two members for small projects and three members for large
+projects. One of the team members should be nominated as Road Safety Audit Manager.
+27
+
+IRC:SP:88-2010
+Where specific additional skills are required in case of complex projects, a specialist can be
+invited to be part of the audit team for a limited time to provide advice on the relevant issues. The
+one essential ingredient in any road safety audit team is road safety engineering experience.
+Selection of audit team for different stages of audit is presented in Section 2.1 0. The audit team
+should fulfill the following checklists:
+a)
+Is the auditor independent? - Can he/she apply 'fresh eyes' to the task?
+b)
+Is the auditor trained and/ or experienced?
+- At least attended a training
+workshop and worked on a previous audit.
+c)
+Has the auditor got the necessary
+skills
+in the areas of road safety
+engineering,
+traffic engineering,
+traffic management, road design and
+accident investigation and prevention?
+d)
+Does the auditor have an aptitude for the task?
+- To see potential safety
+problems from different road users' points of view.
+4.1 .2
+Enhancing availability of skilled personnel for road safety audit
+The Audit Team should associate one person to get groomed in Road Safety Audit work under
+orders of Auditor/Employer.
+4.1 .3
+Providing Tfie background information
+Objective: To provide tfie audit team with thie necessary information and documents for
+assessment of the project from safety point of view
+The client should arrange to provide all the necessary information and documents in a usable
+form for the audit team. This should not be left to the audit team to do. Information will include
+project reports, design details, data, drawings, etc.
+It may be necessary to collect additional
+information, such as traffic volumes, vehicular speed, etc. This should be considered early enough
+to avoid delays to the road safety audit process. As a minimum, the audit team is to be provided
+with the following documents
+:
+a)
+Statement of the Expected Outcome
+The client should provide the auditor with the expected outcome from the audit.
+This may require a written brief or a simple TOR (Terms of Reference) for the
+proposed audit of the project.
+b)
+Project intent
+This sets out the purpose of the project and the design standards adopted. The
+client may highlight, any deficiencies that need to be addressed, any design
+compromises that have been made and the reasons and any community input
+from prior discussion, correspondence and consultations.
+28
+
+IRC:SP:88-2010
+c)
+Site Data
+1)
+A
+'II'
+'Ix
+a.'
+If
+L
+'
+Accident history, including penod, type, time and frequency to assist
+with site inspection.
+2)
+Classified Traffic volume counts as available
+3)
+Safetv issues which remain unresolved from orevious audits
+if anv
+^^^^A 1
+* y
+' ^^^^ w<
+V V
+1
+II
+III
+III
+I
+1
+\^ III
+1 w
+1
+1
+III
+1
+V
+1
+\^
+1 ^ VcT |
+II
+%^l
+1 y
+4)
+Design standards
+5)
+Environmental impacts
+6)
+Any other information relevant to safety enhancement
+Plans and Drawings
+1)
+All Drawings including the vertical and horizontal alignment and other
+relevant information, at that particular stage of the audit.
+2)
+Any plans of adjacent roads or land and its uses, which may be affected
+by the project or by the traffic changes,
+it may induce.
+3)
+If the engineering designs and drawings for different parts of the project
+have been prepared by different consultants or in-house teams of the
+client, a set of all such designs and drawings to be furnished.
+Zero date for commencement of Audit would be after these documents are provided to the Auditor.
+4.1.4
+Commencement meetings
+Objective: To acquaint thie auditor witli tiie badiground of the project, to hand over the
+relevant information and documents and also share with the designers and the client
+with the proposed audit process
+Holding a meeting between client, designer and auditor, provides the opportunity to explain to
+the audit team the project's purpose, any issues specific to the project and any particular problems
+which have been experienced in achieving planning, design or construction objectives. The audit
+team will not be able to inspect the site under all traffic or weather conditions, so
+if particular
+conditions are important, the auditors should be advised. The audit team's task is to identify and
+document any road safety concern and recommendations.
+4.1.5
+Assessing the documents
+Objective: To review the designs, drawings and other background information to form
+an opinion on the safety performance and accident potential of the road.
+This phase takes place at the same time as the site inspection, the documents being reviewed
+both before and after the site visit. Before inspecting the site, initially study the documents to
+record the first impressions:
+list possible issues to be checked on site. Plans and drawings,
+traffic and accident data and other information should be assessed.
+29
+
+!RC:SP:88-2010
+The audit team then identifies the areas, which are deficient in respect of safety or require further
+explanation from the designer using the checklists as required. The audit team should confine
+itself to relevant road safety aspects and consider the designer's compliance with engineering
+standards and guidelines.
+Safety does not come automatically by complying with the standards and guidelines. But they
+provide the road user with consistent treatments and they should be applied unless,
+in a
+particular situation, they are unlikely to result in a satisfactory level of safety performance.
+4.1 .6
+Inspecting the site
+Objective: To see how the project proposal interacts with its surroundings and nearby
+roads; to visualise potential impediments and conflicts for road users.
+This gives the audit team the opportunity to see how the project interacts with the surroundings
+and to visualise the potential obstacles and conflicts, which the road user is likely to encounter.
+Prior to the
+site inspection the team should review the proposed checklists. A night time
+inspection is also essential, except where road access is not yet available to the project site or to
+its connection points to the existing road system. The information available to road users can be
+markedly different at night time and
+it can be surprising what additional issues can be identified
+on a night time inspection, even where work has not yet commenced.
+The inspection should also include adjacent sections of road as
+it is at these locations that the
+greater hazards could occur:-
+•
+Road layouts and devices that operated safely can be changed once traffic
+volumes, speeds or movements have been altered.
+•
+Road users may be unaware that they must adjust their behaviour due to the
+new project, which often disrupts the existing traffic and pedestrian movement
+patterns.
+The audit teams site visit leads
+it to appreciate any future problems relating to the existing
+arrangement and to visualise the proposals and their possible effects. The inspection should be
+carried out from the point of view of all road user groups and not just motorists. The inspection for
+different user groups should include different types of movements such as crossing the road,
+entering the traffic flow as well as for travelling along the highway.
+4.1 .7
+Preparation of safety audit report
+Objective: To report on the findings of the audit team and to make appropriate
+recommendation, regarding how these deficiencies may be overcome.
+The report should contain the features of the project, deficiencies which involve hazards and
+make recommendations about corrective actions. The recommendations must reflect sound
+judgement of the audit team and should be backed with convincing reasons for appreciation by
+30
+
+IRC:SP:88-2010
+the decision makers. Further, these recommendations will indicate the directions rather than
+details of the solutions to improve safety. The responsibility for acceptance of the directions will
+rest with the client. On acceptance, the responsibility for detailing the solutions will rest with the
+designer.
+The report should be a concise, brief document setting out a summary of the measures to be
+taken, the reasoning behind recommendation of such measures and the items identified that
+require remedial measures/ treatment from the safety point of view. The recommendations should
+be numbered or identified in a way, which make them easy to refer to in the follow-up reports.
+Any safety issue, which is considered to be of sufficient concern to warrant immediate attention
+should be identified in the recommendations with the words 'FOR IMMEDIATE ATTENTION'
+and any safety problem, considered to have great potential danger should be identified as
+'IMPORTANT'. In line with the need to maintain good communication with the designer and the
+client, the audit team should share the draft Audit Report with them and endeavour to resolve any
+uncertainties or misunderstandings by talking with the designer before drawing conclusions.
+However, the audit team must maintain a position
+of independence while finalizing the
+recommendations and the Audit Report.
+Consistent with the scale of the project and subsequent scale of the audit, the report should be
+presented as under:
+Project Information
+-
+A report title which gives the name of the project and
+its extent, together with the stage of construction or
+development at which the audit is being undertaken.
+-
+A very brief description of the proposal with an
+overall plan.
+Background Information
+-
+A
+list of the supportive material which was made
+available, such as reports and plans
+-
+Names and particulars of the audit team
+-
+Information about when the audit team members
+visited the site and conducted their assessment
+-
+Recordsof Minutes of Meetings that the Audit Team
+had with the Client and the Designer(s)
+Findings and
+For each aspect of the project which was identified as
+Recommendations
+justifying attention for safety enhancement:
+-
+A brief statement of what deficiency was found by
+the audit team. This could be
+in the form
+of
+statements cross-referenced to annotated plans.
+Provide
+photographs
+where
+considered
+appropriate.
+31
+
+!RC:SP:88-2010
+-
+Recommendations proposed for corrective action.
+Formal Statement
+-
+A signed and dated statement by the audit team
+indicating that they have completed the audit together
+with a forwarding letter by the Auditor
+4.1.8
+Holding a completion meeting
+Objective: To discuss ttie recommendations for corrective action.
+This meeting
+will involve auditors,
+client, road authorities or the concessionaire and the
+designers to discuss recommendations in the report and should be conducted in a way that the
+independence of the auditor
+is maintained and respected. However,
+it
+is expected that the
+auditor shall defend
+his recommendations based on
+his findings.
+Financial and budget
+constraints may sometimes influence the decision on, whether the recommendations can be
+adopted. However,
+it is not auditors task to take these into consideration;
+it is the duty of client
+and designer.
+Efforts should be made to resolve misunderstandings
+if any, prior to the report being finalized.
+4.1 .9
+Responding to the audit report
+Objective: To deal witti audit recommendations in an effective manner; to decide wtiettier
+and tiow thie recommendations of ttie road safety audit should be implemented and,
+where it is decided otherwise, to give reasons in writing for the decision; to put agreed
+audit recommendations into effect.
+When audit report is received,
+it has to be acted upon so that safety is enhanced. A management
+and monitoring control system may be kept in place to keep the track of audits. The client would
+do well to respect the outcome of the safety audit. The objective
+is to deal with audit
+recommendations
+in an effective and objective manner; to decide whether and how the
+recommendations of the road safety audit should be implemented and, where
+it
+is decided
+otherwise,
+to record the reasons
+in writing
+for such a decision;
+to put agreed audit
+recommendations into effect.
+4.1.10
+Implementing the agreed recommendations
+Once the client has taken decision on the Audit Report and finalized the list of recommendations
+that are accepted and agreed, they need to be implemented. The designer has to develop
+design changes, which address the safety problems.
+If audit has been carried out at the
+pre-opening stage, the actions need to be implemented as soon as possible on site.
+If a serious
+problem is identified, temporary warning, delineation or other treatment may be needed until the
+agreed solution is implemented.
+As a way of gaining knowledge from audits, audited and unaudited design projects need to be
+monitored for about three years after they are
+built, to see whether accident problems are
+occurring and,
+if so, whether the problems were anticipated
+in an audit. This can provide
+32
+
+IRC:SP:88"2010
+valuable feedback to refine the audit procedures and
+skill enhancement of the members
+comprising the Audit Team and sensitize the Road Agencies to not only encourage the system of
+Road Safety Audits for their important projects but also to enhance implementation of the
+recommended measures.
+4.2
+Audit of Existing Roadway Sections
+The steps described in Section 4.1
+refer to new roadway sections. Existing road also can be
+audited to assess their accident potential.
+It provides a systematic way of being proactive in
+reducing the future likelihood of accidents. Audits of existing roads involve a similar approach to
+that for new road projects. The steps given in the flow chart in Fig. 4.1 should be followed, but the
+steps of inspecting the site and assessing the documents will vary. Accident records will be an
+important part of the information to be assessed, but they must be supplemented by informed
+judgements about the potential for other types of accidents. The aim is to identify any existing
+safety deficiencies of design, layout and road furniture, which are not consistent with the road's
+function and use. There should be consistency of standards such that the road user's perception
+of local conditions assists safe behaviour.
+For conducting safety audit on existing roadway sections field studies
+like road inventory,
+classified volume counts, speed survey and study of first information reports from police records
+are essential. Ideally audits of an authority's existing road network should be done on a regular
+basis.
+It may be several years between successive audits, but a rolling programme of audits
+should be developed which covers every road in the network. As the road is already built, the
+inspection plays an important role. As with a road safety audit of any type of project, the road
+should be inspected from the point of view of all the likely road user groups and not just motorists.
+The road should be inspected for each user group and for the different types of movement.
+Following completion of road, safety audit report for an existing road, the highway authority will
+need to make an assessment of the cost effectiveness of the recommended solutions. Some
+solutions may be in the nature of maintenance treatment and can be easily implemented. Some
+solutions may be expensive. In some cases lower cost options may be available and they may
+provide benefits only marginally less than the expensive option, in some cases, expensive option
+may be the only effective solution.
+It will also usually be necessary to set priorities for action on
+the road under review, as not all recommended improvements can be funded immediately. Audit
+report should highlight those problems, which are considered so urgent that they require
+immediate attention. Issues and problems will vary, depending on the road's environment, the
+topography and terrain, when
+it was built and whether it has previously been audited.
+4.2.1
+Road inventory
+Highway features determine road traffic safety, besides road capacity and economic traffic
+operations. Highway features are visible elements of highway and consist of various components.
+So, the safe and efficient operation of highway is governed by road geometric parameters, traffic
+control devices, lighting system of the stretch, composition of traffic, drainage condition, junction
+layout, parking facilities, cross drainage structures and the adjoining land use of the stretch.
+33
+
+!RC:SP:88-2010
+Road geometry comprises parameters
+like road width, shoulder width, footpath, height of
+embankment, sight distance, horizontal curvature, vertical curvature, etc. The traffic control devices
+comprise signs, markings, delineators, crash barriers, guard rails, etc.
+4.2.2
+Classified volume counts
+The magnitude of traffic volume, composition and their variation has a decisive effect on the
+accident rate and quality of traffic flow on all categories of roads. The traffic counts comprise of
+fast moving vehicles like cars, jeeps, taxis, LCV, MCV, HCV, 2-wheelers, 3-wheelers and slow-
+moving vehicles like bicycles, cycle-rickshaws, etc. The available traffic data is to be analyzed
+systematically to determine the temporal and vehicle-wise traffic flow characteristics and the
+directional distribution of traffic on the selected stretches. Volume/capacity ratio for different
+stretches should be determined based on classified volume counts and road inventory surveys
+and analyzed with the available guidelines.
+4.2.3
+Speed surveys
+Speed is one of the most important characteristics of traffic and its measurement is necessary
+for quality evaluation of traffic problems. Speed study is a necessary input for regulation and
+control of traffic and for analysing causes of accidents, identifying any relation between speed
+and accidents. This will be conducted to observe the speed characteristics at selected points of
+the stretch to determine the prevailing speeds on the stretch. For this, measurements can be
+done in peak and off-peak hours also.
+4.2.4
+First information reports from police stations
+First Information Reports (FIR) should be collected from the concerned police stations on the
+identified stretches. After getting the FIR information, database is to be created for analysis of
+day-wise, month-wise, year-wise, km-wise distribution of accidents. This would help in identifying
+the locations experiencing higher accident frequency.
+5
+SALIENT FEATURES AND PRINCIPLES FOR
+SAFE ROAD DESIGN
+5.1
+Principles of Road Safety
+Road Safety Audit is a formal process;
+it describes how road safety considerations are brought
+into scheme design
+at the proper time and how road safety
+is weighed against other
+considerations at the appropriate level of responsibility. The principles of road safety form the
+basis of the technical content of the design and audit process.
+It deals with the conditions, which
+are of particular significance to road safety when designing road geometry and traffic control
+devices. When designing a road, consider safety by asking:
+•
+Can the road design be misunderstood by road users?
+•
+Can design cause confusion?
+34
+
+IRC:SP:88-2010
+•
+Can
+it create ambiguity?
+•
+Does the
+road design
+give
+insufficient
+information
+or too much
+information?
+•
+Does
+it provide inadequate visibility or cause obstructions to vision?
+•
+Are there stretches where compromise on design standards has been made.
+If answer is 'yes', to any of these questions, then a series of open questions (such as 'how', 'why',
+'when', 'where', 'what', etc.) should be used to find the source of the problem and find possible
+solutions. Drivers and other road users must perceive and process information, make decisions
+and react,
+all within specific time intervals. Comfortable and safe dnving and good road user
+behavior occur when vehicles are operating well below a stressful processing and
+decision-making rate and above a minimum level of arousal. This is a critical component in the
+development and maintenance of a safe road environment.
+Road users represent a broad cross-section of the public and there are limits what road users
+can cope with when converting information - from the layout of the road, signs, markings, etc. into
+their response and action. Road users overestimate their own abilities and misunderstand each
+other's intentions when the situation becomes too complex, unclear or unusual to think and to
+react.
+It
+is a vital task expected of the designers and road safety auditors to design out road
+installations keeping human criteria and behaviour in mind, so that they do not demand too many
+actions per unit time.
+A safe environment should:
+•
+Warn the driver of any substandard or unusual features.
+•
+Inform the driver of conditions to be encountered.
+•
+Guide the driver through unusual sections.
+•
+Control the driver's passage through conflict points or sections, and
+•
+Be forgiving of the driver's errant or inappropriate behaviour.
+Similar situations must be treated in similar way;
+it is better to avoid:
+•
+Insufficient or deficient treatment
+•
+Incorrect or misplaced treatment
+•
+Exaggerated treatment
+•
+Dissimilar treatment for similar situations
+Road Safety Audit is the systematic application of safety principles. Specific aims are:
+•
+To minimize the risk of accident occurring on the road project and to minimize
+the severity of accident that does occur.
+35
+
+IRC:SP:88-2010
+•
+To minimize the risk of accidents occurring on adjacent roads in the network as
+a result of a scheme.
+•
+To recognize the importance of safety in highway design to meet the needs
+and perceptions of all types of road users and to achieve a balance between
+needs where they may be in conflict.
+•
+To reduce the long-term costs of a road project, bearing in mind that unsafe
+designs may be expensive or even impossible to correct at a later stage; and
+•
+To improve the awareness about safe design practices among those involved
+in the planning, design, construction, operation and maintenance of roads.
+There are two basic concepts underlying the aims of road safety audit. The concepts are:
+•
+Prevention is better thian Cure: While efforts to reduce the accidents on
+existing roads through systematic accident investigation procedures must be
+sustained, safety audit seeks to minimize the risk of accidents occurring as a
+result of changes to the highway.
+•
+Drive, Ride, Walk in Safety: The emphasis on the mode of travel on the roads
+should highlight the needs of the more vulnerable road users. In a safety audit,
+the road scene should be visualised through the eyes of
+all the different
+categories of road users.
+Some special safety issues relating to road designs are brought out below. These illustrate that
+safety
+is influenced by a complex interaction of elements and that the standards do not
+necessarily result
+in the safest possible design. This can especially be the case when the
+standards are adopted keeping purposes other than safety also in view.
+5.2
+Special Safety Issues Related to Road Designs
+5.2.1
+Designing for the users
+A design should cater for all road users. Special attention needs to be given to the safety aspects
+associated with heavy vehicles like trucks and buses. The requiriments of these vehicles may be
+different from those of cars. Particularly, effort may be needed to seek data to assist the design
+in safely handling such traffic. Also, the special needs of pedestrians and non-motorised traffic
+are to be considered (Fig. 5.1 and 5.2).
+5.2.2
+Design speed
+The design speed adopted should be compatible with the project objectives and be appropriate
+for the adjoining roadside activity and terrain.
+If drivers are
+in a hilly terrain, the road should
+continue to make them aware of
+it. At intersections, the design speed for turning traffic should be
+compatible with expected intersection activity. Fig. 5.3 depicts how the speeds are to be kept
+low at critical and difficult locations even on expressways as overspeeding results in accidents
+(Fig. 5.4) and speed controls are essential for safety (Fig. 5.5).
+36
+
+IRC:SP:88-2010
+Footways
+Fig. 5.1 Lack of Pedestrian Facilities
+Fig. 5.2 Provision of Tiled Footpath in
+on an Urban Road
+front of a Metro Railway Station
+Fig. 5.3
+Critical Location Requiring Speed Controls
+37
+
+IRC:SP:88-2010
+Fig. 5.4 Over Speeding Results in Accidents
+Fig. 5.5 Speed Controls are Essential for Safety
+5.2.3
+Design context
+The safe designs are different for major and minor roads. Narrow sections or slow points may be
+suitable on minor roads to slow down traffic and improve safety. However, on major roads such
+squeeze points may well cause frustration and become accident blackspots. The function of a
+road should be clear to its users and treatments should not give conflicting messages about this.
+Functional grouping of roads is a necessary pre-requisite for a safe road network (Fig. 5.6).
+38
+
+IRC:SP:88-2010
+Fig. 5.6 Schematic Relationship between Access and Movement Functions of Roads
+5.2.4
+Horizontal and vertical curves
+Accident frequency increases at crests and in dips. Increasing the degree of horizontal curvature
+also tends to increase accident frequency. To achieve coordination of alignments and terrain
+fitting,
+it is possible that a crest may mask the flow of the horizontal curve. Avoid tight horizontal
+curves particularly in combination with crests or dips (Fig. 5.7 to 5.9). In attempting to maintain
+intermediate sight distance, a design may adopt a vertical curve, which avoids the marking of
+barrier lines. However, adequate safe overtaking opportunities may actually be reduced because
+of the excessive length of the vertical curve. A combination of shorter vertical curve and a stretch
+with barrier line may be safer in some circumstances.
+5.2.5
+Intersections
+•
+Priority and layout
+The layout and control arrangement at an intersection should be simple and
+obvious to approaching motorists (Fig. 5.10).
+It
+is useful to remember that
+straight priority is usually expected and that modifications to this can require
+additional visual reinforcement. Even where priority is straight, some existing
+fencing lines or lines of trees on the minor legs can suggest the continuation of
+the road so strongly that the control sign and markings are not noticed by some
+motorists. Roundabouts are a form of intersection control with their own set of
+priority rules.
+It is essential that roundabouts look like roundabouts and that
+other types of intersection island treatments do not. At roundabouts, the approach
+radius should be tighter than the exit radius. Also remember that motorists tend
+to drive in lines as straight as possible: re-entrant curves on outer kerblines will
+not be trafficked and will collect debris. Within intersections with simple priority,
+it
+is
+still possible to guide motorists with proper arrangements and hazard
+markers (Fig. 5.11).
+39
+
+IRC:SP:88-2010
+Fig. 5.7
+Fig. 5.8
+Fig. 5.9
+Fig. 5.7 to 5.9
+Visibility at Critical Locations such as Crest of the Summit Curves and on Sharp
+Horizontal Curves can be a Determining Factor on the
+Safety Levels on Highways
+Fig. 5.10
+Examples of Good Practice
+Fig. 5.11
+Fig. 5.10 and 5.11
+Priority Junctions (Give-way/Stop)
+40
+
+IRC:SP:88-2010
+Visibility
+Provide adequate visibility distances for emerging traffic; don't confuse visibility
+distances with warrants for stop signs. Avoid creating obstructions by street
+furniture or landscaping. Provide adequate visibility to control features; for
+instance on crests and curves line marking and other devices can be hidden
+yet they need to be visible for decision-making. Use line marking & signs to
+improve driver's safety (Fig. 5.12 to Fig. 5.14).
+Uncontrolled Y-Junction with no markings, priority
+or traffic islands causes conflicts and uncertainty
+between merging and opposing traffic
+Improved Junction conspicuity by providing
+channelisers
+Fig. 5.12
+Improving Junction Control and Conspicuity
+Elements to Improve
+Road Safety-Visibility
+Safety Issues
+Safer Practice
+j*»<«»
+vumtt
+-WS^
+smmBs
+«8«»-
+Dangerous T-junction due to Very Poor Sight Lines
+Visibility Splay on Straight Section
+Fig. 5.13
+41
+
+IRC:SP:88-2010
+Fig. 5.14 Well Marked Junction with Proper Road Markings to Assist Drivers
+and Enhance Safety
+Other issues at Intersections
+Provide safe pedestrian and cyclist crossing points. Consider central refuges,
+which permit people to cross traffic from one direction at a time, which
+is a
+much easier task than judging gaps in both directions at once and safer than
+waiting on a centerline (Fig. 5.15 and 5.16). Use appropriate corner radii.
+Large radii allow excessive speeds and cause hazards for pedestrians. On
+the other hand, radii, which are tighter than the turning path of a design vehicle
+at a low speed, will result in these vehicles swinging out wide or hitting kerbs.
+Balanced approach is required.
+Fig. 5.15
+Channelisation Providing Refuge to Pedestrians
+42
+
+IRC:SP:88-2010
+Fig. 5.16 Large Channelising Island
+5.2.6
+Access control
+At each point on the road system where vehicles have access to adjacent land, there
+is the
+potential for conflict and accidents. Where service roads have been provided to separate through
+traffic from
+local
+traffic movements, the spacing of breaks should not be reduced.
+Further,
+there should be sufficient warning ahead of such breaks. The same
+is true for median
+openings. Motorists need time to react at conflict points, particularly where traffic flows are
+heavy (Fig. 5.1 7 and 5.1 8).
+Fig. 5.17 Lack of Details at Access Points and Minor Junctions Fail
+to give Proper Guidance to Motorists
+43
+
+!RC:SP:88-2010
+Fig. 5.18 Wrong/lncorrect/Unplanned Opening in the Median Likely
+to Result in Serious Accidents
+5.2.7
+Cross-section
+•
+Narrow lanes
+There is a view that traffic management has often gone too far in reducing the
+lane-width (from standard 3.5 m lane) of urban roads to create additional lanes
+on multi-lane roads. This becomes hazardous on horizontal curves where larger
+vehicles need extra width to tract. The existing urban design standards do not
+provide for curve transitions and widening. These may be satisfactory when
+wide lanes - proper lane width are used but they are unsatisfactory when narrow
+lanes are adopted (Fig. 5.19).
+Right-of-Way
+0)c
+(0
+0)
+Roadside
+Roadway
+WM
+—
+M
+Roadway
+Shoulder
+Shoulder
+Carriageway
+M
+H
+Median
+M
+M
+Carriageway
+M
+H
+Roadside
+5o
+Fig. 5.19 Cross-sectional Features
+44
+
+IRC:SP:88-2010
+•
+Shoulder widths
+There is a safety benefit in providing reasonably wide shoulders throughout the
+length of the road.
+It
+is best not to reduce widths or eliminate shoulders
+(Fig. 5.20). Fencing can be very effective in discouraging parking. But fencing
+should not itself create a hazard.
+The shoulders should be adequate and well-maintained for enhancing road
+safety (Fig. 5.21). Rumble Strips can be provided on shoulders on sharp curves
+to alert drivers who have strayed from carriageway (Fig. 5.22).
+
+IRC:SP:88-2010
+Fig. 5.22 Rumble strips on Shoulder to Alert Drivers who have Strayed from
+Carriageway before Sharp Curve
+•
+Median widths
+In rural areas, medians less than 3 m wide should be avoided. Where turning or
+crossing vehicles do not require a greater width, there is little safety advantages
+on median more than 10 m wide.
+In urban areas minimum of 2 m width
+is
+necessary (Fig. 5.23). The minimum width of median, subject to availability of
+right of way, for various locations shall be as given in Table 5.1
+.
+Well Maintained Median Width
+with Proper Median
+Impact of Median Width on Accidents
+Markings
+Fig. 5.23 Medians and Kerbs
+46
+
+IRC:SP:88-2010
+Table 5.1 Width of Median
+lypG OT oeciion
+Minimum Width of median (m)
+Plain & Rolling Terrain
+IVIOUOIainOLIS
+ck
+Steep Terrain
+Raised
+Depressed Median
+Ont^n poi intr\/ with iQnlfltpH
+v^ijci
+1 ucui III y will
+1 louiciicvj
+built-up area
+4.5
+7.0
+2.0
+Built-up area
+2.0
+Not Applicable
+2.0
+Approach to grade
+separated structures
+4.5
+Not Applicable
+2.0
+5.2.8
+Trees
+Survey information is often deficient on the location and size of trees within the road reserve. The
+designer, therefore, cannot be sure that the plans have provided protection against vehicles hitting
+roadside trees. Trees also grow so that what is not a substantial tree at the design stage may well
+become a roadside obstacle by the time the road is built and is in operation (Fig. 5.24 and 2.25).
+Fig. 5.24 Trees on the Edge of Roadway can be a Cause of Very Severe Accidents
+Tree on Edge of the Road
+Trees on Carriageway Edge can be Hazardous
+Fig. 5.25 Plantation
+47
+
+1RC:SP:88-2010
+5.2.9
+Road signs
+It is often too tempting to use traffic signs instead of working out an appropriate design of road
+signs on the project highway in an attempt to solve a real or perceived problem. Before using a
+traffic sign:
+•
+Demonstrate a need for the sign
+Use a sound traffic engineering assessment to determine the need. Check the
+warrants and appropriate uses in the standards or guidelines.
+If no standard
+signs exist, ask why. Is one needed for this situation?
+•
+Ensure that the sign conveys a clear message to all users under all conditions
+The ability to choose an effective and appropriate message and design an
+effective sign is important. Signs given in IRC standards have been prescribed
+keeping this in view and should be chosen for standard situations. Othen/vise
+seek expert advice. Ensure that sign messages are compatible with the
+messages of other devices like line markings. Keep
+it simple. Locate
+it where
+the information can be received (Fig. 5.26 to 5.30).
+Fig. 5.26 Inadequate and Incomplete Signage Results in Confusion
+48
+
+!RC:SP:88-2010
+Shsqpe is wrong
+>
+Caudimaj^'sigrtonBoiDid/' Reotan^jlao: plate.
+>
+MmdLadDxySi^oitRectajngularpbdBi
+m
+Clearly defined centre line and edge
+line
+Non-uniformity of signs
+Fig. 5.27 Traffic Control Devices for Better Road Safety
+Absence of advance signing and markings result
+In
+approaching driver being unaware of intersection ahead
+Rumble strips on shoulder to alert drivers who have
+strayed from carriageway before sharp curve
+Fig. 5.28 Improving Driver Expectancy
+Type of signs
+Shape
+Example
+Remarks
+IVIandatory/Regulatory Signs
+Blue Circles give a positive instruction
+(what must be done)
+Red circles give a negative Instruction
+(what must not be done)
+CautionaryA/Varning Signs A
+Triangular signs give warning to
+drivers of a hazard
+Informatory Signs
+0
+Rectangular signs give Information and
+directions
+Fig. 5.29 Road Signs
+49
+
+IRC:SP:88"2010
+Fig. 5.30 Delineators and Chevron Signs
+•
+Ensure that the sign or its supports are not a hazard
+Keep sign support structures away from the edge of the carriageway. Avoid or
+protect sign supports on the outside of curves and other vulnerable places,
+v
+Ensure that signs or their supports do not obstruct visibility of other devices or
+the view between conflicting road users.
+5.2.10
+Merges
+Adequate sight distance
+is required
+in advance of any merging situation to allow drivers to
+recognize and plan their merge. Inadequately or improperly designed merging areas can be a
+cause of road accidents (Fig. 5.31 and 5.32). The length of acceleration and deceleration lanes
+should not be insufficient, otherwise,
+it may lead to road accidents. In addition
+it is important to
+provide a length of mutual sight to allow the gap to be selected for the merging manoeuvre.
+Merging should be avoided just prior to the start of left hand curves. They force the vehicles on the
+left hand lane to veer to the right to merge and then be immediately faced with a movement to the
+left to negotiate the curve.
+Fig. 5.31 Merging Area Inadequately Designed and Provided with Proper Signs
+50
+
+!RC:SP:88=2010
+Fig. 5.32 Improperly Designed Merging Point of Expressway and National Highway
+5.2.11
+Sight distance
+The effect of horizontal and vertical curves and the cross-section is generally closely examined
+during road design. However, trees, raised medians and concrete barriers can also affect sight
+distance. Further, sight distance to the end of a queue, rather than to the control point at the start
+of the queue, may need to be considered on approaches to busy intersections.
+5.2.12
+Niglit visibility
+Perception of widths as well as distances is usually more difficult at nighttime or under poor light
+conditions. Where minimum width lanes are used or there are island to narrow the road, a high
+standard of street lighting and delineation should be used (Fig. 5.33). In the tunnels, adequate
+lighting should be provided (Fig. 5.34).
+Reflecting Kerbs for Night-time
+Use of Retroflective Tapes Increase
+Visibility on Curves
+Night-time Safety
+Fig. 5.33 Improving Night Time Safety
+51
+
+!RC:SP:88-2010
+Fig. 5.34 Adequate Lighting should be provided in Tunnels
+5.2.13
+Parked vehicles
+Vehicles parked on the carriageway affect safety in several ways: as physical obstructions that
+are run into or sideswiped, obstructions which cause sudden braking and nose-to-tail accidents,
+obstructions which deflect vehicles into adjacent vehicle paths, hazards to passing vehicles from
+opening doors, obstructions which hide pedestrians and obstructions which block visibility at
+intersections and access points. For parked vehicles, designs should ideally avoid or remove/
+relocate parking in traffic lanes. With isolated improvement schemes like intersection treatments,
+parking can influence well beyond the limits of the design plan. Parking on side streets close to
+busy arterial roads can be a hazard to turning vehicles. Check the interaction of parked vehicles,
+turning vehicles and any queued emerging vehicles in these locations (Fig. 5.35). Do not rely on
+parking control signs to eliminate parking in hazardous locations: enforcement will not always be
+available.
+Trucks Parked on the Roads Create Safety
+Vehicles Parked Haphazardly
+Problem for through Traffic
+Fig. 5.35 Parking
+52
+
+IRC:SP:88"2010
+6
+SPECIFIC PARAMETERS TO BE CONSIDERED IN THE PRESENT
+DAY TRAFFIC SCENARIO IN INDIA
+Two of the most significant issues to be considered in tine present day traffic scenario in India are:
+a)
+Safety issues for non-motorized traffic and
+b)
+Safety issues on higli speed corridors
+6.1
+Safety Issues for Non-Motorized Traffic
+6.1.1
+Pedestrian walking facilities
+As pedestrians form a significant group of vulnerable road users,
+it is vital that the footpaths of
+pedestrians one given full and detailed attention. Footpaths have great potential for enhancing
+pedestrian safety. Every effort should therefore be made to segregate pedestrians and vehicles.
+Separation makes travel much safer for vulnerable road users. In areas of high pedestrian activity,
+it would be desirable to provide greater road space to pedestrian activity. Care must be taken to
+ensure that footpaths are not encroached upon and that the surfaces are comfortable to walk on.
+On some stretches, passing through habitations and settlements,
+1 .5 m footways are provided,
+which is the absolute minimum width recommended for any footway. At times, the footways are
+only 1 .0 m wide while at other places there is none; in most cases any constructed footway is the
+cover of a channel drain that is adjacent to the building line. Footways in urban areas become
+blocked
+in a matter of days by commercial use, rubbish or other impediments to walking
+(Fig. 6.1 ). Where footways are not provided on highways, shoulders are used by the pedestrians
+for walking. These shoulders become un-walkable due to water logging (Fig. 6.2).
+Fig. 6.1
+Inadequate and Faulty Pedestrian Facilities
+53
+
+IRC:SP:88-2010
+Fig. 6.2 Water Logging at Shoulders
+Substantial conflict problems usually exist where the road passes through rural settlements as
+the road often passes very close to existing buildings leaving no footpaths for pedestrians. Also,
+in India, roads in open area are often used by the local population as footpaths; particularly in
+the rainy season as these usually provide the easiest and most convenient routes between
+communities. Also many intersection roads have a cross-sectional profile which makes
+it difficult
+to cater easily for pedestrians. The natural camber of the carriageway is carried over into the
+shoulder and this is followed by a steeper slope into the side drain. The side drains too are often
+deep U-type channels, which, particularly in mountainous terrain where the road is in a cutting,
+force pedestrians to walk on the roadway and expose them to increased risk.
+6.1.2
+Pedestrian crossings
+There is a strong necessity and desire for pedestrians to cross the road all along
+it and suitable
+provision must be designed to allow for
+it at appropriate locations. There is clearly a case for
+increasing both the capacity and safety of the new upgraded road sections. When located and
+used correctly, these can be effective in reducing pedestrian-vehicle traffic conflicts. Pedestrians
+usually tend to take the shortest routes between any two points.
+If using a crossing imposes much
+additional walking distance, or no perceived risk reduction (Fig. 6.3) then there will be a marked
+reluctance to use
+it. Great care is needed, therefore, in siting pedestrian crossings so that use is
+maximized and pedestrians are clearly visible to drivers.
+Crossings based on priority rules rather than signals demand a degree of driver compliance that
+is
+rarely found
+in
+cities and towns of
+India. While there
+is considerable improvement
+in
+enforcement for the past few years, driving culture and self discipline needs lot of improvement.
+Pedestrian crossings on high-speed roads can lead to rear-end collisions
+if drivers are not given
+sufficient advance warning. Where driver compliance
+is low and vehicle speeds are high,
+pedestrian crossings can be amalgamated with road humps to give a raised pedestrian
+crossing (80-100 mm high). These are very cost-effective but must be clearly marked and
+require adequate advance warning.
+54
+
+IRC:SP:88"2010
+Fig. 6.3 Poor Quality Design of Subway at Access Controlled Highway
+It has also been observed that pedestrians often avoid using pedestrian bridges and
+underpasses due to substantial differences
+in elevation, perceived lack of public safety
+in
+underpasses, lack of maintenance and encroachments. Also, where pedestrian barriers have
+been erected especially
+in front of the school gates,
+recreation grounds and footpaths,
+pedestrians cross at any point along a length of road rather than be channelled to specially
+provided crossings where the risk of accident is lower. Also pedestrian refuges which divide the
+two traffic streams and create a relatively safe waiting area for pedestrians are often observed to
+be narrow in width, too high to climb, unmarked and not provided with lighting thus becoming an
+additional hazard.
+There is need for special features to be constructed where pedestrians have to cross an open
+drain or mount an embankment.
+It is observed that required pedestrian crossing facilities are not
+being provided and in the absence of these, the local population devise their own unauthorized
+ways to facilitate crossing the highways. This type of activity is more hazardous at many of the
+road sections passing through the inhabited areas proposed on high embankments. Therefore,
+it
+is essential that for all highway upgradation projects, careful thought
+is given as to where
+pedestrians may be allowed to cross and where they should be prohibited from crossing and
+provision must be made to achieve the same.
+6.1.3
+Lay-byes/bus bays
+Lay-byes and Bus stops are an essential element
+in providing for access as they separate
+stopping traffic from the main carriageway. However, their location
+is critical and every effort
+should be made to avoid physical or visual obstruction. They should not be located on the outside
+of curves, or very close to junctions and pedestrian crossings so that buses do not obstruct
+crossing pedestrians.
+It is observed that mostly the bus bay dimensions are fixed, not allowing
+any flexibility for busy stops. The location of the bus bays shall be fixed on the basis of following
+principles:
+a)
+The bus stops shall be sited away from bridges and other important structures
+and embankment sections more than 3 m high.
+55
+
+IRC:SP:88-2010
+b)
+As far as possible, bus bays shall not be located on horizontal curves or at the
+summit of vertical curves.
+c)
+The location shall have good visibility, not less than the safe stopping sight
+distance.
+d)
+The bus bays shall not be located too close to the road intersections. A gap of
+300 m from the tangent point of intersections to start/end of the bus bay shall
+be desirable. At minor intersections (e.g. junctions with village roads), distance
+of 60 m may be adopted. However,
+if a substantial volume of buses is to turn
+right at the intersection,
+it
+is necessary that the bus bay shall be located
+sufficiently ahead of the intersection so that the buses can be manoeuvered
+easily from the pick-up stop on the left hand side to the extreme right lane for
+turning. The location of the bus bays may be fixed after due consultation with
+the local communities expected to use such facilities.
+e)
+At major four-way intersections involving transfer of a substantial number of
+passengers from one pick-up stop to the other,
+it might be desirable to
+construct a single, composite bus stop of suitable design to cater to all the bus
+routes collectively.
+f)
+In hilly areas, the bus bays shall be located, preferably, where the road is straight
+on both sides, gradients are flat and the visibility is reasonably good (usually
+not less than 50 m). Subject to these requirements,
+it will be advisable to choose
+locations where
+it
+is possible to widen the roadway economically for
+accommodating bus bays.
+g)
+Where grade separator is provided, the location of bus bays shall be as under:
+i)
+Sufficiently away from the ground intersection.
+ii)
+Sufficiently away from the longitudinal slope of the approaches.
+h)
+The bus bay and passenger shelter shall be designed to provide for safe and
+convenient use by persons with disabilities as well.
+There is a need to design a facility to meet the needs of the waiting passengers and the number
+of buses (Fig. 6.4).
+Also bus bays are most effective in terms of collecting the waiting passengers in a safe location
+if they provide protection from the sun and rain.
+If there is no natural protection from a tree, then
+it
+needs to be provided.
+If the passengers wait in the shade off the road then the bus is likely to stop
+in middle of the road or at some other unsafe
+location. Many road agencies are now
+planning such bus bays on their road upgrading projects. This is a good development.
+It needs to
+become a standard practice on all main highways.
+It is important that this aspect is given due
+recognition and importance by all road agencies.
+56
+
+IRC:SP:88-2010
+7J5
+r
+Fig. 6.4 Passengers are Forced to Enter on Main Carriageway in
+Absence of Bus Bays
+6.1.4
+Bicyclists, ricl<sfiaws and animal drawn carts
+The mixed traffic conditions and the wide variety of road users on highways create a safety
+challenge of significant magnitude. These non-motorized road users are an important part of the
+traffic stream (Fig. 6.5). They deserve special consideration for their safety due to their different
+characteristics of movement, poor conspicuity and vulnerability in the event of an accident. On
+the highways, as they are exposed to motor vehicles travelling at much higher speed,
+it
+is
+imperative that they are provided with as much lateral separation from the through motor vehicles
+as possible. This should preferably be through the provision of separate tracks on which these
+non-motorized slow vehicles, can travel in relative safety. An alternative to this is a minimum
+2.5 m wide shoulder fully paved along the highways (excepting where service roads exist) so that
+these road users move on a smooth surface with some separation from the faster vehicles. An
+associated requirement is roadway lighting at locations that can enhance nighttime conspicuity
+of these non-motorised road users.
+Fig. 6.5 No Bicycle Facilities are Provided
+57
+
+IRC:SP:88-2010
+6.2
+Safety issues on High Speed Corridors
+In India, highways pass through rural areas with high-density populations where most people do
+not have access to motorised vehicles. These four-lane divided highways in India do not have
+continuous parallel service roads for local traffic including non-motorised traffic. This forces the
+local traffic to use these highways and cross them under hazardous conditions. So
+it
+is not
+surprising to find that a majority of the victims in road traffic crashes on intercity highways are
+vulnerable road users. On the existing upgraded highways, service roads provided are sometimes
+invisible due to encroachments.
+In the absence of adequate truck parking facilities on these
+highways, truckers have a tendency to park their vehicles on service roads, thus negating the
+benefits of service roads to these vulnerable road users (Fig. 6.6). In the absence of such service
+-
+roads, the pedestrian-vehicular conflicts increase and road safety is threatened.
+Fig. 6.6 Parking of Vehicles at Service Roads
+In India, the newly upgraded highways will lead to significantly increased speeds due to the new
+smooth surface and increased width. While
+it is expected that the road will produce many safety
+benefits, there
+is likelihood of increases
+in both accident frequency and severity at certain
+locations, particularly in urban areas, rural settlements and near schools, markets and factories
+unless location specific measures are taken to ensure that the speeds are restrained to an
+appropriate level (Fig. 6.7).
+It is recommended that an appropriate speed management strategy
+for upgraded highways should be developed as soon as possible and before they are open for
+traffic. Such a speed management strategy should recognise the need for realistic speed limits
+and for a differential in speeds between urban and rural areas. The changes in speed zones will
+need to be well signed with duplicate speed signs at the commencement of a new zone and
+repeater signs at agreed distances thereafter and physical measures on the carriageway.
+Traffic calming measures are usually most effective
+if several
+different kinds are used
+in
+combination and in a co-ordinated manner to slow down traffic in stages. They should be used
+with care on any highway but will be particulariy relevant where there is a cross-section change
+from say six lane to four lane dual carriageway or from rural to urban conditions. Traffic calming
+may also be needed on some important side and access roads at their approaches to the
+highway and at the start of the service roads.
+58
+
+!RC:SP:88-2010
+Fig. 6.7 Accident at Access-Controlled Highway
+Uncontrolled access to premises abutting a main road can substantially impede traffic flows and
+create severe road safety hazards as vehicles attempt to leave, merge with or cross traffic streams.
+A difference in levels makes
+it very difficult for non-motorised or other slow moving vehicle to
+enter the main road safely as
+it becomes very difficult to stop and re-start. Unless part of the side
+road or access is constructed to similar standards to the main road,
+it will quickly deteriorate,
+start damaging the main road and lead to loose materials being deposited on the edge of the
+main road. This can happen at all kinds of entrances or exits to petrol stations, parking areas,
+factories or local communities. For these reasons, attempts should be made to limit or control
+frontage access on primary and district distributors except for situations where this is not feasible.
+On high speed and main roads, efforts should be made to keep cyclists off the main carriageway
+by providing them with separate continuous cycle tracks (Fig. 6.8). Cycle tracks must be
+attractive to use, coherent and direct. They should be well-maintained and should be minimum
+2.5 m wide. The slow-moving road users need segregation whenever possible from fast traffic
+vehicles. Where animal drawn vehicles are common, provision of wider shoulders can act as a
+track for slow vehicles. The provision
+of wider shoulders also benefits the cyclists and
+pedestrians. These shoulders could be delineated with devices like, cat's eyes, studs, rumble
+strips (300 mm in width) between the main carriageway and the shoulder. A provision of frequent
+and convenient under-passes (at the same level as surrounding land with highway raised to
+provide clearance) for pedestrians, bicycles and NMT.
+The vehicular under/overpass structures should be provided at the intersection of the high traffic
+density roads with all the National Highways and State Highways. The structure may be either an
+underpass or an overpass depending upon the nature of terrain,
+vertical
+profile of road,
+availability of adequate right of way, etc. Following aspects may be kept in view
+:
+i)
+The width of pedestrian or cattle crossing shall not be less than 5 m.
+ii)
+The pedestrian crossings shall have provision for movement of persons with
+disabilities.
+59
+
+IRC:SP:88-2010
+Fig. 6.8 Bicyclists and Two-Wheeler Riders Using the Highway
+iii)
+Underpasses shall be preferred to overpasses.
+iv)
+Pedestrian underpass/overpass shall also be provided within a distance of
+200 m from a school or hospital or factory/industrial area.
+Whenever feasible, non-motorised vehicles should be separated from the carriageway by a
+barrier or edge line marking. Barriers are not appropriate on National Highways and State
+Highways in rural areas where separation by road marking is appropriate.
+7 SAFETY AUDIT PROCESS FOR RURAL ROADS (OTHER DISTRICT
+ROADS AND VILLAGE ROADS) WITH SPECIAL
+REFERENCE TO PMGSY ROADS
+7.1
+Context
+Rural roads are generally single lane with low design speeds and low volumes of traffic both
+motorised and non-motorised. There has been a distinct improvement in the riding quality of
+rural roads being constructed under the PMGSY and other state government programmes. Further,
+due to economic uplift of rural areas, ownership of motorised vehicles is also increasing at an
+accelerated pace. These factors are resulting in higher average speeds on the rural road network.
+Because of constraints of land availability, some stretches of the rural roads may not be in
+accordance with the required geometric standards. These may then be prone to safety hazards
+unless the driver is alert. At the same time, some engineering measures can be identified for
+such stretches while planning and designing such alignments.
+60
+
+!RC:SP:88-2010
+7.2
+Safety Aspects in Rural Roads
+The road agencies concerned with rural roads may consider the following aspects for improving
+safety on these roads:
+a)
+Road signs and pavement markings should be
+integral
+part
+of road
+construction and upgradation works. These signs and markings
+will also
+require regular maintenance to serve the intended purpose. There should be
+no compromise whatsoever on this requirement being ensured in all rural roads
+projects and programmes.
+b)
+Where the existing geometries of the road alignment are poor, efforts should
+be made to undertake spot improvements identifying such spots.
+In the
+meanwhile, appropriate cautionary and speed limit signs should be posted in
+such
+locations. Where there
+is history of frequent accidents, physical
+measures such as speed breakers (hump type), rumble strips should be
+provided with proper advance warning signs.
+c)
+Intersections and junctions of
+rural roads with main roads need special
+emphasis. The layout design calls for special attention
+in consultation with
+traffic specialists. Provision of rumble strips on rural roads just ahead of their
+meeting point with the main highway would be of help.
+d)
+Provision of bus bays at suitable location close to villages en-route and ramps
+for providing access to agricultural fields may also be considered. At the end of
+the road, adequate space needs to be ensured so as to enable turning of buses
+and other commercial vehicles.
+e)
+Some states set-up
+district level road safety committees because of an
+all-round emphasis on improving safety on the road network in the state. The
+Head of the PIU of PMGSY roads could be inducted either as a full-fledged
+member or special invitee to such committees.
+7.3
+Safety Audit
+7.3.1
+Projects to be audited
+Responsibility for the planning, design, construction and maintenance of rural roads would basically
+remain with the concerned road agencies and the implementing teams. In case of rural roads,
+safety audit may be considered initially in respect of PMGSY projects. After gaining experience
+from the safety audits of these projects, the states may consider upscaling the same to other
+rural roads for both new construction and improvement/upgradation of existing roads.
+7.3.2
+Audit team
+The safety audit team should comprise two members. One member should have adequate traffic
+61
+
+IRC:SP:88-2010
+engineering and
+traffic management experience and the other should be an engineer with
+experience in road design and construction techniques.
+7.3.3
+Stages of safety audit
+a)
+For PMGSY roads, the safety audit may be confined to the following stages:
+1)
+Completion of design and estimate preparation stage
+2)
+Completion of construction, pre-opening stage
+3)
+On completed projects
+b)
+Stage 3 audit described
+in para 3.3 may be applied for the completion of
+design and estimate preparation stage. The findings and recommendations of
+the Audit Team at this stage should be discussed with the PIU, STA and the
+SRRDA Headquarters. Final decision for amendments
+in design and BOQ
+based on the recommendations of the Audit Team should rest with the SRRDA.
+The SRRDA may keep NRRDA informed of such decisions.
+c)
+Stage 5 audit described in para 3.5 may be applied for the pre-opening stage
+on completion of construction.
+It would be sufficient to involve only the local site
+staff. The Team should travel in a car, on two wheeler and also in a non-motorised
+transport on the road stretch in question. Travel should be undertaken both
+during the day and dark hours. The Team should check the presence and
+effectiveness of road signs, pavement markings, speed management
+measures (speed humps, rumble strips), intersection layout, etc. Findings of
+the Audit Team at this stage and measurers recommended by
+it should be
+discussed with the PIU, STA and the SRRDA Headquarters. Final decision on
+measures recommended should rest with the SRRDA. The SRRDA may keep
+NRRDA informed of such decisions.
+d)
+Stage 6 audit described in para 3.6 may be applied for the completed projects.
+Such audits amy be taken selectively on roads where there are reports of
+accidents taking place. The Audit Team would be expected to determine
+if the
+safety needs of all types of road users including pedestrians, cyclists, animals
+and animal drawn carts are being met. Findings of the Audit Team and
+measurers recommended by
+it should be discussed with the SRRDA
+Headquarters. Final decision on measures recommended should rest with the
+SRRDA. The SRRDA may keep NRRDA informed of such decisions.
+7.3.4
+Audit process
+The steps in the rural road safety audit process would essentially be as indicated in Chapter 4.
+For PMGSY roads, the designer may be either in-house staff of PIU or outsourced consultant.
+Interaction of the Audit Team with the State Technical Agencies is also required since the latter
+are mandated to oversee the design and project estimates.
+62
+
+IRC:SP:88"2010
+7.3.5
+Check lists
+The following checklists are relevant for the PMGSY projects.
+SI.No.
+Stage
+Check List NO.
+1)
+Completion of design and project preparation
+3,8,9,10,11,12
+2)
+Completion of construction, pre-opening
+5,8,9,10,11,12
+3)
+Completed projects
+6,8,9,10,11,12
+The Audit Team may develop specific check lists keeping the above check lists in view for the
+PMGSY projects. For example, in check list 3, item no. 8, 1 0, 1 1
+, 1 7, 1 8 and 20 to 32 may not be
+necessary. Similarly,
+in check
+list 5, item no.
+11, 12, 13, 14 may not be necessary. Also the
+auditors may add other checklist considered relevant for rural roads.
+8 CHECKLISTS
+8.1
+General
+Checklists are useful to assist the audit team. These checklists describe the performance and
+situations that can affect the road safety of selected types of project and audit stage. Checklists
+have been prepared for Stage
+1
+to Stage 6. These checklists will cover planning, alignment,
+cross-section, junctions, link road, traffic signs, road markings, road lighting, roadside hazards,
+road side furniture, vulnerable road users, cross-drainage structures etc. These checklists should
+be used as a guide to focus audit towards important matters that should be covered and not
+overlooked. Each project is different and will raise specific issues that may contain further safety
+implications. When reviewing each of the points, the team should consider that the road user
+would have to cope with conditions at night and in adverse weather conditions also.
+The safety audit team should visit the site for identifying the deficiencies from safety angle of the
+stretch and should suggest remedial measures. The team should check planning,
+cross-sections, alignment, roadside furniture and
+facilities available, junctions,
+facilities for
+vulnerable road users, signs, marking and lighting and also road side hazards as suggested in
+the previous paragraph. Some sort of questionnaire should be prepared for each kilometre. The
+questionnaire should include various aspects covered under the methodology of the safety
+audit.
+8.2
+Purpose of Checklists
+Road Safety Audit checklists are presented in Annex A. These checklists have been designed
+as a prompt. They are not a subvStitute for knowledge of local conditions and experience: they are
+an aid for the application of that knowledge and experience. The checklists are to help an auditor
+not to overlook something important.
+It is stressed that a road safety audit is not an audit of the
+design standards, though these will need to be referred to, and their proper use makes a good
+63
+
+IRC:SP:88-2010
+starting point with any design. The written audit report should contain sufficient explanation of its
+recommendations, without any need to refer to notes on checklists. Designers can make use of
+the checklists to help them identify potential safety problems and cover the solutions in their
+designs.
+8.3
+When to use Checklists
+The checklists are for use during an audit when
+•
+Assessing the documentation;
+in particular, when the project drawings are
+being examined
+•
+inspecting the site. At this point,
+it is important to visualise how the project will
+fit into the existing features
+•
+Writing the audit report
+- to re-check that the relevant issues have been
+addressed
+These checklists can be used on existing roads, new roads, roadwork traffic schemes,
+rehabilitation works, etc.
+8.4
+How to use Checklists
+Determine which set of checklists is needed.
+It should be remembered that an audit may cover
+more than one stage in the design process. More details can be entered on checklists, on plans.
+A successful audit is not achieved by simply ticking off checklists. The topics listed in Annex A
+cover the more common elements of design and practice. While the list is sufficiently exhaustive,
+the audit team should use their own skills, experience and judgement in refining and amplifying
+these checklists.
+9 ELEMENTS OF A GOOD RSA AND MEASURE OF ITS SUCCESS
+As to what makes a good safety audit report will depend on the audit team and its due diligence
+in assessing the designs and drawings and a detailed inspection of the project. A good safety
+audit report will restrict itself to road safety issues, explain each of the safety issues in some
+depth and provide practical and implementable recommendations. A good report would also not
+indulge in blame game.
+The success of a safety audit shall not be measured by cost-benefit approach, but by the depth of
+analysis
+of the design features,
+identification of issues of safety concerns and the
+recommendations that are accepted by client.
+In the initial stages, good number of recommendations may be found to be acceptable by the
+client. However, with more and more awareness raising among designers safety features would
+get in-built into the design of the project and
+it may not be surprising to find that the number of
+recommendations from the audit team get reduced. The objective of carrying out RSA would
+have then served its intended purpose.
+64
+
+IRC:SP:88-2010
+10 HOW TO GET ROAD SAFETY AUDIT STARTED IN
+THE ROAD ORGANISATION?
+In order to ensure safety conscious planning, design, construction and maintenance and operation
+of roads and highways,
+it
+is paramount that the agencies and organisations responsible for
+development of roads and implementation of projects are committed to road safety. As the
+experience from those countries which have undertaken Road Safety Audits of their roads and
+road projects reveal, positive benefits towards enhancement of road safety, the top management
+cadre of these agencies should include
+it as an essential ingredient of the project cycle.
+The various steps and actions for initiating road safety audit
+in engineering organisations
+(engineering departments at National. State or Local levels) including engineering consultants,
+etc. are outlined in Fig. 1 0.1
+.
+It is not uncommon to find that the term 'audit' may generate negative
+feelings because
+it may seem to indicate that the aim
+is to catch someone making an error.
+Therefore, an important component of the process of introduction of road safety audit should be
+to create the desire and resolve of all parties concerned to be committed to
+it as part of overall
+road safety efforts without blame game. Awareness raising among engineers of the road
+agencies and other stakeholders at various levels would be an advantage.
+The road organisations usually set apart some funds for engineering measures for road safety in
+their budget. To start with, part of these funds could be utilised in initiating the process of RSA
+and training in RSA for some of their projects.
+65
+
+IRC:S P:88-2010
+Get Commitmentfrom Top for Road Safety
+Road Safety as Component of Organisation 's
+Policy and Plan
+Governing Body & Top Executive make
+a formal commitment to RSA
+Include Road
+Safety
+in Organisation's Plan &
+Develop organisational Road Safety Plan keeping
+in
+view
+relevant
+road
+safety
+strategies
+at
+National, State & Local levels
+Have Black Spot Ireatnient & RSA as Important
+Strategies
+Include
+accident
+remedial Programmes
+(Black
+Spots)
+and
+routine RSA
+of road
+and
+traffic
+design as important strategies
+Create Cell to promote road safety and Nominate
+Persons to be Nodal Officerfor RSA
+Tackle Important RSA Issues and Develop
+Policies & Practices relevant to the Organization
+1.
+Nodal Point for Road Safety
+2.
+Nodal Point for RSA
+Increasing
+awareness
+and
+cooperation
+of
+senior executives, managers and designers?
+How
+to
+incorporate RSA
+into
+design
+or
+design/construction contracts?
+'
+What percentage of projects to be audited?
+Who will conduct RSA?
+Procedure to deal with recommendations of
+RSA and its feedback into designs
+Get Practical Training
+Get
+experienced
+National/International
+Safety Auditors & do some Pilot Projects
+including
+training
+w/shop
+sessions
+with
+them.
+Include
+managers,
+designers
+&
+potential auditors in this programme
+Use RSA to Improve Designsfor Safety
+Routinely use RSA to improve designs to reduce potential hazards
+Get feedback from Designers, Auditors and Project Managers. Modify the process with experience and feedback
+From Design Stage Audits to Safety Review ofExisting Roads
+Gain experience with design stage audits and also simultaneous RSA on some of the existing roads with
+known hazardous locations
+r
+Feedback
+Give feedback to governing body and senior executive about RSA & Progress in organisation and way
+to extend and improve RSA process. Document the benefits and other experiences
+Fig. 10.1 Suggested Model for Initiating RSA in an Organisation
+66
+
+IRC:SP:88-2010
+ANNEX A
+(Clause 8.4)
+CHECKLISTS FOR CARRYING OUT ROAD SAFETY AUDIT FOR DIFFERENT STAGES
+OF THE PROJECT
+Checklists have been prepared to assist the members of the Audit Team. These checklists
+describe the problems and situations that can affect the road safety of selected types of project
+and audit stage.
+The checklists for different stages of audit are presented hereunder:
+Checklist
+1
+Stage
+1 Audit
+Checklist 2
+Stage 2 Audit
+Checklist 3
+Stage 3 Audit
+Checklist 4
+Stage 4 Audit
+Checklist 5
+Staae 5 Audit
+Checklist 6
+Stace 6 Audit
+Checklist 7
+Plannina
+1
+1
+I
+II
+III
+1
+Checklist 8
+Alignment
+Checklist 9
+Cross Section
+Checklist 10
+Intersections and Interchanges
+Checklist 11
+Road Signs
+Checklist 12
+Road Markings
+Checklist 13
+Lighting
+Checklists
+Roadside Hazards
+Checklist 15
+Roadside
+Facilities
+Checklist 16
+Vulnerable Road Users
+Checklist 17
+Development Proposals
+Checklist 18
+Maintenance Work
+67
+
+IRC:SP:88-2010
+CHECKLIST 1
+- STAGE
+1 AUDIT (DURING FEASIBILITY STUDY)
+1 )
+What is the category of road for which the feasibility study has been carried out e.g.,
+expressway, national highway, state highway or other roads?
+2)
+Is the road intended to carry high-speed traffic or serve local access needs only?
+3)
+What kind of traffic is likely ranging from high speed mixed traffic or for more general
+use, including bicycles and significant pedestrian traffic?
+4)
+Do the chosen type of road and the standards, alignment and cross-section offer
+optimum road safety to all groups of road user including disabled in combination with
+the expected traffic density and speeds?
+5)
+Does the project follow existing roads or is
+it a 'green field project' and what are the
+effects of this?
+6)
+Check whether appropriate design standards have been used having regard to the
+scope of the project, and its function in relation to the traffic mix.
+7)
+Check the appropriateness of the designs for the design volume and
+traffic
+characteristics.
+8)
+Has access control been proposed?
+9)
+Will the proposed scheme be compatible with the standard of conjoining road
+sections?
+10)
+Will there be sufficient opportunities for overtaking?
+1 1 )
+Are the number and distribution of intersections appropriate in relation to:
+a)
+The desired function of the new road?
+b)
+Impact on the surrounding, adjacent and/or off-loaded road network (does the
+project simply move present problems?)?
+c)
+Accessibility for public transport and emergency vehicles?
+12)
+Are junction types shown the safest available at each location,
+in relation to the
+expected turning volumes?
+13)
+Are the proposed horizontal and vertical alignments consistent with
+visibility
+requirements both along the road and junctions?
+1 4)
+Has lighting been planned?
+If so, does the lighting offer maximum safety, both on links
+and at junctions?
+1 5)
+Will the project have any effect on existing pedestrian and cycle routes?
+16)
+Does the project include measures for vulnerable road-users and
+if so, do these
+measures offer maximum safety?
+68
+
+IRC:SP:88~2010
+1 7)
+Do the available accident data for the existing/adjacent road network give reason to
+expect particular road safety problems in the proposed project?
+1 8)
+Whether non-motorised traffic is expected to cause problems?
+1 9)
+What is the likelihood of future widening?
+20)
+Do the gradients, curves and general design approach fit in with the class of terrain
+and likely weather or environmental aspects?
+21)
+Check any special events creating unusual or hazardous conditions and any other
+matter, which may have a bearing on safety.
+22)
+Other checks pertinent to the project at discretion of auditor or client.
+CHECKLIST 2 - STAGE 2 AUDIT (COMPLETION OF PRELIMINARY DESIGN)
+1 )
+Have all recommendations from the previous stage been followed?
+If not, why not?
+2)
+Is the desired speed compatible with the cross-section and other design elements
+and is the desired speed realistic?
+3)
+Cross-section:
+a)
+Has delineation of the carriageway with a kerb been proposed?
+b)
+Is there adequate space for all groups of road users ?
+c)
+Is there appropriate separation between various groups of road users?
+4)
+Horizontal and Vertical alignment and visibility:
+a)
+Do the proposed alignment satisfy any demands on visibility at junctions and
+sight distances on free sections?
+b)
+Will sight distances/visibility be blocked by traffic signs, guardrails, bridge
+parapets, buildings, rigid obstacles or plantations (now and in the future)
+c)
+Can parts of the project constitute a risk, especially in combination (e.g. peaks
+in the vertical alignment plus sharp horizontal bends, crests of hills plus traffic
+signals)?
+5)
+Are the lane widths, shoulders, medians and other cross-section features
+in
+accordance with standard design and adequate for the function of the road?
+6)
+Check whether there are undesirable variations
+in cross-section design. Check
+cross-falls, which could affect safety, particularly where sections of existing highway
+have been utilized, or where there have been compromises to accommodate access
+to abutting properties.
+7)
+Check the safety aspects of shoulder provision, including the provision of paved and
+earthen shoulders, the width and treatment on embankments and cross-fall of
+shoulders? Are the shoulders likely to be used by slow-moving vehicles or cyclists?
+69
+
+!RC:SP:88-2010
+8)
+Check for the provision of climbing lanes in hilly sections where vertical gradients are
+steep for considerable length of the highway?
+9)
+Junctions, interchanges and their design:
+a)
+Will road users coming from all directions (including side roads) be able to see
+that they are approaching a conflict area? Are give-way
+lines, stop
+lines,
+turning lanes and ramps clearly visible?
+b)
+Are existing conjoining and intersecting roads appropriately adjusted and
+matched to the new road (without sharp bends and gradients)?
+c)
+Do the routes of road users through the junction seem clear for all directions
+and manoeuvres?
+d)
+Is there sufficient space for all types of vehicles to undertake all manoeuvres?
+e)
+Are the crossing facilities for pedestrians and non-motorised traffic adequate
+and safe?
+f)
+Can parking cause problems?
+g)
+Have roundabouts been considered?
+In urban areas, ghost markings and left-turning lanes with islands are safest; they
+prevent overtaking and assist pedestrians and cyclists who are crossing the road.
+10)
+Decide whether or not old, unremoved section of road can give undesired optical
+directions.
+11)
+Special points at roundabouts:
+a)
+Are all entrance lanes curved and is speed adequately reduced?
+b)
+Will the central island be visible?
+c)
+Are the measures taken for the benefit of pedestrians from a safe stopping
+distance and cycle traffic adequate?
+1 2)
+At the junction/transition to existing roads (especially from multi-lane to two-lane, dual
+to single carriageway):
+a)
+Are there sudden changes of alignment?
+b)
+Does the road standard change too rapidly, or can road users clearly see and
+recognize the transition in good time?
+c)
+Would a roundabout be able to mitigate any sudden changes in standards and
+alignment?
+:
+13)
+Are existing junctions and intersections adjusted and matched to the new road
+appropriately (without sharp bends and gradients)?
+70
+
+IRC:SP:88"2010
+1 4)
+Are there any constructions that will be difficult to drain and are the cross-fall and any
+gutter gradient adequate at the critical spots?
+Are there places where there is a risk of flooding?
+1 5)
+Will overtaking be prevented at critical places (not simply by restrictions, but also by
+making
+it quite apparent that overtaking is prohibited)?
+1 6)
+If signs and road markings have been proposed:
+a)
+Are the markings consistent and are they adequate?
+b)
+Has the quantity of information been kept at a reasonable level?
+1 7)
+If markings have not been proposed: will special markings be necessary?
+1 8)
+Is there any risk that cannot be "marked out of existence"?
+1 9)
+Will there be any large sign constructions? Is so; will guardrails or breakaway safety
+devices protect them?
+20)
+Has
+it been proposed that lighting be located on the outside or inside of bends?
+21)
+Will
+it be possible to carry out maintenance work (on lighting, gantries, plantations,
+etc.) safely and without using the carriageway or cycle path?
+22)
+Is the landscaping design or plantation likely to lead to a lowering of safety with mature
+or seasonal growth? Is frangible vegetation appropriate?
+23)
+Are there arrangements for safe access by emergency vehicles? Check the design of
+medians and
+barriers, and the
+ability of emergency vehicles to stop without
+necessarily disrupting traffic?
+24)
+Pedestrians
+a)
+Have pedestrian needs been considered?
+b)
+If footpaths are not specifically provided,
+is the road layout safe for use by
+pedestrians, particularly at blind corners and on bridges?
+c)
+Are pedestrian subways or footbridges sited to provide maximum use?
+d)
+Is the avoidance of footbridges or subways possible by crossing the road at
+grade?
+e)
+Has specific provision been made for pedestrian crossings, school crossings
+or pedestrian signals?
+f)
+Are pedestrian refuges/kerb extensions needed?
+g)
+Whether needs of disabled road users taken care of?
+25)
+Have the needs of public transport users been considered? Are bus stops positioned
+for safety?
+71
+
+IRC:SP:88-2010
+26)
+Is
+lighting envisaged
+in specified locations of the project? Are the
+difficulties of
+illuminating sections of the road caused by trees or over bridges, for example? Are
+there any aspects of the provision
+of the
+lighting poles, which would require
+consideration from the safety point of view in their being struck by vehicles?
+27)
+Is adequate safe access to the work
+site available?
+28)
+Are there any factors requiring specific road safety provision, including maintenance?
+29)
+Are there any traffic management features, which would require special attention
+during construction or during the transition from construction to full operation?
+30)
+Other checks made at discretion of auditor or client.
+CHECKLIST 3
+- STAGE 3 AUDIT (COMPLETION OF DETAILED DESIGN)
+1)
+Have all recommendations from the previous stage been followed?
+If not, reasons
+thereof?
+2)
+Visibility, sight distance
+a)
+Are horizontal and vertical alignments consistent with the required visibility
+requirements?
+b)
+Confirm whether the standard adopted for provision of visibility in the design is
+appropriate for the ruling design speed and for any unusual traffic mix.
+c)
+Check whether sight lines are obstructed by:
+Safety fences
+Boundary fences
+Street furniture
+Parking facilities
+Signs
+Landscaping
+Bridge abutments
+d)
+Check whether railway crossings, bridges and other hazards are conspicuous.
+e)
+Will sight lines to be obstructed by temporary features such as parked vehicles
+in lay-byes or parked or queued traffic has been taken care of?
+3)
+Check whether the design standards are appropriate for all the new requirements of
+the proposed project and check for consistency of general standards and guidelines
+such as lane widths, camber and cross-fall.
+4)
+Cross-sections:
+a)
+Are cross-falls appropriate?
+b)
+Is there a suitable gutter gradient or is the carriageway laid at a suitable height
+above the shoulder?
+72
+
+IRC:SP:88-2010
+Lighting columns, traffic signals, sign standards, etc:
+a)
+Have requirements on safe distances to carriageway and cycle path been
+observed?
+b)
+Have breakaway safety devices or such like been proposed?
+Signs and markings:
+a)
+Are markings consistent along the entire road section?
+b)
+Is the information clear?
+c)
+Are there enough signs?
+d)
+Are there too many signs?
+e)
+Will signs mask each other or traffic signals (be sure to include all plans for
+signs and markings in your assessment)?
+f)
+Are the signs correctly positioned, without obstructing sight distances/visibility
+in any way?
+Are the proposed types of kerb stone/edge marking appropriate?
+Lighting:
+a)
+Is there any risk that the lighting can be optically misleading and will
+it have any
+detrimental effects on traffic signals and signs?
+b)
+Are there any unlit areas that could conceal hazards?
+c)
+Will an illuminated side road mislead road users on the planned, unlit road?
+d)
+Are
+all pedestrian crossings illuminated (not merely the formally marked
+crossings, but also unmarked places where pedestrians could be expected to
+cross)?
+e)
+Will powerful
+illumination
+of adjoining areas or strongly illuminated
+advertisements cause problems?
+Junctions, interchanges and their design:
+a)
+Will road users coming from all directions (including side roads) be able to see
+that they are approaching a conflict area? Are give-way lines, stop
+lines,
+turning lanes and ramps clearly visible?
+b)
+Are existing conjoining and intersecting roads appropriately adjusted and
+matched to the new road (without sharp bends and gradients)?
+c)
+Do the routes of road users through the junction seem clear for all directions
+and manoeuvres?
+d)
+Is there sufficient space for all types of vehicles to undertake all manoeuvres?
+73
+
+1RC:SP:88-2010
+e)
+Are the crossing facilities for pedestrians and non-motorised traffic adequate
+and safe?
+f)
+Can parking cause problems?
+g)
+Have roundabouts been considered?
+In urban areas, ghost markings and left-turning lanes with islands are safest; they prevent
+overtaking and assist pedestrians and cyclists who are crossing the road.
+10)
+Decide whether or not old, unremoved section of road can give undesired optical
+directions.
+1 1 )
+Special points at roundabouts:
+a)
+Are all entrance lanes curved and is speed adequately reduced?
+b)
+Will the central island be visible?
+c)
+Are the measures taken for the benefit of pedestrians from safe stopping
+distance and cycle traffic adequate?
+1 2)
+At the junction/transition to existing roads (especially from multi-lane to two-lane, dual
+to single carriageway):
+a)
+Are there sudden changes of alignment?
+b)
+Does the road standard change too rapidly, or can road users clearly see and
+recognise the transition in good time?
+c)
+Would a roundabout be able to mitigate any sudden changes in standards and
+alignment?
+13)
+Are existing junctions and intersections adjusted and matched to the new road
+appropriately (without sharp bends and gradients)?
+14)
+Guardrails, hedges and railings:
+a)
+Are all vulnerable areas protected?
+b)
+Are bridge
+pillars,
+steel posts, trees
+etc., protected by guardrails where
+necessary?
+c)
+Are there places where hedges are necessary to prevent pedestrians from
+crossing?
+d)
+Are the chosen hedges/guardrails "light" enough?
+e)
+Do guardrails/road side furniture have any hazardous sharp protruding edges?
+15)
+Road surface:
+a)
+Has a porous type of surface been chosen?
+b)
+Will an exceptionally high-friction surface be necessary in especially exposed places?
+74
+
+IRC:SP:88-2010
+c)
+Would a change of surface as a purely visual signal to road users be of
+benefit? Used in this way, could a change of surface be misunderstood by road
+users?
+At junction/transition to existing road network (especially from multi-lane to two-lane,
+end of central reserve)
+a)
+Is there sufficient advance warning?
+b)
+Are reflector posts correctly positioned?
+c)
+Are ghost markings appropriate in connection with the merging of two lanes?
+d)
+Is there continuity of edge markings?
+For two-lane sections prepared for expansion to four lanes with central reserve
+(e.g. expressways built as "semi-motorways")
+a)
+Will road users be clear everywhere that they are not on a one-way, two-lane
+carriageway?
+b)
+Should night illumination of signs be of extra high standard?
+c)
+Is overtaking prevented at ail points where prevention is necessary?
+d)
+Should special measures be adopted at bridges built with a view to future
+expansion?
+Examine adjoining areas for potential safety problems (airfield, signals for maritime
+traffic and railways, flying golf balls etc.)
+Additional temporary signs
+will be necessary for most new constructions.
+In this
+context consider:
+a)
+Is the text, etc. comprehensible and correct?
+b)
+Have all signs etc., been positioned safely?
+c)
+When will they be removed?
+Be sure also to use the separate checklists for specific facilities and measures.
+Landscaping:
+a)
+Is there advertising conflict between landscaping and visibility requirements?
+Has ultimate growth height been considered and potential obstructions to
+pedestrian visibility and potential for trees to become collision objects?
+b)
+Will maintenance of soft landscaping be safe?
+Plantations:
+a)
+Will plantations obscure visibility and has a maximum height been specified?
+b)
+Are plantations likely to encroach on markings or lighting?
+75
+
+IRC:SP:88-2010
+c)
+Will fully-grown trees constitute a hazard (have the requirements on distances
+to rigid obstacles be observed?)?
+d)
+Can maintenance be carried out safely?
+22)
+Lay byes:
+a)
+Are there any lay-byes available in the section?
+b)
+Is the by bye properly located and
+it is not inconvenient to the drivers to stop the
+vehicles?
+c)
+Is there any need to modify the lay-bye design (if yes, suggest the parameters
+that need modification)?
+/
+d)
+Are advance warning signs and markings properly guiding the driver about the
+lay-bye?
+e)
+Is there any need of any additional signs and markings?
+23)
+Check provision for pedestrians to cross safely at intersections, signalised and
+pedestrian crossings, refuges, kerb extensions and at other locations.
+24)
+Are median barhers necessary and have they been properly detailed? Are there any
+design features such as end conditions which require special attention?
+25)
+Are there any poles located adjacent to moving traffic which could be sited elsewhere?
+26)
+Have frangible or breakaway poles been detailed?
+27)
+Is the unprotected median width adequate to accommodate lighting poles?
+28)
+Are there any obstructions, which are likely to create a safety hazard and can they be
+mitigated or relocated?
+29)
+Is a crash barrier provided wherever necessary and is
+it properly detailed?
+30)
+Check whether access to structures and road furniture is safe. Check that the road or
+utilities
+in the road reserve can be maintained
+safely. Both road users and
+maintenance personnel should be considered.
+31 )
+Check that the requirements for the traffic management of the construction site and
+safety measures needed for workers and road users have been adequately spelled
+out from the safety point
+of view including the transition from the existing
+arrangements to the construction site and from the construction site to the final layout
+can be effected safely.
+32)
+Check for the arrangement for temporary and permanent traffic control devices,
+including possible signals, temporary diversion etc.
+33)
+Check that the design duly considers the needs of persons with disabilities.
+34)
+Other checks made at discretion of auditor or client.
+76
+
+IRC:SP:88-2010
+CHECKLIST 4 - STAGE 4 AUDIT (DURING CONSTRUCTION STAGE)
+1 )
+Have all recommendations from the previous stage been followed?
+!f not, why not?
+2)
+Whether information regarding the construction zone approaching has been provided
+well in advance or not?
+3)
+Whether standard procedure and contract conditions provided
+for proper
+management of the construction
+site and road users are properly and safely
+accommodated?
+4)
+Whether the transitions from the existing road to the site of works safe and clearly laid
+out?
+5)
+Whether the width of the lanes is satisfactory for the traffic passing through the works
+area?
+6)
+Whether sight and stopping distances adequate at site of works and at intersections?
+7)
+Whether bus stops appropriately located with adequate clearance from the traffic lane
+for safety and visibility.
+8)
+Whether appropriate street lighting or other delineation provided at the road works to
+ensure that the site is safe at night? Check the night time visibility of traffic control
+devices.
+9)
+Check for proper education and training programme for site operators and
+managers, which would assist
+in creating and maintaining safer environment for
+construction workers and road users.
+1 0)
+For clear and sufficient information to the road user, advance warning signs installed
+or not?
+11)
+Is there any provision of marked lanes for safe and clearly guiding road users?
+12)
+Whether suitable measures provided through construction zones to control driver
+behaviour?
+13)
+Check for the adequacy of traffic control devices (such as signs, markings, cones,
+drums, delineators, barricades, flashing lights etc.) required for each zone
+i.e., at
+advance warning zone, at approach transition zone and at work zone? Check for
+placement and visibility of these control devices.
+1 4)
+Has permission been taken while changing the standard layouts from safety point of
+view.
+1 5)
+Whether police and other emergency services been consulted?
+16)
+Check for proper care and attention for pedestrian and non-motorised
+traffic at
+construction sites.
+1 7)
+Check for adequate safety provisions for the elderly and persons with disabilities.
+77
+
+IRC:SP:88-2010
+1 8)
+Whether construction workers provided with protective clothing etc. reflecting jackets,
+hard hats, gloves etc.?
+1 9)
+Whether flagmen are available on duty at the appropriate places? Check for proper
+traffic management practice to avoid inhibiting traffic to pass clear of work site and
+necessary attention to roadside safety.
+20)
+Whether the temporary diversion
+is provided at work zones in compliance with the
+contract and traffic management plan approved by the Engineer.
+21)
+Whether the Traffic Management Plan at work site prepared and submitted by the
+Contractor to the Engineer for approval.
+22)
+Is the Supervision Engineer ensuring the required quality of traffic management plan?
+23)
+Whether arrangements of First Aid Box and other emergency care exist for persons
+getting injured.
+24)
+Whether suitable speed reducing measures are provided at work zones.
+25)
+Other checks made at discretion of auditor or client.
+CHECKLIST 5
+- STAGE 5 AUDIT (COMPLETION OF CONSTRUCTION/PRE-OPENING)
+1 )
+Have all recommendations from the previous stages been followed?
+If not, why not?
+2)
+Involve the site engineer
+3)
+Test the installations of traffic control devices as a road user: by car, by truck, by bus,
+by cycle and on foot - from disabled road user angle. Also in the dark/ night hours.
+4)
+Examine the carriageway for defects, especially at junctions to existing roads.
+5)
+Has the opening of the road facility been adequately publicized?
+6)
+How will the transition phase proceed?
+7)
+Check that provision for emergency vehicle access and stopping is safe?
+8)
+Check that all delineators and pavement markings are correctly in place.
+9)
+Check that all signs and other traffic control devices are correctly in place. Check that
+they are likely to remain visible at all times.
+1 0)
+Check that the road markings as installed have sufficient contrast with the surfacing
+and are clear of debris.
+1 1 )
+Check that all lighting operating is effective from safety point of view.
+1 2)
+Check that no roadside hazard has been installed or overlooked.
+13)
+Check that the form and function of the road and
+its traffic management are easily
+recognised under likely operating conditions.
+78
+
+IRC:SP:88-2010
+1 4)
+Check that all temporary arrangements, signing, etc, have been removed and replaced
+by permanent arrangements.
+1 5)
+Other checks made at discretion of auditor or client.
+CHECKLIST 6
+- STAGE 6 AUDIT (ON EXISTING ROADS OR DURING OPERATION &
+MANAGEMENT)
+1 )
+Carryout inspection - do not forget to take the results of accidents analysis and relevant
+checklists with you.
+2)
+Does the actual function of the road correspond to its intended function?
+3)
+Are the prevailing speed levels within desirable limits?
+4)
+Do the equipment and standard of the road correspond to its function, speed level and
+classification? (Use checklist 2 and 3, as well as any specific checklists, which are
+relevant.)
+5)
+Do road users park in ways that could constitute hazards?
+6)
+Do plantations obscure visibility or the view of signs?
+7)
+Are the surface and carriageway markings in good condition?
+8)
+Are there any signs that road users drive over islands or kerbs or that the routes taken
+by motorists through junctions and bends are less than ideal?
+9)
+Are there signs of other conflict situations and minor accidents?
+10)
+Are the specified distances to
+rigid obstacles maintained for
+all groups of road
+users?
+1 1 )
+Are medians and islands of adequate width for the likely users.
+1 2)
+Are there signs of pedestrian traffic in places that seem hazardous to pedestrians?
+1 3)
+Does there appear to be a need for more or better crossing facilities for pedestrians?
+1 4)
+Does there appear to be a need for more or better facilities for cyclists?
+1 5)
+Has due consideration been given to children, the elderly, persons with disabilities?
+1 6)
+Are bus stops and bus bays safely located with adequate visibility and clearance to
+the traffic lane.
+1 7)
+Any provisions for parking satisfactory in relation to traffic operations and safety?
+1 8)
+Are all locations free of construction or maintenance equipment, and any signing or
+temporary traffic control devices that are no longer required?
+79
+
+IRC:SP:88-2010
+1 9)
+Are overtaking opportunities available for heavy vehicles where volunnes are high?
+20)
+Are the road boundaries free of any activities that are likely to distract drivers?
+21 )
+Is the location of rest areas and truck parking areas along the route appropriate and
+adequate?
+22)
+Is sufficient warning provided in advance of breaks in service roads and openings in
+medians for traffic using multilane highway?
+23)
+Are there reasonable traffic calming measures in place for the road stretches passing
+through habitations and built up areas?
+24)
+Other checks made at discretion of auditor or client.
+CHECKLIST 7
+- PLANNING
+1 )
+Is there a development plan or development strategy for the area and,
+if so, does the
+project conform to this?
+2)
+Is the proposed design appropriate in relation to the forecast traffic volumes, traffic
+characteristics and the adjoining land use?
+3)
+Does the route fit in with the physical constraints imposed by the topography?
+4)
+Does the route serve major generators of traffic in a safe and adequate manner?
+5)
+Is the frequency of junctions and their type appropriate for the function of the road and
+its design speed?
+6)
+Does the project road
+fit in well with the existing road network? (Check for potential
+problems at the connections - will changes in traffic volumes cause problems)
+7)
+Does the project road relieve routes or sites with bad accident records? Does
+it have
+any harmful effects on safety on the surrounding road network?
+CHECKLIST 8
+- ALIGNMENT
+1 )
+Is the proposed design speed appropriate to the function of the road, the mix of traffic
+likely to use
+it, and the road environment? (Check whether different sections need
+different design speeds?).
+2)
+If the speed is not up to the mark of design speed, whether proper cautionary sign
+have been provided?
+3)
+Does the alignment (horizontal and vertical) give sufficient forward visibility for the
+selected design speed? (Check for inadequate stopping sight distances)
+4)
+Check for consistency throughout the route; note any location where alignment
+standard changes abruptly and is not as would be expected by drivers.
+5)
+Do the horizontal and vertical alignments
+fit together comfortably? (Check for bad
+80
+
+IRC:SP:88-2010
+combinations, such as a sharp bend immediately after a summit curve, and sag curve
+within a bend).
+6)
+Does the alignment provide safe overtaking opportunities? Does
+it avoid creating
+situations where the forward
+visibility
+is marginal for overtaking (neither clearly
+adequate nor inadequate)?
+7)
+Does the treatment at curves, proposed
+if any, make appropriate, adequate and safe
+provision for transition curves, superelevation and carriageway and formation widening?
+8)
+Does the vertical alignment pose excessive demands on the power of heavy vehicles?
+Has
+it been designed so those maximum grades are interspersed with recovery
+grades? Are there passing places to enable faster vehicles to overtake slow-moving
+heavy vehicles?
+9)
+Is the transition between project road and the existing road(s) i.e., access roads handled
+safely?
+CHECKLIST 9
+- CROSS-SECTION
+1)
+Are the widths of the carriageway, shoulders, medians
+(if any), service roads
+in
+accordance with standards and adequate for the function of the road and volume and
+the mix of traffic likely to use it?
+2)
+Check whether bridges have footpaths and they have proper gradients/crash
+barriers.
+3)
+Note any location where the cross-section standard changes abruptly along the route
+or is otherwise inconsistent with driver expectations.
+4)
+Identify any locations where the capacity of the roadway
+is restricted and note
+locations of regular traffic congestion.
+5)
+Have the shoulders and side slopes been designed to a safe standard and note any
+locations with inadequate shoulder width?
+6)
+Have the side drains been designed to a safe standard? Are the batter slopes and
+drains safe for run-off vehicles to traverse?
+7)
+Is the transition between the project road and the existing road(s) handled safely?
+(Check for major changes in standards).
+8)
+Check whether the cross-section has adequate provision for the Vulnerable Road
+Users including persons with disabilities:
+a)
+Pedestrians: Have paved footpath, adequate refuge width on median and
+proper ramps, up and down kerbs, where there is regular pedestrian traffic?
+b)
+Bicyclists: Segregated areas
+(e.g. paved shoulders) where numbers are
+significant
+81
+
+IRC:SP:88-2010
+CHECKLSST 10
+- JUNCTIONS
+a)
+General
+1 )
+Is the genera! layout of junction caters safely for all road users including disabled road
+users? (Check whether there are other junctions too close to
+it. Check whether
+approaching drivers will get a clear view of
+it. Check with respect to pedestrians,
+cyclists and two wheelers etc.)
+2)
+The type of junction (T-type, staggered, signal controlled, roundabout) suitable for the
+function
+of the two or more roads, the
+traffic volume, the
+traffic movements
+(pedestrians and vehicular) and the site constraints? Is
+it safest alternative?
+3)
+Is the layout of the junction adequate for all permitted vehicular movements and for all
+types of vehicles?
+4)
+Will the general type of junction,
+its layout and the priority rules be recognised by
+approaching drivers well in time? Is the route through junction as simple and clear as
+possible? (Check for unusual or over-complicated layouts? Check that signages and
+marking are correct and clear?)
+5)
+Does the layout encourage slow controlled speeds at and on the approach to stop/
+give way lines and other critical decision points? (Check for Y and skew junctions,
+which can be a problem. Also roundabout with inadequate deflection?)
+6)
+Are the sight lines at and on the approach to stop/give way lines and other critical
+decision points adequate and unobstructed? (Check for Y and skew junction, which
+can be problem. Check signs, lighting columns, pedestrian guardrails etc.?)
+7)
+Is there adequate provision for channelising the different streams of traffic? (Check
+the provision for right turn lanes, deceleration lanes and acceleration lanes?)
+8)
+Is adequate provision made for pedestrians and non-motorised vehicles?
+9)
+Is the provision of nighttime lighting adequate,
+if not what are the deficiencies?
+10)
+Are junction(s) at that stretch having proper markings, signs and studs to avoid
+accidents?
+b)
+Roundabouts
+11)
+Is the geometry simple and easily understood? (Pay attention to roundabouts which
+are not circular, or which have awkward entry paths).
+1 2)
+Are there too many entries for safe efficient operation? Are they sufficiently separated
+from each other to avoid confusion?
+1 3)
+Does the design deflect entering traffic sufficiently to ensure entry speeds are safer?
+(Check entry path curvature, centre island size and positioning).
+82
+
+IRC:SP:88-2010
+Is there
+visibility for entering
+traffic adequate? (Check
+if
+visibility
+is too good,
+if
+encourage entry speeds which are too high)
+Is the visibility for circulating traffic adequate?
+Has the Central Island been designed to be forgiving to errant vehicles?
+Has adequate provision been made for pedestrians to cross the arms of the junction?
+Have the needs of cyclists and other non-motorised vehicles been considered?
+Does the signing make the
+priorities clear? (Entering
+traffic must giveway to
+circulating traffic).
+Signal-Controlled Junction
+Does the signal sequence conform to the requirements of the regulations and
+standards?
+Do the signals clearly indicate which movements are allowed at any one time? Are the
+timings of various phases of signal cycle adequate?
+Are the signal heads positioned so that drivers can see them easily, and in time to
+react (stop or go)?
+Are the signals for competing phases located in such a way that they are visible only to
+the traffic for which they are intended?
+Are all right turning movements protected as far as possible?
+Does the signing; marking and channelisation make
+it clear to drivers what path they
+should take through the junction?
+Are pedestrian crossing places marked, and are pedestrians channeled to these
+crossings?
+Are the pedestrian signals positioned so those pedestrians can see them?
+Whether the pedestrian crossing signal controls are provided where appropriate?
+If
+so, there is a need for the crossing movements to be fully protected from conflicting
+traffic movements for example where there will be serious conflicts with turning traffic.
+Vegetation and Plantation
+Is the top of vegetation in the traffic island as well as channelisers, dividers less
+than 600 mm above the road top level for a length of 15 m from the end of the
+dividers?
+Is the vegetation/plantation at the corners of the junction retracted for enough back
+from the edge of the shoulders to afford clear view of approaching traffic to the
+driver?
+Are there no branches of trees projecting over the road berms/pavement at a height
+less than 7 m?
+83
+
+IRC:SP:88-2010
+CHECKLIST 11
+- ROAD SIGNS
+1)
+Is the provision for road signs (regulatory, warning and informatory signs and
+delineators) adequate and in accordance with standards? (Check with respect to size,
+shape and placement etc.)
+2)
+Check for any unauthorized traffic signs and use of non-standard signs (colour and
+shape).
+3)
+Location and spacing of signs
+a)
+Note locations where there are too many signs placed
+i
+b)
+Note the signs placed too close to each other
+4)
+Note
+if
+all
+traffic signs are clearly visible and are prominently displayed for the
+intended road users.
+5)
+Find any instances where the legibility of the information on traffic signs is inadequate,
+bearing in mind the speed of vehicles and the amount of information displayed.
+6)
+Determine effectiveness of traffic signs by observing them at night and identify any
+lack of reflectivity.
+7)
+Examine type of sign posts used and record situations where sign posts constitute
+a fixed roadside hazard or where the use of frangible sign posts should be
+considered.
+8)
+Are there any situations where traffic signs themselves are obstructing essential 'Line
+of Sight' for drivers and pedestrians.
+9)
+Regulatory and Warning signs
+a)
+Are appropriate regulatory signs provided where necessary?
+b)
+Are warning signs provided only where they are warranted?
+10)
+Informatory signs
+a)
+Has signing been done on a systematic route or regional strategy that
+it is
+logical and meets needs of unfamiliar driver?
+b)
+Are
+all important junctions provided with advance direction sign, distance
+information sign and intersection sign etc.?
+c)
+Are these signs correctly positioned to enable the required timely action to be
+taken by the intended drivers?
+84
+
+1RC:SP:88-2010
+d)
+Find instances of poor legibility and poor arrangement of information on
+signs.
+e)
+Overhead signs - size, message information adequate, languages as per IRC
+standards.
+CHECKLIST 12
+- ROAD MARKINGS
+1)
+General adequacy and
+visibility of road markings, during day/night time and
+in
+wet/ dry weather conditions
+2)
+Has correct type of markings been used in various situations (e.g. lane line, edge line
+etc.)?
+3)
+Are correct colours used for laying road markings?
+4)
+Is there any deficiency
+in the delineation of merge and diverge areas, including
+situations where 'through' traffic may inadvertently lead into auxiliary and turn lanes?
+5)
+Are zebra crossing markings provided at junctions and mid-blocks of the sections
+(depending upon the movement of pedestrian)?
+6)
+Is positioning of stop lines appropriate?
+7)
+Are the directional arrows marked on the pavement guiding the driver or creating
+confusion to the driver?
+8)
+Are there locations where there
+is a lack of 'Hazard markings' at approach end of
+island, medians and culverts/ bridges etc.?
+9)
+Have retro-reflective markers been installed? Where coloured markers are used, have
+they been installed correctly?
+1 0)
+If chevron alignment markers are installed, have the correct types of markers been
+used?
+CHECKLIST 13
+- LIGHTING
+1)
+Is there any need of lighting on the project roads, or parts of
+it, to be lighted at night
+(particularly where there are pedestrians and parking along the road) important
+interchanges, bus bays, truck lay byes, toll plazas?
+2)
+Are the proposed lighting scheme and illumination levels of an appropriate standard,
+consistent with the needs of the location, pedestrian and other factors?
+85
+
+IRC:SP:88-2010
+3)
+Identify the locations where street lighting columns constitute a hazard to traffic (on the
+outside of sharp curves, on small islands, noses of medians) or which may conflict
+visually with traffic signals or signs?
+4)
+Does the existing street lighting enhance as 'route guidance', rather than confuse the
+drivers ability to 'see the direction of the route ahead'?
+5)
+Are the appropriate types of poles used for
+all locations and correctly installed
+(e.g. slip-base at correct height, rigid poles protects
+if within clear zone)?
+6)
+Has lighting for signs, particularly overhead signs, been provided where necessary?
+7)
+Are there any lighting or telephone poles close to the edge of the berms so as to pose
+hazard to traffic?
+8)
+Are there any lighting poles in the median unprotected by crash barriers?
+CHECKLIST 14
+- ROADSIDE HAZARDS
+1)
+Is a clear zone provided
+in accordance with the guidelines?
+Is the appropriate
+treatment or projection provided for any objects within the clear zone?
+2)
+Are bridge and culvert parapets and other obstructions close to moving traffic?
+If so,
+can they be relocated?
+If not, are they adequately provided with signs and, where
+necessary, protected by safety barrier?
+3)
+Are bridge parapets designed to contain errant vehicles, where the speed and
+volume of traffic warrants them?
+4)
+Are the ends of bridge parapets, bridge
+railing and pedestrian guardrail/crash
+barriers of a safe design?
+5)
+Are there any poles or columns along the road and comment on whether some or any
+of them can be removed, relocated to less hazardous positions etc.
+6)
+Is there a degree of hazard associated with large trees, boulders, etc. and whether
+these can be treated to improve roadside safety?
+7)
+Do the trees and other vegetations obstruct driver and pedestrian sight lines, which
+are essential for safe traffic operation?
+8)
+Are there any 'fixed roadside objects', which occur within the roadway? Comment on
+the need to treat them in terms of road safety?
+9)
+Is there an existence of roadside stalls and other roadside business activities within
+the right of way of the road?
+86
+
+IRC:SP:88-2010
+1 0)
+Are the provided crash barriers suitable for the purpose?
+11)
+Is the length of crash barrier at each installation adequate? Are the crash barrier
+installed correctly?
+1 2)
+Is the provided barrier/fencing in the clear zone free of separate horizontal rails?
+1 3)
+Is there adequate delineation/visibility of barriers and fences during nighttime?
+1 4)
+Are there any thorny bushes by the roadside, whose branches are likely to hurt the
+passengers occupying the window seat of a vehicle, especially a non-AC bus?
+1 5)
+Is any thick growth of vegetation by the roadside enough far back from the edge of the
+pavement to enable a driver to take protective steps in time
+if any human or animal
+should run across the road from behind or within the vegetation?
+1 6)
+Are there any sharp edged or pointed fixtures or tops of supporting verticals on the
+median crash barriers or on dividers which can hurt a motor cyclist
+in case of a
+collision or crash or loss of balance.?
+1 7)
+Are there any village name boards or direction boards by the roadside with pointed
+ends to hurt a passenger in a bus on window seat?
+18)
+Bridges/Canal crossings: Are the open spaces by the side of ends of Parapets
+covered by protective crash barriers or walls to prevent vehicles going into the river or
+canal?
+1 9)
+Have the roadside trees close to edge of berms, which cannot be removed for want of
+permission of tree authority been made visible at night and day by white washing/
+pasting reflective tape on them?
+20)
+Is the height of vegetation in the median at breaks in median at junctions or for U Turns
+or for pedestrian crossings reduced to less than 60 cm for a length of 20 m to afford
+complete visibility to drivers?
+21 )
+Is the height of vegetation in the median less than 60 cm on curves?
+22)
+Is the median clear of any trees with trunks with girth greater than 30 cm?
+If not, are
+such locations enveloped by protective crash barriers?
+23)
+Are fixing details of pipe railing such that the entire length of pipe
+is smooth and
+continuous without any projection on roadward side?
+24)
+Are entrances to abandoned roads properly fenced off?
+87
+
+!RC:SP:88-2010
+CHECKLIST 15
+- ROADSIDE FACILITIES
+1 )
+Do the cross-section, alignment and signages encourage drivers to adjust their speed
+on entering the town or village and maintain
+it at an appropriate level? (Check that
+it
+will be quito clear to drivers that the road environment is changing and that they slow
+down).
+2)
+Is there adequate and safe provision for pedestrians and non-motorised traffic to walk
+alongside the road and to cross it? (Check for provision of footpaths, shoulders and
+safe crossing places and whether pedestrian movements are controlled and
+channelled by guardrail in busy places?)
+3)
+Are the design and provision of roadside parking and access to properties adequate,
+controlled and safe?
+4)
+Has the opportunity been taken to improve the traffic and parking situation in the town
+and villages through which the road passes? (Check for junction improvements,
+access control, provision of service lanes, parking areas and bus stops).
+5)
+Are bus stop locations safe and proper and whether the provision for buses to stand
+clear of traffic lanes has been made? Also is there need for lighting at these locations
+for the security and safety of passengers?
+6)
+Is there any need for overtaking opportunities along the route at regular intervals on
+divided roads, particularly where traffic flows are high or in hilly terrain?
+7)
+Consider the need for rest areas and other roadside stopping places e.g., truck stops,
+scenic view points, wayside picnic areas etc, and note any current 'unofficial' places
+where vehicles stop and the degree of hazard that this involves.
+CHECKLIST 16
+- VULNERABLE ROAD USERS
+1 )
+Has there been a survey of non-motorised vehicle and pedestrian flows?
+2)
+Will there be any major conflicts between motorised traffic and pedestrians and other
+disabled / handicapped road users?
+3)
+Have pedestrians need for crossing the road and walking safely alongside
+it been
+adequately provided for? (Check particularly in towns and villages and at all junctions
+- check shoulder width
+- check whether
+it
+is desirable and feasible to provide a
+segregated footway - check whether steps are provided where pedestrians will have
+to climb high embankments).
+88
+
+IRC:SP:88-2010
+4)
+Is the provision for pedestrians and non-motorised vehicles at bridges and narrow
+sections adequate in relation to pedestrian and vehicular traffic volumes and traffic
+speeds?
+5)
+Have measures been taken to reduce the accident risk for children going to and from
+roadside schools (Pedestrian guardrail may be needed to prevent children from
+running out into the road)?
+6)
+Have the need of cyclists and other non-motorised vehicles been provided for (Check
+shoulder width
+- check the need and feasibility of segregated cycle/cycle rickshaw
+lanes, especially in towns)?
+7)
+Are bicycle safe grates provided at drainage pits where necessary?
+8)
+Does the volume of motorcycle traffic justify the provision of separate lanes? (Check
+in towns).
+9)
+Are bus stops appropriately located with adequate clearance from the traffic lane for
+safety and visibility?
+1 0)
+Where necessary, is fencing installed to guide pedestrians and cyclists at crossings
+or overpasses?
+CHECKLIST 17
+- DEVELOPMENT PROPOSALS
+1)
+Horizontal Alignment:
+a)
+Is visibility satisfactory at proposed access, including that for pedestrians?
+b)
+Are curve radii and forward visibilities satisfactory?
+,,
+..
+,
+,
+,
+c)
+Are verge widths satisfactory?
+v-^ r'
+?
+2)
+Vertical Alignment:
+^
+a)
+Are gradients satisfactory?
+b)
+Are sight and stopping distances maintained?
+3)
+Parking Provision:
+a)
+Is off-site parking adequate to minimise on street parking and associated risks?
+b)
+Are parking areas conveniently located, with adequate turning facilities?
+4)
+Servicing Facilities:
+a)
+Are off street loading/unloading areas provided?
+b)
+Are there any turning facilities for large vehicles?
+c)
+Is emergency vehicles access provided for?
+89
+
+IRC:SP:88-2010
+5)
+Landscaping:
+a)
+Does landscaping affect visibility at junctions, bends or access points?
+b)
+Is tree planting proposed where vehicles are most likely to run off road?
+6)
+Traffic Signs and Road Markings
+a)
+Have necessary traffic signs and road markings been provided as part of
+development?
+7)
+Other Traffic Control Devices - Road Side furniture, delineators, crash barriers, guard
+rails, etc.
+8)
+Others
+:
+a)
+Will there be area-wide effect on other roads?
+b)
+Will design keep speeds down where necessary?
+c)
+Are number of access points to busy roads minimised by layout?
+d)
+Are footpaths (side walks) necessary and provided adequately?
+e)
+Are cycle tracks required?
+f)
+Is street lighting required/ adequate?
+g)
+Are bus bays and stops safely located?
+h)
+Are dropped crossings provided at preferred pedestrian route or crossing
+points?
+i)
+Is pedestrian guardrail provided where walkways join the highway?
+j)
+Are truck lay byes required?
+k)
+Are toll plazas congestion free?
+CHECKLIST 18
+- MAINTENANCE WORK
+1 )
+Is
+it publicised to the necessary extent about road works, including applicable speed
+limits and diversions?
+2)
+Are temporary traffic signals or road markings adequate and does the message reach
+all road users?
+3)
+Has a temporary speed limit been suggested and is
+it proper?
+90
+
+!RC:SP:88-2010
+Will the unaffected road users misunderstand temporary traffic signals?
+Is the standard of proposed signs adequate?
+Will
+it be necessary to illuminate critical points?
+Will the work site, enclosing material, etc. behave as a rigid obstacle?
+Will there be safe access to the work place?
+Has a safety zone been proposed and is
+it adequate?
+Has due consideration been given to
+all groups of road users
+in the layout of
+staggering and diversions?
+91
+
+(
+
+
+
+
+(The Official amendments to this document would be
+published by the IRC in its periodical, 'Indian Highways'
+which shall be considered as effective and as part of the
+code/guidelines/manual, etc. from the date specified therein)
+

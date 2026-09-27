@@ -1,0 +1,942 @@
+[
+  {
+    "id": "Q01",
+    "query": "What maintenance treatment is recommended for potholes?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.5752,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 57,
+        "text": "ted before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstruction  \n Life cycle cost saving  \n8.2.2   For preventive maintenance applications, the following guidelines must be considered: \n Existing distress to be treated \n Anticipated distress to be delayed or prevented \n Appropriate treatment for existing condition  \n Timing of  treatment for best results  \n Maximizing performance while minimizing cost  \n8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a \ndistressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as \npreventive maintenance, when placed on an extensively cracked surface. A preventive maintenance \nstrategy comprises following: \n Identification of causes of distress  \n Measurement of distress \n Selection of appropriate treatment  \n Timing of treatment  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of "
+      },
+      {
+        "rank": 2,
+        "score": 0.5739,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 3,
+        "text": " benefits for \npreservation of road asset. The importance of overall maintenance is described below: \ni) \nReduction in rate of deterioration and improvement in life of road  \nii) \nReduction in Vehicle Operation Costs (VOC) \niii) \nReduction in crash rate  \niv) \nKeeping road traffic worthy roads in all weather conditions \nv) \nReduction in pollution due to reduced fuel consumption on well-maintained \npavement surface \nvi) \nSavings in budgetary expenditure of restoration/ reconstruction  \n \n3.2 Timely and regular maintenance of roads have been known to provide economic rate of \nreturn as high as 15 to 20 percent depending upon the category of road and traffic volume.  \nMoreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than \npreventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface \nusing sustainable/suitable materials and methods is significant for preservation of road asset and \nto serve the intended purpose. \n \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of pothole"
+      },
+      {
+        "rank": 3,
+        "score": 0.556,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 4,
+        "text": " \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of potholes, repairing of cracks and \npatch work, shoulder dressing, drain desilting etc., which are undertaken by the maintenance \nstaff all through the year.  Routine maintenance is also required for pavement markings on \nthe bituminous surfaces to guide the road users and enhance road safety. \nb) \nPreventive Maintenance: Preventive maintenance is performed to improve or extend the \nfunctional life of pavement surface while in good structural condition. This may defer the \ntiming for periodic maintenance and rehabilitation during the design life. \nc) \nPeriodic Maintenance: This includes regular maintenance operations compared to \npreventive maintenance such as applying a non-structural renewal coat. Periodic renewals  \n\n5 | P a g e \n \nare required to be carried out at specified frequency (scheduled response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the "
+      },
+      {
+        "rank": 4,
+        "score": 0.5529,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 81,
+        "text": " : 101 ‘Interim Guidelines for Warm Mix Asphalt’ \niv) IRC : 116 ‘Specifications for Readymade Bituminous Pothole Patching Mix Using Cut-back \nBitumen’ \n \n11. TOOLS AND EQUIPMENT \n11.1 \nGeneral \nUse of mechanized methods and techniques for carrying out various maintenance activities are \nrecommended for achieving efficiency and quality in maintenance operations.  Suitable tools, plants and \nequipment of appropriate capacity need to be deployed keeping in view the type and magnitude of the \nwork and desired output.  Proper maintenance and upkeep of all maintenance tools, plants and \nequipment is very important to ensure quality work.  It is always advisable to follow equipment \nmaintenance instructions and schedule as per manufacturer’s specifications.  Some of the tolls and \nequipment especially tend to develop inaccuracies and defects with usage and hence, their regular \nmonitoring/checking and rectification is essential. \n \nCrack filling, pothole filling and patching works form the major part of the bituminous surface maintenance.  \nWhile the crack sealing is generally carried out by manual methods, pothole filling and patching can be efficiently \ncarried out by mechanized methods"
+      },
+      {
+        "rank": 5,
+        "score": 0.5528,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 55,
+        "text": "dequate slope to drain away water. A slope one per \ncent steeper than the camber of the bituminous surface should be provided for earthen shoulders. In \norder to prevent the edges from getting broken again, the maintenance operations should include \nperiodic inspection of the shoulder condition and replacement of worn out shoulder material with \nadequate compaction. In sandy areas where the soil is likely to be eroded by wind and rain, it may \nbe advantageous to have brick paving at least for some width to protect the edges. Surface and \nsubsurface drainage, wherever deficient, should be improved  \n \n8.  PREVENTIVE MAINTENANCE  \n8.1  Introduction  \nDelays in maintenance increase the severity of distress in pavement leading to higher  maintenance \nexpenditure. Preventive maintenance is a planned maintenance activity, which decreases rate of \nsurface deterioration and extend service life of bituminous pavement. It is a planned strategy of \nmaintenance activity for cost-effective treatment of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contrib"
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "query": "What activities are included in routine pavement maintenance?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6992,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 2,
+        "score": 0.6763,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 4,
+        "text": " \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of potholes, repairing of cracks and \npatch work, shoulder dressing, drain desilting etc., which are undertaken by the maintenance \nstaff all through the year.  Routine maintenance is also required for pavement markings on \nthe bituminous surfaces to guide the road users and enhance road safety. \nb) \nPreventive Maintenance: Preventive maintenance is performed to improve or extend the \nfunctional life of pavement surface while in good structural condition. This may defer the \ntiming for periodic maintenance and rehabilitation during the design life. \nc) \nPeriodic Maintenance: This includes regular maintenance operations compared to \npreventive maintenance such as applying a non-structural renewal coat. Periodic renewals  \n\n5 | P a g e \n \nare required to be carried out at specified frequency (scheduled response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the "
+      },
+      {
+        "rank": 3,
+        "score": 0.6307,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 93,
+        "text": "ce of low volume roads use of labor based and semi-mechanized methods \nare generally preferred.  As the traffic increases, the level of mechanization should also increase for \ncarrying out maintenance efficiently.  For maintenance of roads carrying high volumes of traffic, \nmachine based methods and technologies capable of carrying out maintenance with speed and safety and \ncausing minimum interruptions in movement of traffic are recommended. \n \n13.4 Planning and scheduling of the maintenance operations should be given due importance. The \nannual renewal programme should be drawn up well in advance keeping in view the condition of the \nsurface and any improvement work carried out recently or scheduled to be taken up in the near future. In \ncase sufficient funds are not available for renewal works, the priority may be decided following the \nsuggested criteria given in Section 9.5.  This would enable the field engineers to plan and implement \nmaintenance programmes in a rational manner and according to available budget. \n\n \n60\n \nAPPENDIX-1 \n \nMETHODOLOGY FOR PAVEMENT CONDITION SURVEY \n \nPavement condition surveys \n \nPavement condition surveys can be broadly classified into manual met"
+      },
+      {
+        "rank": 4,
+        "score": 0.6247,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 15,
+        "text": "awn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to the proper organization and management aspects of the \nprogramme including deployment of various resources, i.e. men, materials and equipment, in an \nefficient manner. For each maintenance activity, the work at site should be carefully controlled \nso that the optimum output and quality are achieved.  \nCondition surveys may be undertaken/carried out manually or through an instrumented method \nas per the guidelines given in Appendix -1.   \n\n12 | P a g e \n \n6. SYSTEM APPROACH TO PAVEMENT MAINTENANCE  \n6.1 Pavement Maintenance Management System (PMMS) is a technical or operational \nmethodology for managing or directing and controlling maintenance resources, in a scientific \nmanner, for optimum benefits.  It is a complex problem of matching  resources, time, materials, \nlabour, equipment, funds, design and, above all decision making, whereas, Pavement \nManagement System (PMS) consists of a comprehensive, coordinated set of activities \nassociated with the planning, design, construction maint"
+      },
+      {
+        "rank": 5,
+        "score": 0.6243,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 3,
+        "text": " benefits for \npreservation of road asset. The importance of overall maintenance is described below: \ni) \nReduction in rate of deterioration and improvement in life of road  \nii) \nReduction in Vehicle Operation Costs (VOC) \niii) \nReduction in crash rate  \niv) \nKeeping road traffic worthy roads in all weather conditions \nv) \nReduction in pollution due to reduced fuel consumption on well-maintained \npavement surface \nvi) \nSavings in budgetary expenditure of restoration/ reconstruction  \n \n3.2 Timely and regular maintenance of roads have been known to provide economic rate of \nreturn as high as 15 to 20 percent depending upon the category of road and traffic volume.  \nMoreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than \npreventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface \nusing sustainable/suitable materials and methods is significant for preservation of road asset and \nto serve the intended purpose. \n \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of pothole"
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "query": "What maintenance actions are recommended for pavement cracks?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6666,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 2,
+        "score": 0.6576,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 17,
+        "text": "level-of-serviceability for any given pavement.  This is \nan important feedback to planning, design and construction.  The type and degree of maintenance \ncan also influence the rate and serviceability loss for a pavement.  It is reporting of maintenance \npractices and problems.  Hence, maintenance management is primarily managing the resources to \nprovide an agreed level-of-service. \n7. TYPES OF PAVEMENT DISTRESS, THEIR IDENTIFICATION, SYMPTOMS, \nLOCATION, CAUSES, SEVERITY LEVELS AND TREATMENT  \n7.1 General: The types of defects in bituminous surfacing are grouped under four categories.  \ni) \nSurface Defects: These include fatty surfaces, smooth surface, streaking, and hungry \nsurface  \nii) \nCracks : These include all types of cracks, viz.,  hair-line cracks, alligator cracks, \nlongitudinal cracks, edge cracks, shrinkage cracks, and reflection cracks  \n\n13 | P a g e \n \niii) \nDeformation:  These include rutting, corrugations, shoving including those caused by \nlayer slippage , shallow depressions, settlements and upheavals etc.  \niv) \nDisintegration: These include stripping, loss of aggregates, raveling, potholes, and edge \nbreaking \nThe location and, severity of distress are impor"
+      },
+      {
+        "rank": 3,
+        "score": 0.6373,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 57,
+        "text": "ted before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstruction  \n Life cycle cost saving  \n8.2.2   For preventive maintenance applications, the following guidelines must be considered: \n Existing distress to be treated \n Anticipated distress to be delayed or prevented \n Appropriate treatment for existing condition  \n Timing of  treatment for best results  \n Maximizing performance while minimizing cost  \n8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a \ndistressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as \npreventive maintenance, when placed on an extensively cracked surface. A preventive maintenance \nstrategy comprises following: \n Identification of causes of distress  \n Measurement of distress \n Selection of appropriate treatment  \n Timing of treatment  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of "
+      },
+      {
+        "rank": 4,
+        "score": 0.6182,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 4,
+        "text": " \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of potholes, repairing of cracks and \npatch work, shoulder dressing, drain desilting etc., which are undertaken by the maintenance \nstaff all through the year.  Routine maintenance is also required for pavement markings on \nthe bituminous surfaces to guide the road users and enhance road safety. \nb) \nPreventive Maintenance: Preventive maintenance is performed to improve or extend the \nfunctional life of pavement surface while in good structural condition. This may defer the \ntiming for periodic maintenance and rehabilitation during the design life. \nc) \nPeriodic Maintenance: This includes regular maintenance operations compared to \npreventive maintenance such as applying a non-structural renewal coat. Periodic renewals  \n\n5 | P a g e \n \nare required to be carried out at specified frequency (scheduled response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the "
+      },
+      {
+        "rank": 5,
+        "score": 0.6026,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 56,
+        "text": "t of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contribution to load carrying capacity of pavement. \nSuch treatments are cost effective, if provided on a pavement in fair to good condition. The \nplacement of right preventive maintenance treatment at the right time saves pavement from leading \nto poor condition (Table 5.1 to 5.3), where rehabilitation and reconstruction would be inevitable as \nfar more costly.  \n \n8.2  Selection of preventive maintenance treatment  \n8.2.1 Preventive maintenance treatments shall be selected based upon the condition of existing \npavement. The cracking, rutting, riding quality, climate and traffic are given due consideration in \nselection of preventive maintenance treatments. The concept of preventive maintenance stipulates \n\n38 | P a g e \n \nthat deterioration modes can be anticipated and at least partially mitigated before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstr"
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "query": "What are the benefits of preventive road maintenance?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6743,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 56,
+        "text": "t of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contribution to load carrying capacity of pavement. \nSuch treatments are cost effective, if provided on a pavement in fair to good condition. The \nplacement of right preventive maintenance treatment at the right time saves pavement from leading \nto poor condition (Table 5.1 to 5.3), where rehabilitation and reconstruction would be inevitable as \nfar more costly.  \n \n8.2  Selection of preventive maintenance treatment  \n8.2.1 Preventive maintenance treatments shall be selected based upon the condition of existing \npavement. The cracking, rutting, riding quality, climate and traffic are given due consideration in \nselection of preventive maintenance treatments. The concept of preventive maintenance stipulates \n\n38 | P a g e \n \nthat deterioration modes can be anticipated and at least partially mitigated before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstr"
+      },
+      {
+        "rank": 2,
+        "score": 0.6284,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 55,
+        "text": "dequate slope to drain away water. A slope one per \ncent steeper than the camber of the bituminous surface should be provided for earthen shoulders. In \norder to prevent the edges from getting broken again, the maintenance operations should include \nperiodic inspection of the shoulder condition and replacement of worn out shoulder material with \nadequate compaction. In sandy areas where the soil is likely to be eroded by wind and rain, it may \nbe advantageous to have brick paving at least for some width to protect the edges. Surface and \nsubsurface drainage, wherever deficient, should be improved  \n \n8.  PREVENTIVE MAINTENANCE  \n8.1  Introduction  \nDelays in maintenance increase the severity of distress in pavement leading to higher  maintenance \nexpenditure. Preventive maintenance is a planned maintenance activity, which decreases rate of \nsurface deterioration and extend service life of bituminous pavement. It is a planned strategy of \nmaintenance activity for cost-effective treatment of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contrib"
+      },
+      {
+        "rank": 3,
+        "score": 0.5966,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 4,
+        "score": 0.5926,
+        "source": "NHAI Road Safety Audit Manual",
+        "document": "Road_Safety_Audit_Manual.txt",
+        "chunk_id": 85,
+        "text": "\ninspection plays an important role. As with a road safety audit of any type of project, the road\nshould be inspected from the point of view of all the likely road user groups and not just motorists.\nThe road should be inspected for each user group and for the different types of movement.\nFollowing completion of road, safety audit report for an existing road, the highway authority will\nneed to make an assessment of the cost effectiveness of the recommended solutions. Some\nsolutions may be in the nature of maintenance treatment and can be easily implemented. Some\nsolutions may be expensive. In some cases lower cost options may be available and they may\nprovide benefits only marginally less than the expensive option, in some cases, expensive option\nmay be the only effective solution.\nIt will also usually be necessary to set priorities for action on\nthe road under review, as not all recommended improvements can be funded immediately. Audit\nreport should highlight those problems, which are considered so urgent that they require\nimmediate attention. Issues and problems will vary, depending on the road's environment, the\ntopography and terrain, when\nit was built and whether it has previo"
+      },
+      {
+        "rank": 5,
+        "score": 0.5823,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 58,
+        "text": "ent  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of distress causes, severity, climate and traffic. Refer to Tables 5.1 to 5.5 in \nsection 5 and conceptual illustration given in Figure 8.1, preventive maintenance shall be \nundertaken when drop in quality of pavement surface is less than 30% as quantified in Tables 5.1 to \n5.3 by pavement condition rating criteria. Preventive maintenance treatments shall be effective \nbefore the pavement condition rating drops below 2. The type of treatment shall depend upon \npavement condition rating as well as type and area of distress. The detailed warrants for choice of \nthe treatment are given in Tables 8.1 to 8.7.   \n 8.2.5 Suitable preventive maintenance treatment may be identified by following attributes.  \n Purpose of treatment  \n Applicability \n- Traffic  \n- Environment  \n- Surface condition  \n Limitations \n\n40 | P a g e \n \n Construction considerations \n Expected performance  \n Cost effectiveness  \n8.2.6 The typical preventive maintenance treatments are given below.  \n Crack sealing/ cra"
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "query": "What factors should be considered when selecting a maintenance treatment?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6399,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 2,
+        "score": 0.6342,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 4,
+        "text": " \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of potholes, repairing of cracks and \npatch work, shoulder dressing, drain desilting etc., which are undertaken by the maintenance \nstaff all through the year.  Routine maintenance is also required for pavement markings on \nthe bituminous surfaces to guide the road users and enhance road safety. \nb) \nPreventive Maintenance: Preventive maintenance is performed to improve or extend the \nfunctional life of pavement surface while in good structural condition. This may defer the \ntiming for periodic maintenance and rehabilitation during the design life. \nc) \nPeriodic Maintenance: This includes regular maintenance operations compared to \npreventive maintenance such as applying a non-structural renewal coat. Periodic renewals  \n\n5 | P a g e \n \nare required to be carried out at specified frequency (scheduled response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the "
+      },
+      {
+        "rank": 3,
+        "score": 0.6098,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 57,
+        "text": "ted before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstruction  \n Life cycle cost saving  \n8.2.2   For preventive maintenance applications, the following guidelines must be considered: \n Existing distress to be treated \n Anticipated distress to be delayed or prevented \n Appropriate treatment for existing condition  \n Timing of  treatment for best results  \n Maximizing performance while minimizing cost  \n8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a \ndistressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as \npreventive maintenance, when placed on an extensively cracked surface. A preventive maintenance \nstrategy comprises following: \n Identification of causes of distress  \n Measurement of distress \n Selection of appropriate treatment  \n Timing of treatment  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of "
+      },
+      {
+        "rank": 4,
+        "score": 0.603,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 58,
+        "text": "ent  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of distress causes, severity, climate and traffic. Refer to Tables 5.1 to 5.5 in \nsection 5 and conceptual illustration given in Figure 8.1, preventive maintenance shall be \nundertaken when drop in quality of pavement surface is less than 30% as quantified in Tables 5.1 to \n5.3 by pavement condition rating criteria. Preventive maintenance treatments shall be effective \nbefore the pavement condition rating drops below 2. The type of treatment shall depend upon \npavement condition rating as well as type and area of distress. The detailed warrants for choice of \nthe treatment are given in Tables 8.1 to 8.7.   \n 8.2.5 Suitable preventive maintenance treatment may be identified by following attributes.  \n Purpose of treatment  \n Applicability \n- Traffic  \n- Environment  \n- Surface condition  \n Limitations \n\n40 | P a g e \n \n Construction considerations \n Expected performance  \n Cost effectiveness  \n8.2.6 The typical preventive maintenance treatments are given below.  \n Crack sealing/ cra"
+      },
+      {
+        "rank": 5,
+        "score": 0.5749,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 56,
+        "text": "t of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contribution to load carrying capacity of pavement. \nSuch treatments are cost effective, if provided on a pavement in fair to good condition. The \nplacement of right preventive maintenance treatment at the right time saves pavement from leading \nto poor condition (Table 5.1 to 5.3), where rehabilitation and reconstruction would be inevitable as \nfar more costly.  \n \n8.2  Selection of preventive maintenance treatment  \n8.2.1 Preventive maintenance treatments shall be selected based upon the condition of existing \npavement. The cracking, rutting, riding quality, climate and traffic are given due consideration in \nselection of preventive maintenance treatments. The concept of preventive maintenance stipulates \n\n38 | P a g e \n \nthat deterioration modes can be anticipated and at least partially mitigated before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstr"
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "query": "What equipment is recommended for road maintenance activities?",
+    "type": "direct",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6211,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 85,
+        "text": "nized \nmaintenance units may be equipped for other applications also.  For more specific applications or other maintenance \ntreatments, various equipment and methods that are generally used are indicated in Section 9.4 \n \n12. ARRANGEMENTS FOR TRAFFIC AND SAFETY MEASURES DURING ROAD \nMAINTENANCE  \n \n12.1 \nSafety during Maintenance Work in Progress \n \n\n57 | P a g e \n \n12.1.1 The road construction and maintenance activities are an integral part of road network \ndevelopment and its preservation.  Maintenance of roads is a normal recurring and periodic activity.  \nDuring execution of maintenance activities, proper arrangements for safe operation and movement of \nnormal traffic, maintenance workers and equipment in the work zones are most important.  The road \nwork zones are areas of conflict between normal operating traffic, workers, maintenance equipment and \nmachines and work zone traffic.  Care has to be taken to avoid/remove conflicts between workers, \nmaintenance equipment and traffic.  As a good practice, it should be essential to prepare a Work Zone \nTraffic Management Plan (WTMP) to provide for reasonably protecting the workers and equipment.  \nWTMP should provide for continuity"
+      },
+      {
+        "rank": 2,
+        "score": 0.6206,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 3,
+        "text": " benefits for \npreservation of road asset. The importance of overall maintenance is described below: \ni) \nReduction in rate of deterioration and improvement in life of road  \nii) \nReduction in Vehicle Operation Costs (VOC) \niii) \nReduction in crash rate  \niv) \nKeeping road traffic worthy roads in all weather conditions \nv) \nReduction in pollution due to reduced fuel consumption on well-maintained \npavement surface \nvi) \nSavings in budgetary expenditure of restoration/ reconstruction  \n \n3.2 Timely and regular maintenance of roads have been known to provide economic rate of \nreturn as high as 15 to 20 percent depending upon the category of road and traffic volume.  \nMoreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than \npreventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface \nusing sustainable/suitable materials and methods is significant for preservation of road asset and \nto serve the intended purpose. \n \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of pothole"
+      },
+      {
+        "rank": 3,
+        "score": 0.6125,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 89,
+        "text": "ings and other Traffic Control Devices \n \n12.2.1 After completion of the maintenance work, the existing road markings, road signs etc. shall be \nrestored to ensure safe and smooth movement of traffic.  The maintenance staff shall keep the road \nauthority informed of deficiencies, if any, observed in road signage, markings and other traffic control \ndevices.  Safety measures for necessary action to remove the deficiencies, is warranted to be identified \nfor implementation therefore, as per relevant IRC Standard and Codes of Practice.  \n   \n13. ORGANISATION AND MANAGEMENT \n \n13. 1 Maintenance of a road requires proper planning, programming and adequate tools, equipment, \nmachinery and skilled workers/operators to carry out the required maintenance activities.  There should \nbe well equipped dedicated maintenance units or divisions within the organization in order to achieve \nthe intended purpose in an effective and efficient manner.  For primary roads, the nodal agency to \nidentify the priorities and initiate action related to maintenance implementation is either MORTH or \nNHAI.  In case of secondary and tertiary roads, the maintenance is the responsibility of the State \ngovernments "
+      },
+      {
+        "rank": 4,
+        "score": 0.5836,
+        "source": "NHAI Quality Assurance Manual",
+        "document": "NHAI_Quality_Assurance__Manual.txt",
+        "chunk_id": 52,
+        "text": " over the \noriginal areas after excavation for borrow is completed. \n(iv) For quarry areas, particular care is to be taken to ensure \nthat testing (and approval) is given for only areas to be \nindicated on the plan for which the materials have \nhomogeneous properties.  Similarly, the depth and extent of \noverburden to be removed prior to quarrying is to be \naccurately measured and clearly indicated. \n \n(b) Transport of Materials \n \n(i) \nAll movements and access of equipment to be stationed in \nthe designated areas are to cause minimum compaction of \nthe soil (in critical areas/situations, the Engineer may \n\n25 \nrequire that all such equipment have tracks rather than \nwheels). \n(ii) All transport vehicles are to be covered and have adequate \ncovers, sides and tailgates to prevent spillage of materials.  \n(iii) All transport vehicles are to select appropriate routes and \ndelivery times, and are to adopt safe driving habits so as to \nensure the minimum of inconvenience to affected village \ninhabitants, and to reduce accident potential.  The \ncontractor is responsible for the repair/maintenance of all \nroads and facilities damaged by his transport equipment.  \n \n(c) Development/Redevel"
+      },
+      {
+        "rank": 5,
+        "score": 0.583,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 91,
+        "text": " \nhierarchy, several forms and methods of implementing routine maintenance may be required to choose \nthe one most suited to a road agency.  Efforts are underway in this direction to standardize various types \nof maintenance contracts.  In addition to this, availability and development of maintenance contractors \nrequires to be addressed in a big way.  During the transition period, the road agencies have to modernize \nthe existing system to bring in efficiency, productivity and improved performance by introducing \nmechanization, mobile maintenance units, new and energy saving materials and institutionalizing \ndedicated maintenance set up.  The effort should continue to be to move towards contracting out \nmaintenance. This would require assured funding and effective supervision.  Some model bidding \ndocuments for road maintenance have been developed for use of road agencies and these documents \nincorporate provisions for performance security, maintenance standards, performance criteria, simplified \npayment procedure, damages for non-performance, etc so as to ensure that the contractor is held \naccountable for the performance of maintenance.   \n \n13.2 \nPerformance Based Maintenance C"
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "query": "What causes potholes in bituminous pavements?",
+    "type": "related",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.7395,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 52,
+        "text": " in bituminous wearing coat due to \nthe ingress of water into the pavement or due to higher voids in surface. The pavement gets \nweakened as a result of loss of cohesion, and under the action of traffic. The formation of pothole is \naggravated due to use of plastic filler in granular base. If not attended to timely and properly, \naggregates in the surface get progressively loosened to result in a pothole. Lack of proper bond \nbetween the bituminous surfacing and the underlying water bound Macadam base layer can also \ncause formation of potholes. Insufficient bitumen content in localized areas of the surfacing layer \ncan also cause formation of potholes. A thin bituminous surface, which is unable to withstand the \nheavy traffic, can also cause formation of potholes, when associated with improper or inadequate \ncamber. In dense-graded mixtures, potholes can be caused by too much fines or too few fines.  \n \n7.5.3.4 Pothole unit  \nThe extent of potholing can be expressed in terms of ‘pothole units. Each pothole unit has a surface \narea of 0.1 m2, i.e., approximately 300 mm in diameter and therefore can be adequately estimated \nby reference to a person’s foot. For estimating maintenance"
+      },
+      {
+        "rank": 2,
+        "score": 0.6745,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 45,
+        "text": "relatively large deformations of the pavement \ncompared to shallow depressions. These are dangerous to traffic and cause reduction in speed of \ntraffic. These are generally followed by extensive cracks over the pavement surface in the affected \nregion. Settlements and upheavals are shown in Photo 7.4.6 (a) and (b), respectively \n\n31 | P a g e \n \n                                                      \n  \n               Photo 7.4.6 (a) Settlement in Bituminous Surfacing \n                                                         \n \n                  Photo 7.4.6 (b) Upheaval in Bituminous Surfacing \n7.4.6.2 Location  \nSettlement may be along the wheel path or at isolated locations in a lane carriageway.  \n7.4.6.3 Causes  \nThe following are the causes for settlements and upheavals in bituminous pavements:  \ni) \nInadequate compaction of the fill at locations behind bridge abatements, over utility cuts, etc  \nii) \nExcessive moisture in sub-grade and permeable layer of sub-base and base caused by \ncapillary action or poor drainage  \niii) \nInadequate pavement thickness \n7.4.6.4 Severity  \nNot Applicable  \n7.4.6.5 Treatment  \nIf settlements and upheavals indicate any inherent weakness in the f"
+      },
+      {
+        "rank": 3,
+        "score": 0.6245,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 51,
+        "text": " slurry seal and microsurfacing \nb) Medium severity raveling: This may be corrected by application of  seal coat slurry seal or \nmicrosurfacing treatment in affected area \nc) High severity raveling: Depending upon condition of raveled surface and specification of \nexisting surface. The high severity raveling may be corrected by single or multiple \napplications of liquid seal coat, slurry seal, microsurfacing and surfacing of thin overlay of \nappropriate mix specification like mix seal surfacing or open graded premix carpet. \n \n7.5.3 Potholes  \n7.5.3.1 Symptoms \n\n35 | P a g e \n \nPotholes are bowl shaped cavities of varying sizes in a bituminous surface or extending into the \nbinder/base course, caused by localized disintegration of material.  \n \n(a) Small  \n \n          (b) Medium \n \n \n(c) Large \nPhoto 7.5.3 Potholes of Different Severity  \n7.5.3.2 Location  \nPotholes may occur in any part of road surface.  \n7.5.3.3. Causes  \nThe most common cause of pothole formation is loss of adhesion in bituminous wearing coat due to \nthe ingress of water into the pavement or due to higher voids in surface. The pavement gets \nweakened as a result of loss of cohesion, and under the action of traff"
+      },
+      {
+        "rank": 4,
+        "score": 0.5949,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 7,
+        "text": "cation not associated\nwith other failure modes.\nLocal distress, local soft spots, local locking up\nof water.\n(b)\nPotholes associated\nwith cracking\nPotholes\nassociated\nwith\nalligator\ncracks.\nCracked pieces getting removed under traffic.\nPavement in severe distress, at its last phase of\nlife. Structurally inadequate.\n7.\nEdge breaking\nPavement edges getting broken\nLack of shoulder support, tracking at pave-\nment edges.\n8.\nRavelling\nAggregates, both coarse and fine getting out of\nthe pavement and getting collected in areas\nother than wheel paths.\nStripping, abrasion by traffic, degradation of\naggregates,\ninsufficient\nbitumen,\nbitumen\noxidised.\nNotes: (a)\nFor detailed information the following books may be consulted ;\n( j)\n“ Principles of Pavement Design” by EJ. Yoder and M.W. Witczak — Chapter on pavement distress,\n(ii)\n“ Soil Mechanics for Road Engineers\" published by Her Majesty's Stationery Office.\n(b)\nA few illustrations of pavement distress are given in the drawing attached\n\nILLUSTRATIONS OF PAVEMENT DISTRESS\nv\ni\nRUTTING\nSHEAR FAILURE\nIN SUBGRADE\nSHEAR FAILURE\nIN PAVEMENT\nI\nI\ni\nI\n'' . r\njr-7 JV/\nf\n-fy—\ni\nr /\n7 /\n^\n.\ni\nA\nr i f />J\ni\n1\ni\ni\nl\nCRACKING AND\nPOT HOLES\nA. ALLIGATOR CRACK"
+      },
+      {
+        "rank": 5,
+        "score": 0.5771,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 18,
+        "text": "depressions, settlements and upheavals etc.  \niv) \nDisintegration: These include stripping, loss of aggregates, raveling, potholes, and edge \nbreaking \nThe location and, severity of distress are important to select appropriate maintenance treatments, \nmaterials and technique.    \n7.2 \nSurface Defects: These are confined to surfacing and may be due to inappropriate quality \nand quantities of bitumen.  \n7.2.1 Bleeding  \n7.2.1.1  Symptoms \nA surface having a thin film of excess or free bituminous binder on it, which creates a shiny, glass \nlike reflecting surface tending to become soft in hot weather and slippery in cold and wet weather, \neventually developing low skid resistance is referred to as bleeding or fatty bituminous surface.  \n7.2.1.2  Location \nGenerally such defect develops along the wheel path but sometimes these are restricted to isolated \nlocations and specific lanes. Many a time, these defects are seen on entire carriageway. \n7.2.1.3  Causes  \nBleeding occurs in hot weather, when the bituminous binder after filling the available voids in \ncompacted bituminous layer moves upward under traffic movement and collects as a thick film on \nthe surface.  The process is not rev"
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "query": "What are the recommended repair methods for longitudinal cracks?",
+    "type": "specific",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.537,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 31,
+        "text": "oper/weak joint between adjoining layers of pavement.  \n7.3.4.4 Severity Level  \nSeverity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) \nThe low severity is assigned to 1-3 mm wide and infrequent cracks medium severity is assigned to \n3-6 mm wide cracks. High Severity is assigned to cracks, greater than 6 mm wide and are frequent \n(numerous). \n7.3.4.5 Treatment \nTreatment for longitudinal cracks depend upon the severity and extent of the cracking: \na) Low and medium Severity Cracks: Crack sealing, preferably using rubberized bitumen \nb) High Severity Cracks: Remove and replace the cracked pavement layer with fresh overlay. \n \n7.3.5 Transverse Cracks \n7.3.5.1 Symptoms  \nThese cracks appear in the transverse directions or as interconnected cracks forming series of large \nblocks perpendicular to the direction of the road. \n\n22 | P a g e \n \n \n                (a) Low severity \n               (b) Medium severity \n \n     (c) High severity \nPhoto 7.3.5.  Transverse Cracks \n \n7.3.5.2 Location  \nTransverse cracks may occur at isolated locations or in a lane/carriageway.  \n7.3.5.3 Causes \nTransverse cracking may occur due to reflection of crack or j"
+      },
+      {
+        "rank": 2,
+        "score": 0.5189,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 30,
+        "text": "g. Treatment of alligator cracking may \nbe done by following the methods depending upon their severity. \na) Cracks sealing by bitumen emulsions  \nb) Crack sealing by rubberized and modified bitumen  \nc) Milling and surface recycling  \nIn case of a pavement being structurally inadequate or weak, a properly designed overlay based on \nevaluation shall be provided \n \n7.3.4 Longitudinal Cracking \n7.3.4.1 Symptoms  \nCracks that appear parallel to the centerline or along the road are called longitudinal cracks.  These \ncracks are also sometimes source of onset of alligator cracking.  \n\n21 | P a g e \n \n       \n      \n \na)Low severity  \n \n     b) Medium severity                  \nc)  High severity \nPhoto 7.3.4 Longitudinal Cracking  \n \n7.3.4.2 Location  \nThese cracks may appear at joints between two paving lanes or pavement and paved shoulders. \n7.3.4.3 Causes  \nLongitudinal cracks in bituminous pavement are usually caused by alternate wetting and drying \nbeneath the shoulder surface or by improper/weak joint between adjoining layers of pavement.  \n7.3.4.4 Severity Level  \nSeverity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) \nThe low severity is"
+      },
+      {
+        "rank": 3,
+        "score": 0.4688,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 17,
+        "text": "level-of-serviceability for any given pavement.  This is \nan important feedback to planning, design and construction.  The type and degree of maintenance \ncan also influence the rate and serviceability loss for a pavement.  It is reporting of maintenance \npractices and problems.  Hence, maintenance management is primarily managing the resources to \nprovide an agreed level-of-service. \n7. TYPES OF PAVEMENT DISTRESS, THEIR IDENTIFICATION, SYMPTOMS, \nLOCATION, CAUSES, SEVERITY LEVELS AND TREATMENT  \n7.1 General: The types of defects in bituminous surfacing are grouped under four categories.  \ni) \nSurface Defects: These include fatty surfaces, smooth surface, streaking, and hungry \nsurface  \nii) \nCracks : These include all types of cracks, viz.,  hair-line cracks, alligator cracks, \nlongitudinal cracks, edge cracks, shrinkage cracks, and reflection cracks  \n\n13 | P a g e \n \niii) \nDeformation:  These include rutting, corrugations, shoving including those caused by \nlayer slippage , shallow depressions, settlements and upheavals etc.  \niv) \nDisintegration: These include stripping, loss of aggregates, raveling, potholes, and edge \nbreaking \nThe location and, severity of distress are impor"
+      },
+      {
+        "rank": 4,
+        "score": 0.4685,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 29,
+        "text": "mm. \n\n20 | P a g e \n \n \n    (a) Low severity   \n \n \n (b) Medium severity  \n \n \n(c) High severity  \n7.3.2 Alligator cracks \n \nHigh Severity: High Severity alligator cracking is characterized by an area of moderate to severely \nspalled interconnected cracks creating a full pattern of cracking similar to skin of alligator. The \nwidth and depth in this case may be more than 6 mm.  Pieces of bituminous surface may be loose or \nmissing. The pumping of water and fine material below the pavement may be seen on the surface. \n7.3.3.5 Treatment  \nIn order to repair a pavement affected by alligator cracking, the main cause of the cracking should \nbe determined. However, often the specific cause is fairly deep seated.  Any investigation should \ninvolve digging a pit or coring the pavement to determine the pavement structural adequacy/ability \nas well as determining whether or not subsurface moisture is a contributing factor. The repair \nneeded is also based on the severity and extent of the cracking. Treatment of alligator cracking may \nbe done by following the methods depending upon their severity. \na) Cracks sealing by bitumen emulsions  \nb) Crack sealing by rubberized and modified bitumen  \n"
+      },
+      {
+        "rank": 5,
+        "score": 0.4655,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 26,
+        "text": "ion must be given for sealing of cracks, and prevention of their further \nwidening as ingress of water through cracks is detrimental to pavement structure and performance \nof bituminous surfacing. \n \n \n\n18 | P a g e \n \n7.3.2 Hairline Cracks \n7.3.2.1 Symptoms \nHairline cracks are present in narrow area and their width is less than one mm (Photo 7.3.1). \nHairline cracks are generally isolated and normally these are not interconnected. These appear as \nshort and fine cracks at close intervals on the surface. Many a time, such cracks disappear in hot \nsummer.  \n \nPhoto 7.3.1 Hairline Cracks \n \n7.3.2.2 Location  \nThese cracks may be at isolated places or in a lane/carriageway. \n7.3.2.3 Causes  \nThese cracks develop due to either insufficient bitumen content, excessive filler, improper \ncompaction, oxidation of bitumen in surface or sometimes excessive moisture in granular layers.  \nThese may occur due to rolling of mix while it is still tender or due to excessive compaction. \n7.3.2.4. Severity Levels  \nNot applicable \n7.3.2.5 Treatment  \nThese cracks may be treated by fog seal, application of liquid rejuvenating agents, slurry sealing \nand microsurfacing. \n \n7.3.3 Alligator and Map Crac"
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "query": "What are the recommended repair methods for transverse cracks?",
+    "type": "specific",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.5481,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 31,
+        "text": "oper/weak joint between adjoining layers of pavement.  \n7.3.4.4 Severity Level  \nSeverity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) \nThe low severity is assigned to 1-3 mm wide and infrequent cracks medium severity is assigned to \n3-6 mm wide cracks. High Severity is assigned to cracks, greater than 6 mm wide and are frequent \n(numerous). \n7.3.4.5 Treatment \nTreatment for longitudinal cracks depend upon the severity and extent of the cracking: \na) Low and medium Severity Cracks: Crack sealing, preferably using rubberized bitumen \nb) High Severity Cracks: Remove and replace the cracked pavement layer with fresh overlay. \n \n7.3.5 Transverse Cracks \n7.3.5.1 Symptoms  \nThese cracks appear in the transverse directions or as interconnected cracks forming series of large \nblocks perpendicular to the direction of the road. \n\n22 | P a g e \n \n \n                (a) Low severity \n               (b) Medium severity \n \n     (c) High severity \nPhoto 7.3.5.  Transverse Cracks \n \n7.3.5.2 Location  \nTransverse cracks may occur at isolated locations or in a lane/carriageway.  \n7.3.5.3 Causes \nTransverse cracking may occur due to reflection of crack or j"
+      },
+      {
+        "rank": 2,
+        "score": 0.5362,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 32,
+        "text": ".5.  Transverse Cracks \n \n7.3.5.2 Location  \nTransverse cracks may occur at isolated locations or in a lane/carriageway.  \n7.3.5.3 Causes \nTransverse cracking may occur due to reflection of crack or joint in an underlying pavement layer. \nThe low temperature brittleness or oxidation of bitumen and also structural failure at concrete base \ncourse are also causes of such cracking. Transverse cracks are usually formed due to shrinkage of \nbituminous mix on account of low temperature. \n \n7.3.5.4  Severity level  \nSeverity of transverse cracks may be defined as low, Medium and high (Photos 7.3.5: a,  b and c). \nThe low severity is assigned to 1-3  mm wide and infrequent cracks.  Medium severity is assigned \nto 3-6 mm wide cracks.  High Severity is assigned to cracks greater than 6 mm wide and are \nfrequent (numerous). \n7.3.5.5 Treatment  \nTransverse cracks may be treated using slurry seal or rubberized bitumen.     \n \n7.3.6 Edge Cracking  \n7.3.6.1 Symptoms  \nEdge cracking is defined as cracks which develop parallel to outer edge of the pavement.  \n7.3.6.2 Location \nThe location of edge cracking is normally 0.3 to 0.5 m inside of pavement edge. \n\n23 | P a g e \n \n       \n        \n \n(a) Lo"
+      },
+      {
+        "rank": 3,
+        "score": 0.444,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 30,
+        "text": "g. Treatment of alligator cracking may \nbe done by following the methods depending upon their severity. \na) Cracks sealing by bitumen emulsions  \nb) Crack sealing by rubberized and modified bitumen  \nc) Milling and surface recycling  \nIn case of a pavement being structurally inadequate or weak, a properly designed overlay based on \nevaluation shall be provided \n \n7.3.4 Longitudinal Cracking \n7.3.4.1 Symptoms  \nCracks that appear parallel to the centerline or along the road are called longitudinal cracks.  These \ncracks are also sometimes source of onset of alligator cracking.  \n\n21 | P a g e \n \n       \n      \n \na)Low severity  \n \n     b) Medium severity                  \nc)  High severity \nPhoto 7.3.4 Longitudinal Cracking  \n \n7.3.4.2 Location  \nThese cracks may appear at joints between two paving lanes or pavement and paved shoulders. \n7.3.4.3 Causes  \nLongitudinal cracks in bituminous pavement are usually caused by alternate wetting and drying \nbeneath the shoulder surface or by improper/weak joint between adjoining layers of pavement.  \n7.3.4.4 Severity Level  \nSeverity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) \nThe low severity is"
+      },
+      {
+        "rank": 4,
+        "score": 0.4327,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 34,
+        "text": "nsiderable breakup and \nloss of material (more than 10% of the affected length). \n \n7.3.6.5 Treatment  \nThe following procedure/techniques are used for prevention or treatment of edge cracking:   \ni) Promote good drainage along the edge of the road. Make sure that surface water will run to \nthe nearby drain and not pond along the pavement edge. \nii) Remove the dirty, poor draining shoulder material and replace it with a more permeable \nmaterial. \niii) If truck traffic is substantial, place a structural overlay on the road surface of the order of \n75-100 mm of hot mix to provide adequate support for heavier vehicle loads. \n7.3.7 Reflection Cracking  \n7.3.7.1 Symptoms \nReflection cracks are the sympathetic cracks that appear in the bituminous surfacing over joints and \nunderneath cracked pavement. The pattern may be longitudinal, transverse, diagonal or block. \n\n24 | P a g e \n \n \nPhoto   7.3.7. Reflection Cracking  \n7.3.7.2 Location  \nReflection cracking occurs most frequently in bituminous overlays on cement concrete pavements, \nor on cement soil bases. They may also occur in overlays or surfacing on flexible pavements where \ncracks in the old existing pavement have not been properl"
+      },
+      {
+        "rank": 5,
+        "score": 0.4323,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 17,
+        "text": "level-of-serviceability for any given pavement.  This is \nan important feedback to planning, design and construction.  The type and degree of maintenance \ncan also influence the rate and serviceability loss for a pavement.  It is reporting of maintenance \npractices and problems.  Hence, maintenance management is primarily managing the resources to \nprovide an agreed level-of-service. \n7. TYPES OF PAVEMENT DISTRESS, THEIR IDENTIFICATION, SYMPTOMS, \nLOCATION, CAUSES, SEVERITY LEVELS AND TREATMENT  \n7.1 General: The types of defects in bituminous surfacing are grouped under four categories.  \ni) \nSurface Defects: These include fatty surfaces, smooth surface, streaking, and hungry \nsurface  \nii) \nCracks : These include all types of cracks, viz.,  hair-line cracks, alligator cracks, \nlongitudinal cracks, edge cracks, shrinkage cracks, and reflection cracks  \n\n13 | P a g e \n \niii) \nDeformation:  These include rutting, corrugations, shoving including those caused by \nlayer slippage , shallow depressions, settlements and upheavals etc.  \niv) \nDisintegration: These include stripping, loss of aggregates, raveling, potholes, and edge \nbreaking \nThe location and, severity of distress are impor"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "query": "What maintenance methods are used for alligator cracking?",
+    "type": "specific",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.7332,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 29,
+        "text": "mm. \n\n20 | P a g e \n \n \n    (a) Low severity   \n \n \n (b) Medium severity  \n \n \n(c) High severity  \n7.3.2 Alligator cracks \n \nHigh Severity: High Severity alligator cracking is characterized by an area of moderate to severely \nspalled interconnected cracks creating a full pattern of cracking similar to skin of alligator. The \nwidth and depth in this case may be more than 6 mm.  Pieces of bituminous surface may be loose or \nmissing. The pumping of water and fine material below the pavement may be seen on the surface. \n7.3.3.5 Treatment  \nIn order to repair a pavement affected by alligator cracking, the main cause of the cracking should \nbe determined. However, often the specific cause is fairly deep seated.  Any investigation should \ninvolve digging a pit or coring the pavement to determine the pavement structural adequacy/ability \nas well as determining whether or not subsurface moisture is a contributing factor. The repair \nneeded is also based on the severity and extent of the cracking. Treatment of alligator cracking may \nbe done by following the methods depending upon their severity. \na) Cracks sealing by bitumen emulsions  \nb) Crack sealing by rubberized and modified bitumen  \n"
+      },
+      {
+        "rank": 2,
+        "score": 0.6645,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 28,
+        "text": "avement and saturation \niv) \nOverloading of heavy commercial vehicles \nv) \nBrittleness of binder due to ageing of binder and lowering of surface temperature due to \nweather conditions \nvi) \nStripping of underlying bituminous courses \n \n7.3.3.4Severity level  \nAlligator cracking may be classified as low severity, medium severity and high severity. (Photos \n7.3.3-a,b,c.) \nLow Severity: Low severity cracks are characterized by an area of cracking with very narrow \ncracks with almost no additional deterioration of the surface. The cracking is often isolated and \nmany times, the cracking may not be interconnected to other areas and there is not much distortion. \nThe depth and width of such cracks is in the range of 1 to 3 mm.  \nMedium Severity: Medium severity-cracking is characterized by interconnected cracks forming a \nsmall area similar to the skin of alligator. The cracks may have signs of slight spalling, with no \npumping visible. The depth and width of such cracks lies between 3 to 6 mm. \n\n20 | P a g e \n \n \n    (a) Low severity   \n \n \n (b) Medium severity  \n \n \n(c) High severity  \n7.3.2 Alligator cracks \n \nHigh Severity: High Severity alligator cracking is characterized by an area"
+      },
+      {
+        "rank": 3,
+        "score": 0.654,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 30,
+        "text": "g. Treatment of alligator cracking may \nbe done by following the methods depending upon their severity. \na) Cracks sealing by bitumen emulsions  \nb) Crack sealing by rubberized and modified bitumen  \nc) Milling and surface recycling  \nIn case of a pavement being structurally inadequate or weak, a properly designed overlay based on \nevaluation shall be provided \n \n7.3.4 Longitudinal Cracking \n7.3.4.1 Symptoms  \nCracks that appear parallel to the centerline or along the road are called longitudinal cracks.  These \ncracks are also sometimes source of onset of alligator cracking.  \n\n21 | P a g e \n \n       \n      \n \na)Low severity  \n \n     b) Medium severity                  \nc)  High severity \nPhoto 7.3.4 Longitudinal Cracking  \n \n7.3.4.2 Location  \nThese cracks may appear at joints between two paving lanes or pavement and paved shoulders. \n7.3.4.3 Causes  \nLongitudinal cracks in bituminous pavement are usually caused by alternate wetting and drying \nbeneath the shoulder surface or by improper/weak joint between adjoining layers of pavement.  \n7.3.4.4 Severity Level  \nSeverity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) \nThe low severity is"
+      },
+      {
+        "rank": 4,
+        "score": 0.608,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 27,
+        "text": "ity Levels  \nNot applicable \n7.3.2.5 Treatment  \nThese cracks may be treated by fog seal, application of liquid rejuvenating agents, slurry sealing \nand microsurfacing. \n \n7.3.3 Alligator and Map Cracking \n7.3.3.1 Symptoms  \nAlligator or map cracking is characterized as a series of interconnected cracks, having small \nirregular blocks in pavement surface which resemble the skin of an alligator. These cracks may be \n\n19 | P a g e \n \nof different types depending upon extent and severity. The size of irregular shape blocks of cracks \nvary from less than 30 cm to more.  \n7.3.3.2 Location  \nAlligator or map cracks are normally appearing along the wheel path.  \n7.3.3.3Causes  \nThe causes of alligator cracking are many. These are developed due to one or more of the following \nreasons: \n \ni) \nExcessive deflection of pavement surface normally at wheel path \nii) \nInadequate pavement thickness \niii) \nWeakening of sub-grade or lower layers of the pavement due to ingress of excessive \nmoisture to pavement and saturation \niv) \nOverloading of heavy commercial vehicles \nv) \nBrittleness of binder due to ageing of binder and lowering of surface temperature due to \nweather conditions \nvi) \nStripping "
+      },
+      {
+        "rank": 5,
+        "score": 0.5011,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 6,
+        "text": " subgrade.\n(b)\nin pavement\n— Do—\nbut upheaval relatively close to the\ndepression.\n— Do—\npoor shear strength\nof\npavement\nmaterials.\n5.\nCracking\n(a)\nLongitudinal\ncracks.\nSingle or multiple cracks in the longitudinal\ndirection.\nDifferential settlement of fill, lack of internal\nfriction of base.\n(b)\nAlligator cracks\nClass 1\nCracks in more than one direction joined with\neach other to form a map pattern. Crack edges\nare not raised or spalled and there is no rock-\ning under the load.\nFatigue of surface. Excessive resiliance of sub\ngrade\n(c)\nAlligator cracks.\nClass 2\nSame as above but of more in tensive nature.\nEdges of cracks raised or spalled and the\npieces rock under wheel loads.\nPavement in serious distress. Excessive move-\nment of underlying layers. Pavement struc-\nturally inadequate\n(d)\nReflection\ncrakes\nReflection of cracks from semirigid or rigid\nbase. Generally regular in occurrence.\nReflection of cracks from underlying layer.\n6.\nPotholes\n(a)\nIsolated pot\nholes\nPotholes at isolated location not associated\nwith other failure modes.\nLocal distress, local soft spots, local locking up\nof water.\n(b)\nPotholes associated\nwith cracking\nPotholes\nassociated\nwith\nalligator\ncracks.\nCracked pi"
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "query": "What factors influence pavement deterioration?",
+    "type": "related",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6583,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 32,
+        "text": "March and October 2018 under varying weather and \nlighting conditions, including sunny, overcast, light rain, and sunset. \nHowever, only 3595 images were found suitable for the study. The \nremaining images which were either blurred or were not covering the \nrequired road damage categories or significant portions of the road were \ndiscarded. Similarly, for India, a total of 10,595 images were captured in \nOctober 2019, out of which, 9892 images were finally selected. \n3.3.3. Data classification/damage categories \nBased on the Japanese Maintenance Guidebook for Road Pavement \n[59], Maeda et al. [12] use eight damage categories in total. This clas­\nsification covers two types of deterioration, namely pavement deterio­\nration (D00, D01, D10, D11, D20, D40) and road marking deterioration \n(D43, D44), as shown in Table 3. The sample images are shown in Figure \n2 in the article [12]. However, the standards for evaluating the road \npavement conditions are not the same across the countries and vary \nsignificantly. For instance, the Czech Catalog of Deficiencies in Flexible \nPavements, Czech Ministry of Transport [60] recognizes 28 different \npavement deterioration divided into three main ca"
+      },
+      {
+        "rank": 2,
+        "score": 0.6265,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 2,
+        "text": "ies when one other country publishes its data and model for automatic road damage detection and clas­\nsification. A part of the proposed dataset was utilized for Global Road Damage Detection Challenge’2020 and can \nbe accessed at (https://github.com/sekilab/RoadDamageDetector/).   \n1. Introduction \nRoad infrastructure is a crucial public asset as it contributes to eco­\nnomic development and growth while bringing critical social benefits. It \nconnects communities and businesses and provides access to education, \nemployment, social, and health services. However, road surface wears \nand deteriorates over time from factors related to location, age, traffic \nvolume, weather, engineering solutions, and materials used to construct \nit and, therefore, the knowledge of its deterioration extent are critical to \nefficient and cost-effective maintenance with the goal to preserve its \ngood and safe condition. The impact of roadway deficiencies on safety \nand economy has been widely studied [1,2]. \nPavement distress, one of the pavement condition characteristics, \ncan be evaluated using three approaches: manual, semi-automated, or \nfully automated. The traditional methods for collecting pavement"
+      },
+      {
+        "rank": 3,
+        "score": 0.617,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 5,
+        "text": "d response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the rate of \ndeterioration of the pavements. \n5.  PLANNING OF MAINTENANCE ACTIVITIES \n5.1 \nAll types of pavement maintenance need a comprehensive maintenance program.  Following \nguidelines are to be considered in planning of routine, preventive and periodic maintenance \nactivities. \nThe first step towards planning of maintenance operations is the evaluation of the existing \npavement surface in terms of its physical condition as well as structural capacity. For this purpose, \npavement condition surveys may be undertaken using manual or instruments by identifying type, \nlocation and magnitude of the distress as described in Appendix – 1. The rating of pavement may be \nassigned as per the criteria given in Tables 5.1 to 5.3 and determination of PCI for different classes \nof roads, are given in Appendix-2. Maintenance recommendations based on PCI value (0-100 scale) \ncan be as per Table 5.4. \nTable 5.1 Pavement Distress and Roughness Index Based Rating for Highways \nDefects (type) \nRange of D"
+      },
+      {
+        "rank": 4,
+        "score": 0.6167,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 7,
+        "text": "cation not associated\nwith other failure modes.\nLocal distress, local soft spots, local locking up\nof water.\n(b)\nPotholes associated\nwith cracking\nPotholes\nassociated\nwith\nalligator\ncracks.\nCracked pieces getting removed under traffic.\nPavement in severe distress, at its last phase of\nlife. Structurally inadequate.\n7.\nEdge breaking\nPavement edges getting broken\nLack of shoulder support, tracking at pave-\nment edges.\n8.\nRavelling\nAggregates, both coarse and fine getting out of\nthe pavement and getting collected in areas\nother than wheel paths.\nStripping, abrasion by traffic, degradation of\naggregates,\ninsufficient\nbitumen,\nbitumen\noxidised.\nNotes: (a)\nFor detailed information the following books may be consulted ;\n( j)\n“ Principles of Pavement Design” by EJ. Yoder and M.W. Witczak — Chapter on pavement distress,\n(ii)\n“ Soil Mechanics for Road Engineers\" published by Her Majesty's Stationery Office.\n(b)\nA few illustrations of pavement distress are given in the drawing attached\n\nILLUSTRATIONS OF PAVEMENT DISTRESS\nv\ni\nRUTTING\nSHEAR FAILURE\nIN SUBGRADE\nSHEAR FAILURE\nIN PAVEMENT\nI\nI\ni\nI\n'' . r\njr-7 JV/\nf\n-fy—\ni\nr /\n7 /\n^\n.\ni\nA\nr i f />J\ni\n1\ni\ni\nl\nCRACKING AND\nPOT HOLES\nA. ALLIGATOR CRACK"
+      },
+      {
+        "rank": 5,
+        "score": 0.6087,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 33,
+        "text": "vary \nsignificantly. For instance, the Czech Catalog of Deficiencies in Flexible \nPavements, Czech Ministry of Transport [60] recognizes 28 different \npavement deterioration divided into three main categories, including \nloss of asphalt mixture, cracks, and deformations. This catalog does not \nrecognize Crosswalk marking deterioration as a type of pavement defi­\nciency. Similarly, for India, the code IRC:82 [61] provides guidelines for \nthe maintenance of bituminous/flexible pavement in India. It identifies \nfour main types of pavement distresses, namely, Cracking, Deformation \n(rutting, upheavals, etc.), Disintegration (raveling, potholes, edge \nbreaking, etc.), and Surface Defects that relate to inapt quality and \nquantity of bitumen. Since the aim of this study is to consider the \nperspective of monitoring road conditions in more than one country, it \nincludes only the four major categories of damage mainly comprising \ncracks and potholes, which are generally common to almost all the \ncountries. Thus, for this study, the damage categories considered are - \nD00 to represent Longitudinal/ Parallel cracks, D10 for Trans­\nverse/Perpendicular cracks, D20 for Alligator/Complex cracks,"
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "query": "What road maintenance actions can improve road serviceability?",
+    "type": "synthesis",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.66,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 90,
+        "text": "riorities and initiate action related to maintenance implementation is either MORTH or \nNHAI.  In case of secondary and tertiary roads, the maintenance is the responsibility of the State \ngovernments whereas urban roads are looked after by the local bodies.  The traditional method of \nmaintenance of roads by departmental work force or road gangs is being phased out and the road \nauthorities are exploring alternative methods of implementing maintenance.  Maintenance by contract is \nperceived as an efficient method.  While it has been in practice since long and used successfully for \nimplementing renewal programmes, the experience of road agencies with contracting out of routine \nmaintenance has not been so successful and most road agencies have not yet switched over to routine \nmaintenance contracts.  This may be due to lack of standardization of contract forms and non-\navailability of maintenance contractors.  Considering the size of the country’s road network and road \n\n59 | P a g e \n \nhierarchy, several forms and methods of implementing routine maintenance may be required to choose \nthe one most suited to a road agency.  Efforts are underway in this direction to standardize vario"
+      },
+      {
+        "rank": 2,
+        "score": 0.6545,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 91,
+        "text": " \nhierarchy, several forms and methods of implementing routine maintenance may be required to choose \nthe one most suited to a road agency.  Efforts are underway in this direction to standardize various types \nof maintenance contracts.  In addition to this, availability and development of maintenance contractors \nrequires to be addressed in a big way.  During the transition period, the road agencies have to modernize \nthe existing system to bring in efficiency, productivity and improved performance by introducing \nmechanization, mobile maintenance units, new and energy saving materials and institutionalizing \ndedicated maintenance set up.  The effort should continue to be to move towards contracting out \nmaintenance. This would require assured funding and effective supervision.  Some model bidding \ndocuments for road maintenance have been developed for use of road agencies and these documents \nincorporate provisions for performance security, maintenance standards, performance criteria, simplified \npayment procedure, damages for non-performance, etc so as to ensure that the contractor is held \naccountable for the performance of maintenance.   \n \n13.2 \nPerformance Based Maintenance C"
+      },
+      {
+        "rank": 3,
+        "score": 0.6523,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 89,
+        "text": "ings and other Traffic Control Devices \n \n12.2.1 After completion of the maintenance work, the existing road markings, road signs etc. shall be \nrestored to ensure safe and smooth movement of traffic.  The maintenance staff shall keep the road \nauthority informed of deficiencies, if any, observed in road signage, markings and other traffic control \ndevices.  Safety measures for necessary action to remove the deficiencies, is warranted to be identified \nfor implementation therefore, as per relevant IRC Standard and Codes of Practice.  \n   \n13. ORGANISATION AND MANAGEMENT \n \n13. 1 Maintenance of a road requires proper planning, programming and adequate tools, equipment, \nmachinery and skilled workers/operators to carry out the required maintenance activities.  There should \nbe well equipped dedicated maintenance units or divisions within the organization in order to achieve \nthe intended purpose in an effective and efficient manner.  For primary roads, the nodal agency to \nidentify the priorities and initiate action related to maintenance implementation is either MORTH or \nNHAI.  In case of secondary and tertiary roads, the maintenance is the responsibility of the State \ngovernments "
+      },
+      {
+        "rank": 4,
+        "score": 0.6418,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 5,
+        "score": 0.6363,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 3,
+        "text": " benefits for \npreservation of road asset. The importance of overall maintenance is described below: \ni) \nReduction in rate of deterioration and improvement in life of road  \nii) \nReduction in Vehicle Operation Costs (VOC) \niii) \nReduction in crash rate  \niv) \nKeeping road traffic worthy roads in all weather conditions \nv) \nReduction in pollution due to reduced fuel consumption on well-maintained \npavement surface \nvi) \nSavings in budgetary expenditure of restoration/ reconstruction  \n \n3.2 Timely and regular maintenance of roads have been known to provide economic rate of \nreturn as high as 15 to 20 percent depending upon the category of road and traffic volume.  \nMoreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than \npreventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface \nusing sustainable/suitable materials and methods is significant for preservation of road asset and \nto serve the intended purpose. \n \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of pothole"
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "query": "What maintenance approach should be selected for a pavement with existing distress?",
+    "type": "synthesis",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.7389,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 2,
+        "score": 0.7321,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 4,
+        "text": " Modes\nPavement condition survery is a useful tool in maintenance management and in working out the\nstrategy for strengthening the pavement This usually consists of a visual survey for the pavement distress\nor objective measurements for strength/riding quality, or a combination of both.\n2.\nWhen a visual survey is made, either during the inspection of an officer or specifically for\nmaintenance/strengthening purposes it is necessary to record the distress manifestations of the pavement\nfor objective evaluation etc. in the design office. For the individual bias not to enter into the recording of\nthe distress, it would be desirable to use clearly understood and proper terms for the different distress types.\nA standardised terminology has therefore been attempted and is given in the Annexure for use of the\nTechnical Officers, The Annexure in addition gives the likely causes and a few illustrations.\n3.\nFor detailed information about pavement distress etc. the following books may be consulted :\n(i)\n“ Principles of Pavement Design\" by EJ. Yoder and MW. Witczak—\nChapter on pavement distress.\n\n7600/3\n(ii)\n“ Soil Mechanks for Road Engineers\" published by Her Majesty's Stationery Office.\n1.\nAl"
+      },
+      {
+        "rank": 3,
+        "score": 0.7271,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 57,
+        "text": "ted before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstruction  \n Life cycle cost saving  \n8.2.2   For preventive maintenance applications, the following guidelines must be considered: \n Existing distress to be treated \n Anticipated distress to be delayed or prevented \n Appropriate treatment for existing condition  \n Timing of  treatment for best results  \n Maximizing performance while minimizing cost  \n8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a \ndistressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as \npreventive maintenance, when placed on an extensively cracked surface. A preventive maintenance \nstrategy comprises following: \n Identification of causes of distress  \n Measurement of distress \n Selection of appropriate treatment  \n Timing of treatment  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of "
+      },
+      {
+        "rank": 4,
+        "score": 0.7011,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 5,
+        "text": "d response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the rate of \ndeterioration of the pavements. \n5.  PLANNING OF MAINTENANCE ACTIVITIES \n5.1 \nAll types of pavement maintenance need a comprehensive maintenance program.  Following \nguidelines are to be considered in planning of routine, preventive and periodic maintenance \nactivities. \nThe first step towards planning of maintenance operations is the evaluation of the existing \npavement surface in terms of its physical condition as well as structural capacity. For this purpose, \npavement condition surveys may be undertaken using manual or instruments by identifying type, \nlocation and magnitude of the distress as described in Appendix – 1. The rating of pavement may be \nassigned as per the criteria given in Tables 5.1 to 5.3 and determination of PCI for different classes \nof roads, are given in Appendix-2. Maintenance recommendations based on PCI value (0-100 scale) \ncan be as per Table 5.4. \nTable 5.1 Pavement Distress and Roughness Index Based Rating for Highways \nDefects (type) \nRange of D"
+      },
+      {
+        "rank": 5,
+        "score": 0.6614,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 56,
+        "text": "t of existing roads and its appurtenances. The \npreventive maintenance activity preserves the system, prevents future deterioration and improves \nthe functional condition of the system without contribution to load carrying capacity of pavement. \nSuch treatments are cost effective, if provided on a pavement in fair to good condition. The \nplacement of right preventive maintenance treatment at the right time saves pavement from leading \nto poor condition (Table 5.1 to 5.3), where rehabilitation and reconstruction would be inevitable as \nfar more costly.  \n \n8.2  Selection of preventive maintenance treatment  \n8.2.1 Preventive maintenance treatments shall be selected based upon the condition of existing \npavement. The cracking, rutting, riding quality, climate and traffic are given due consideration in \nselection of preventive maintenance treatments. The concept of preventive maintenance stipulates \n\n38 | P a g e \n \nthat deterioration modes can be anticipated and at least partially mitigated before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstr"
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "query": "What information is needed before selecting a pavement maintenance treatment?",
+    "type": "synthesis",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.724,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 2,
+        "score": 0.7166,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 58,
+        "text": "ent  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of distress causes, severity, climate and traffic. Refer to Tables 5.1 to 5.5 in \nsection 5 and conceptual illustration given in Figure 8.1, preventive maintenance shall be \nundertaken when drop in quality of pavement surface is less than 30% as quantified in Tables 5.1 to \n5.3 by pavement condition rating criteria. Preventive maintenance treatments shall be effective \nbefore the pavement condition rating drops below 2. The type of treatment shall depend upon \npavement condition rating as well as type and area of distress. The detailed warrants for choice of \nthe treatment are given in Tables 8.1 to 8.7.   \n 8.2.5 Suitable preventive maintenance treatment may be identified by following attributes.  \n Purpose of treatment  \n Applicability \n- Traffic  \n- Environment  \n- Surface condition  \n Limitations \n\n40 | P a g e \n \n Construction considerations \n Expected performance  \n Cost effectiveness  \n8.2.6 The typical preventive maintenance treatments are given below.  \n Crack sealing/ cra"
+      },
+      {
+        "rank": 3,
+        "score": 0.7083,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 57,
+        "text": "ted before their occurrence. \nThis provides following long term solutions.    \n Improved level of service resulting from improved pavement performance  \n Delayed need for rehabilitation and reconstruction  \n Life cycle cost saving  \n8.2.2   For preventive maintenance applications, the following guidelines must be considered: \n Existing distress to be treated \n Anticipated distress to be delayed or prevented \n Appropriate treatment for existing condition  \n Timing of  treatment for best results  \n Maximizing performance while minimizing cost  \n8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a \ndistressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as \npreventive maintenance, when placed on an extensively cracked surface. A preventive maintenance \nstrategy comprises following: \n Identification of causes of distress  \n Measurement of distress \n Selection of appropriate treatment  \n Timing of treatment  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of "
+      },
+      {
+        "rank": 4,
+        "score": 0.6877,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 5,
+        "text": "d response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the rate of \ndeterioration of the pavements. \n5.  PLANNING OF MAINTENANCE ACTIVITIES \n5.1 \nAll types of pavement maintenance need a comprehensive maintenance program.  Following \nguidelines are to be considered in planning of routine, preventive and periodic maintenance \nactivities. \nThe first step towards planning of maintenance operations is the evaluation of the existing \npavement surface in terms of its physical condition as well as structural capacity. For this purpose, \npavement condition surveys may be undertaken using manual or instruments by identifying type, \nlocation and magnitude of the distress as described in Appendix – 1. The rating of pavement may be \nassigned as per the criteria given in Tables 5.1 to 5.3 and determination of PCI for different classes \nof roads, are given in Appendix-2. Maintenance recommendations based on PCI value (0-100 scale) \ncan be as per Table 5.4. \nTable 5.1 Pavement Distress and Roughness Index Based Rating for Highways \nDefects (type) \nRange of D"
+      },
+      {
+        "rank": 5,
+        "score": 0.6818,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 93,
+        "text": "ce of low volume roads use of labor based and semi-mechanized methods \nare generally preferred.  As the traffic increases, the level of mechanization should also increase for \ncarrying out maintenance efficiently.  For maintenance of roads carrying high volumes of traffic, \nmachine based methods and technologies capable of carrying out maintenance with speed and safety and \ncausing minimum interruptions in movement of traffic are recommended. \n \n13.4 Planning and scheduling of the maintenance operations should be given due importance. The \nannual renewal programme should be drawn up well in advance keeping in view the condition of the \nsurface and any improvement work carried out recently or scheduled to be taken up in the near future. In \ncase sufficient funds are not available for renewal works, the priority may be decided following the \nsuggested criteria given in Section 9.5.  This would enable the field engineers to plan and implement \nmaintenance programmes in a rational manner and according to available budget. \n\n \n60\n \nAPPENDIX-1 \n \nMETHODOLOGY FOR PAVEMENT CONDITION SURVEY \n \nPavement condition surveys \n \nPavement condition surveys can be broadly classified into manual met"
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "query": "What is the relationship between pavement distress and maintenance requirements?",
+    "type": "synthesis",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.764,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 4,
+        "text": " Modes\nPavement condition survery is a useful tool in maintenance management and in working out the\nstrategy for strengthening the pavement This usually consists of a visual survey for the pavement distress\nor objective measurements for strength/riding quality, or a combination of both.\n2.\nWhen a visual survey is made, either during the inspection of an officer or specifically for\nmaintenance/strengthening purposes it is necessary to record the distress manifestations of the pavement\nfor objective evaluation etc. in the design office. For the individual bias not to enter into the recording of\nthe distress, it would be desirable to use clearly understood and proper terms for the different distress types.\nA standardised terminology has therefore been attempted and is given in the Annexure for use of the\nTechnical Officers, The Annexure in addition gives the likely causes and a few illustrations.\n3.\nFor detailed information about pavement distress etc. the following books may be consulted :\n(i)\n“ Principles of Pavement Design\" by EJ. Yoder and MW. Witczak—\nChapter on pavement distress.\n\n7600/3\n(ii)\n“ Soil Mechanks for Road Engineers\" published by Her Majesty's Stationery Office.\n1.\nAl"
+      },
+      {
+        "rank": 2,
+        "score": 0.7246,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 5,
+        "text": "d response) or based upon \ncondition and performance of road surface (performance based) depending upon category of \nroad, traffic and climatic conditions to improve the riding quality and reduce the rate of \ndeterioration of the pavements. \n5.  PLANNING OF MAINTENANCE ACTIVITIES \n5.1 \nAll types of pavement maintenance need a comprehensive maintenance program.  Following \nguidelines are to be considered in planning of routine, preventive and periodic maintenance \nactivities. \nThe first step towards planning of maintenance operations is the evaluation of the existing \npavement surface in terms of its physical condition as well as structural capacity. For this purpose, \npavement condition surveys may be undertaken using manual or instruments by identifying type, \nlocation and magnitude of the distress as described in Appendix – 1. The rating of pavement may be \nassigned as per the criteria given in Tables 5.1 to 5.3 and determination of PCI for different classes \nof roads, are given in Appendix-2. Maintenance recommendations based on PCI value (0-100 scale) \ncan be as per Table 5.4. \nTable 5.1 Pavement Distress and Roughness Index Based Rating for Highways \nDefects (type) \nRange of D"
+      },
+      {
+        "rank": 3,
+        "score": 0.7086,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 4,
+        "score": 0.693,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 13,
+        "text": "lly. However, for preventive and periodic renewal requirement or \nshort term/long term maintenance strategies, condition surveys are carried out at a fixed \nfrequency. It is desirable that at least two condition surveys are conducted every year on each \nstretch, first before and the second after the monsoon in case of highways and urban roads. \nMinimum one condition survey is required for other roads, preferably after monsoon. It is also \ndesirable that pavement condition surveys on all two lane undivided and above corridors shall \nbe carried out using an instrumented method such as Network Survey Vehicle.  For single lane  \nand Intermediate lane roads, in the absence of appropriate instrumented survey methods,   \nmanual/visual surveys shall be carried out by a team of experienced engineers at a responsible \nlevel.  \nBased on the condition survey data, the causes for the development of various distresses/ defects \nshall be examined in detail as described in Section 7 and a decision shall be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pa"
+      },
+      {
+        "rank": 5,
+        "score": 0.6711,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 58,
+        "text": "ent  \n\n39 | P a g e \n \n \nFig. 8.1 Conceptual Illustration of Interventions \n8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment \ndepends upon type of distress causes, severity, climate and traffic. Refer to Tables 5.1 to 5.5 in \nsection 5 and conceptual illustration given in Figure 8.1, preventive maintenance shall be \nundertaken when drop in quality of pavement surface is less than 30% as quantified in Tables 5.1 to \n5.3 by pavement condition rating criteria. Preventive maintenance treatments shall be effective \nbefore the pavement condition rating drops below 2. The type of treatment shall depend upon \npavement condition rating as well as type and area of distress. The detailed warrants for choice of \nthe treatment are given in Tables 8.1 to 8.7.   \n 8.2.5 Suitable preventive maintenance treatment may be identified by following attributes.  \n Purpose of treatment  \n Applicability \n- Traffic  \n- Environment  \n- Surface condition  \n Limitations \n\n40 | P a g e \n \n Construction considerations \n Expected performance  \n Cost effectiveness  \n8.2.6 The typical preventive maintenance treatments are given below.  \n Crack sealing/ cra"
+      }
+    ]
+  },
+  {
+    "id": "Q16",
+    "query": "What exact remaining service life can be determined from a single pothole image?",
+    "type": "insufficient_evidence",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.4211,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 53,
+        "text": "le units. Each pothole unit has a surface \narea of 0.1 m2, i.e., approximately 300 mm in diameter and therefore can be adequately estimated \nby reference to a person’s foot. For estimating maintenance requirements in HDM-4, the depth of a \npothole unit has been assumed to be 100 mm i.e. a volume of 10 liters (Ref: Manual of HDM-4, \nVolume 6). Therefore, number of potholes shall be estimated based on ‘pothole unit’ with surface \narea of 0.1 m2. \n7.5.3.5 Treatment  \n\n36 | P a g e \n \nThe rectification consists of filling potholes with open graded or dense graded premix. Potholes can \nbe repaired by various methods  \n1. Mixes (cold mixed/hot mixed) for immediate use  \n2. Storable cold mixes (cutback/emulsion Based)  \n3. Readymixes  \n4. Cold mixes by Patching machines   \n7.5.4. Edge -Breaking  \n7.5.4.1 Symptoms \nA common defect in bituminous surface is edge breaking wherein the edge of the bituminous \nsurface gets broken in an irregular way.   Photo 7.5.4 shows this type of defect. In case distress in \nnot attended in time, the surfacing may peel off in chunks at the edges.  \n \n \nPhoto 7.5.4.  Edge Break-up \n \n7.5.4.2 Location  \nDistress is restricted to edges upto 30 cm from edge.  \n7."
+      },
+      {
+        "rank": 2,
+        "score": 0.4111,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 3,
+        "text": " benefits for \npreservation of road asset. The importance of overall maintenance is described below: \ni) \nReduction in rate of deterioration and improvement in life of road  \nii) \nReduction in Vehicle Operation Costs (VOC) \niii) \nReduction in crash rate  \niv) \nKeeping road traffic worthy roads in all weather conditions \nv) \nReduction in pollution due to reduced fuel consumption on well-maintained \npavement surface \nvi) \nSavings in budgetary expenditure of restoration/ reconstruction  \n \n3.2 Timely and regular maintenance of roads have been known to provide economic rate of \nreturn as high as 15 to 20 percent depending upon the category of road and traffic volume.  \nMoreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than \npreventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface \nusing sustainable/suitable materials and methods is significant for preservation of road asset and \nto serve the intended purpose. \n \n4 TYPES OF MAINTENANCE \n4.1 Maintenance operations covered in this Code of Practice are classified into three broad \ncategories \na) \nRoutine Maintenance: This covers items such as filling of pothole"
+      },
+      {
+        "rank": 3,
+        "score": 0.4094,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 70,
+        "text": "special paving equipment to place the mix. \n \n\n47 | P a g e \n \n \n9. PERIODIC RENEWALS \n \n9.1 Need and Importance of Periodic Renewals  \nPeriodic renewals consist of the provision of a thin surfacing layer at regular intervals of time, so as \nto preserve the required serviceability level of the pavement surface and offset the wear and tear \ncaused by traffic and weathering. Periodic renewals represent maintenance, which is needed to \nprevent deterioration of the pavement and to ensure that initial qualities are kept up for the future \nrequirements of traffic during the design life of the pavement. Early detection and repair of \nnoticeable distress/ defects can prevent a major damage of the surface.  \n \n9.2 Planning and Programming of Renewals \nThe general practice in the country is to finalize renewal programme on an annual basis. In order to \ndecide renewal layer on the surface, the renewal programme for each section of a road should be \ndecided well in advance. Once the programme is finalized, steps could be taken to secure the \nrequired allocations and start the preliminary field action such as mobilization of resources. While \nthe nomenclature “Periodic Renewal” would imply the "
+      },
+      {
+        "rank": 4,
+        "score": 0.4093,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 84,
+        "text": "ated portion of the existing pavement adjoining the pothole should be cut and loose particles \nremoved before patching of pothole. \n \nA view of various machines is given in Photos 11.1 to 11.7 \n\n54 | P a g e \n \n \n \n            \n \nPhoto 11.1: Pothole Repair Machine which can be mounted over a vehicle (CSIR-CRRI \ndeveloped) \n \nPhoto 11.2: Vehicle Mounted Pothole Repair Machine (CSIR-CRRI developed) \n      \n \n\n55 | P a g e \n \n                            \n \nPhot 11.3: View of Patrol Maintenance Machine used in Road Construction Department (RCD), \nBihar \n \n \nPhot 11.4: View of Mobile Highway Maintenance Van used in Haryana PWD \n  \n \n \nPhoto 11.5:  Spary Injection type Pothole Repair Machine \n \n\n56 | P a g e \n \n \nPhoto 11.6:  Infrared Road Patching Technology \n                                                                          \n \nPhoto 11.7: Automated Pothole Repair Machine \n \nThese equipment and technologies are for general applications for pothole filling/patch repairs.  Mobile mechanized \nmaintenance units may be equipped for other applications also.  For more specific applications or other maintenance \ntreatments, various equipment and methods that are generally used are indica"
+      },
+      {
+        "rank": 5,
+        "score": 0.409,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 25,
+        "text": "wide-view for characterization and \ndensity calculation of pavement distresses collected from 22 different \npavement sections in the United States. The results indicate that the \nYOLO v2 model outperformed the Faster R-CNN model in distress \nclassification. The free availability and easy accessibility of Google \nStreet view images is the major attraction of the work. However, only \n7237 images were used in this work despite considering nine different \ncategories of the damage. Similar to the research by Majidifard et al. \n[41], the authors in [57] proposed a CNN-based predictive model to \ndetect potholes using Google API images. Nevertheless, the analysis \ncarried out by the authors is based on only 3424 images (including both \npothole and non-pothole categories). \nIdeally, more than 5000 labeled images are generally required for \neach class for an image processing based classification task to provide \nsatisfactorily accurate results [13]. Although the Google Street view \nimages are easily and freely available, the annotating the images is still a \ntime-taking and laborious task. This further escalates the need to \nanalyze whether the data already available from another country can"
+      }
+    ]
+  },
+  {
+    "id": "Q17",
+    "query": "Can a road damage image alone determine the structural load carrying capacity of the pavement?",
+    "type": "insufficient_evidence",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6077,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 2,
+        "text": "ies when one other country publishes its data and model for automatic road damage detection and clas­\nsification. A part of the proposed dataset was utilized for Global Road Damage Detection Challenge’2020 and can \nbe accessed at (https://github.com/sekilab/RoadDamageDetector/).   \n1. Introduction \nRoad infrastructure is a crucial public asset as it contributes to eco­\nnomic development and growth while bringing critical social benefits. It \nconnects communities and businesses and provides access to education, \nemployment, social, and health services. However, road surface wears \nand deteriorates over time from factors related to location, age, traffic \nvolume, weather, engineering solutions, and materials used to construct \nit and, therefore, the knowledge of its deterioration extent are critical to \nefficient and cost-effective maintenance with the goal to preserve its \ngood and safe condition. The impact of roadway deficiencies on safety \nand economy has been widely studied [1,2]. \nPavement distress, one of the pavement condition characteristics, \ncan be evaluated using three approaches: manual, semi-automated, or \nfully automated. The traditional methods for collecting pavement"
+      },
+      {
+        "rank": 2,
+        "score": 0.5833,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 69,
+        "text": "J. G´omez-García-Bermejo, R. Medina, J. Llamas, Road crack detection \nusing visual features extracted by Gabor filters, Comput. Aided Civ. Infrastruct. \nEng. 29 (2014) 342–358, https://doi.org/10.1111/mice.12042. \n[4] L.M. Pierce, G. McGovern, K.A. Zimmerman, Practical Guide for Quality \nManagement of Pavement Condition Data Collection, Technical Report, United \nStates Department of Transportation, Federal Highway Administration, 2013. \nRetrieved from: http://www.fhwa.dot.gov/pavement/management/qm/data_qm_ \nguide.pdf, Last Accessed: 2021-07-22. \n[5] K. McGhee, Automated Pavement Distress Collection Techniques, National \nCooperative Highway Research Program, NCHRP Synthesis 334 Report, \nTransportation Research Board, Washington DC, 2004, https://doi.org/10.17226/ \n23348. \n[6] M. Eisenbach, R. Stricker, D. Seichter, K. Amende, K. Debes, M. Sesselmann, \nD. Ebersbach, U. Stoeckert, H.-M. Gross, How to get pavement distress detection \nready for deep learning? A systematic approach, in: International Joint Conference \non Neural Networks (IJCNN), 2017, pp. 2039–2047, https://doi.org/10.1109/ \nIJCNN.2017.7966101. \n[7] D. Zhang, Q. Zou, H. Lin, X. Xu, L. He, R. Gui, Q. Li, Automatic paveme"
+      },
+      {
+        "rank": 3,
+        "score": 0.5774,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 32,
+        "text": "March and October 2018 under varying weather and \nlighting conditions, including sunny, overcast, light rain, and sunset. \nHowever, only 3595 images were found suitable for the study. The \nremaining images which were either blurred or were not covering the \nrequired road damage categories or significant portions of the road were \ndiscarded. Similarly, for India, a total of 10,595 images were captured in \nOctober 2019, out of which, 9892 images were finally selected. \n3.3.3. Data classification/damage categories \nBased on the Japanese Maintenance Guidebook for Road Pavement \n[59], Maeda et al. [12] use eight damage categories in total. This clas­\nsification covers two types of deterioration, namely pavement deterio­\nration (D00, D01, D10, D11, D20, D40) and road marking deterioration \n(D43, D44), as shown in Table 3. The sample images are shown in Figure \n2 in the article [12]. However, the standards for evaluating the road \npavement conditions are not the same across the countries and vary \nsignificantly. For instance, the Czech Catalog of Deficiencies in Flexible \nPavements, Czech Ministry of Transport [60] recognizes 28 different \npavement deterioration divided into three main ca"
+      },
+      {
+        "rank": 4,
+        "score": 0.566,
+        "source": "Road Damage Detection Research Paper",
+        "document": "main.txt",
+        "chunk_id": 0,
+        "text": "Data in Brief 36 (2021) 107133 \nContents lists available at ScienceDirect \nData in Brief \njournal homepage: www.elsevier.com/locate/dib \nData Article \nRDD2020: An annotated image dataset for \nautomatic road damage detection using deep \nlearning \nDeeksha Arya a , b , ∗, Hiroya Maeda b , Sanjay Kumar Ghosh a , c , \nDurga Toshniwal a , d , Yoshihide Sekimoto b \na Center for Transportation Systems, Indian Institute of Technology Roorkee, 247667, India \nb Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Tokyo, Japan \nc Department of Civil Engineering, Indian Institute of Technology Roorkee, 247667, India \nd Department of Computer Science & Engineering, Indian Institute of Technology Roorkee, 247667, India \na r t i c l e \ni n f o \nArticle history: \nReceived 23 March 2021 \nRevised 28 April 2021 \nAccepted 3 May 2021 \nAvailable online 12 May 2021 \nKeywords: \nRoad damage dataset \nDeep learning \nStructural health monitoring \nRoad infrastructure \nAutomatic road condition monitoring \nSmartphone-based road damage detection \nand classiﬁcation \nPavement surface condition assessment \nCrack recognition \nImage \nQuantiﬁcation \nData qualiﬁcation \na b s t r a c t \nThis data articl"
+      },
+      {
+        "rank": 5,
+        "score": 0.5643,
+        "source": "MoRTH Bituminous Pavement Distress Terminology",
+        "document": "MoRTH_Bituminous_Pavement_Distress_Terminology.txt",
+        "chunk_id": 7,
+        "text": "cation not associated\nwith other failure modes.\nLocal distress, local soft spots, local locking up\nof water.\n(b)\nPotholes associated\nwith cracking\nPotholes\nassociated\nwith\nalligator\ncracks.\nCracked pieces getting removed under traffic.\nPavement in severe distress, at its last phase of\nlife. Structurally inadequate.\n7.\nEdge breaking\nPavement edges getting broken\nLack of shoulder support, tracking at pave-\nment edges.\n8.\nRavelling\nAggregates, both coarse and fine getting out of\nthe pavement and getting collected in areas\nother than wheel paths.\nStripping, abrasion by traffic, degradation of\naggregates,\ninsufficient\nbitumen,\nbitumen\noxidised.\nNotes: (a)\nFor detailed information the following books may be consulted ;\n( j)\n“ Principles of Pavement Design” by EJ. Yoder and M.W. Witczak — Chapter on pavement distress,\n(ii)\n“ Soil Mechanics for Road Engineers\" published by Her Majesty's Stationery Office.\n(b)\nA few illustrations of pavement distress are given in the drawing attached\n\nILLUSTRATIONS OF PAVEMENT DISTRESS\nv\ni\nRUTTING\nSHEAR FAILURE\nIN SUBGRADE\nSHEAR FAILURE\nIN PAVEMENT\nI\nI\ni\nI\n'' . r\njr-7 JV/\nf\n-fy—\ni\nr /\n7 /\n^\n.\ni\nA\nr i f />J\ni\n1\ni\ni\nl\nCRACKING AND\nPOT HOLES\nA. ALLIGATOR CRACK"
+      }
+    ]
+  },
+  {
+    "id": "Q18",
+    "query": "Can a road damage image alone determine the exact cost of repairing the road?",
+    "type": "insufficient_evidence",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.5626,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 29,
+        "text": "cracks and potholes, namely D00, \nD10, D20, and D40. Note that the standards related to evaluations of \nRoad Marking deterioration such as Crosswalk or White Line Blur \ndiffer significantly across several countries. Thus, these categories \nwere excluded from the study so that generalized models can be \ntrained applicable for monitoring road conditions in more than one \ncountry. \nMore details related to the newly collected images from India and the \nCzech Republic are provided as follows. It can be noted that a part of the \nproposed RDD-2020 dataset was utilized for Global Road Damage \nDetection Challenge 2020. The statistical distribution for the same is \nprovided in our companion paper [46] with additional information in \nthe corresponding data article [58]. \n3.3.1. Study area \nThe details of study area for road images from Japan are provided in \nSection 3.1 of the article [12]. Additionally, road images for the pre­\nsented study were collected from India, the Czech Republic and \npartially, in Slovakia. For the Czech Republic and Slovakia, a large \nportion of road images was collected in Olomouc, Prague, and Bratislava \nmunicipalities and included a mix of 1st class, 2nd class, 3r"
+      },
+      {
+        "rank": 2,
+        "score": 0.5544,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 1,
+        "text": "A C T  \nMany municipalities and road authorities seek to implement automated evaluation of road damage. However, \nthey often lack technology, know-how, and funds to afford state-of-the-art equipment for data collection and \nanalysis of road damages. Although some countries, like Japan, have developed less expensive and readily \navailable Smartphone-based methods for automatic road condition monitoring, other countries still struggle to \nfind efficient solutions. This work makes the following contributions in this context. Firstly, it assesses usability \nof Japanese model for other countries. Secondly, it proposes a large-scale heterogeneous road damage dataset \ncomprising 26,620 images collected from multiple countries (India, Japan, and the Czech Republic) using \nsmartphones. Thirdly, it proposes models capable of detecting and classifying road damages in more than one \ncountry. Lastly, the study provides recommendations for readers, local agencies, and municipalities of other \ncountries when one other country publishes its data and model for automatic road damage detection and clas­\nsification. A part of the proposed dataset was utilized for Global Road Damage Detection Challenge"
+      },
+      {
+        "rank": 3,
+        "score": 0.5536,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 23,
+        "text": "ce, Angulo et al. [42] extended this dataset by \nadding images collected from Italy and Mexico. The size of the dataset \nwas increased to 18,034 images, and the authors mostly focused on \nhaving a more balanced representation for individual damage classes, \nespecially potholes. \nSimilarly, Roberts et al.[55] used the data collection app introduced \nby Maeda et al. [12] and collected over 7000 road images from Sicily, \nItaly. Their work utilizes only the newly collected images, but the un­\nderlying methodology is similar to [12], except that they also consider \nseverity analysis for the identified road damages. \nThe presented study differs from these works in the following ways:  \n1. The Smartphone-based dataset introduced in this work is larger and \nmore heterogeneous, covering multiple countries. \n2. These works do not consider the perspective of evaluating the re­\nsponses of existing or newly proposed models for detecting damages \nin different countries individually.  \n3. The Japanese dataset has been updated by re-annotating and adding \nmore images from Japan, named RDD-2019, in recent work [50]. \nUnlike the previous studies based on the Japanese dataset (2018 \nversion) or model"
+      },
+      {
+        "rank": 4,
+        "score": 0.5494,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 26,
+        "text": "sily and freely available, the annotating the images is still a \ntime-taking and laborious task. This further escalates the need to \nanalyze whether the data already available from another country can be \nmixed with the local data for improving the performance of a road \ndamage detection and classification model. \nThis study intends to address the research gaps and provides the \nrecommendations required for practical use of the models by different \ncountries. \nThe following section provides detail of the proposed dataset and the \nmethodology followed by this study to design the experiments and carry \nout the requisite analysis. \n3. Datasets and methodology \nThis section first explains the transition from the dataset RDD-2018 \nTable 3 \nRoad damage types and definitions considered in Maeda et al. [12].  \nDamage type \nDetail \nClass \nname   \nLongitudinal \nWheel-marked part \nD00 \nCrack \nLinear \nCrack  \nConstruction joint part \nD01   \nLateral \nEqual interval \nD10    \nConstruction joint part \nD11  \nAlligator Crack \nPartial pavement, overall \npavement \nD20    \nPothole \nD40 \nOther Damage \nCross walk blur \nD43    \nWhite line blur \nD44  \nD. Arya et al.                                         "
+      },
+      {
+        "rank": 5,
+        "score": 0.5467,
+        "source": "Road Damage Detection Research Paper",
+        "document": "1-s2.0-S0926580521003861-main.txt",
+        "chunk_id": 16,
+        "text": " road surface \nconditions. The results presented in the study show that the technique \nDTW worked faster than the machine learning techniques Support \nVector Machines and Artificial Neural Networks. \nNonetheless, the current study focuses mainly on two dimensional- \nimage-based approaches for automatic road damage detection, some \nof which are summarized and compared with the proposed work in \nTables 1 and 2. \nClearly, the research works listed in the table differ in several factors, \nincluding number of images used, the way of data collection, type of \nmodels implemented etc. A significant factor in deciding the approach or \nnetwork architecture considered by the researchers is the type of \nTable 1 \nA summary of the existing road image datasets and research works along with the proposed work.  \nDataset \nStudy area \nImages \nResolution \nData collection device \nAcquisition process \nView captured \nStationary \nDedicated \nvehicle \nTop- \ndown \nWide- \nview \nOuma and Hahn [31] \nEldoret Town, Kenya \n75 \n1080 × 1920 \nSamsung Galaxy S5 camera \n×\n×\n✓ \n×\nCrackIT [32] \n_ \n84 \n1536 × 2048 \nOptical device \n_ \n_ \n✓ \n×\nCFD [33,34] \nBeijing, China \n118 \n480 × 320 \niPhone 5 camera \n✓ \n×\n✓ \n×\nCrackTree"
+      }
+    ]
+  },
+  {
+    "id": "Q19",
+    "query": "What maintenance recommendations are supported when both potholes and cracks are observed?",
+    "type": "multi_evidence",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6137,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 17,
+        "text": "level-of-serviceability for any given pavement.  This is \nan important feedback to planning, design and construction.  The type and degree of maintenance \ncan also influence the rate and serviceability loss for a pavement.  It is reporting of maintenance \npractices and problems.  Hence, maintenance management is primarily managing the resources to \nprovide an agreed level-of-service. \n7. TYPES OF PAVEMENT DISTRESS, THEIR IDENTIFICATION, SYMPTOMS, \nLOCATION, CAUSES, SEVERITY LEVELS AND TREATMENT  \n7.1 General: The types of defects in bituminous surfacing are grouped under four categories.  \ni) \nSurface Defects: These include fatty surfaces, smooth surface, streaking, and hungry \nsurface  \nii) \nCracks : These include all types of cracks, viz.,  hair-line cracks, alligator cracks, \nlongitudinal cracks, edge cracks, shrinkage cracks, and reflection cracks  \n\n13 | P a g e \n \niii) \nDeformation:  These include rutting, corrugations, shoving including those caused by \nlayer slippage , shallow depressions, settlements and upheavals etc.  \niv) \nDisintegration: These include stripping, loss of aggregates, raveling, potholes, and edge \nbreaking \nThe location and, severity of distress are impor"
+      },
+      {
+        "rank": 2,
+        "score": 0.5942,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 12,
+        "text": "ightage for different Performance Measures \nDistress Parameter \nPCI Weightage \n \nCracking \n0.16 \nRavelling \n0.12 \nPothole \n0.08 \nPatch Work \n0.10 \nRut Depth \n0.14 \nIRI \n0.40 \n \n \n \n \n \n \n\n10 | P a g e \n \nThe maintenance recommendations based on PCI value are given in Table 5.5.  \nTable 5.5 Maintenance Recommendations based on PCI value (0-100 scale) \nCondition \nExcellent to Good \nSatisfactory to Fair \nPoor to Fail \nExcellent \nGood \nSatisfactory \nFair \nPoor \nFail \nPCI Rating \n>90 to 100 \n>80 to 90 \n>60 to 80 \n>40 to 60 \n>20 to 40 \n0 to 20 \nRecommendations \nRoutine \nMaintenance \nPreventive \nMaintenance \nResurfacing \n(based on \nstructural \nevaluation) \nMinor \nRehabilitation \n(based on \nstructural \nevaluation) \nMajor \nRehabilitation/ \nStructural \nOverlay \nRe-\nConstruction \n \n5.3 Necessary information about the routine maintenance requirement shall be readily available \nwith the maintenance staff who are expected to have information on  the physical condition of \nthe road surface, periodically. However, for preventive and periodic renewal requirement or \nshort term/long term maintenance strategies, condition surveys are carried out at a fixed \nfrequency. It is desirable that at least tw"
+      },
+      {
+        "rank": 3,
+        "score": 0.5868,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 13,
+        "text": "lly. However, for preventive and periodic renewal requirement or \nshort term/long term maintenance strategies, condition surveys are carried out at a fixed \nfrequency. It is desirable that at least two condition surveys are conducted every year on each \nstretch, first before and the second after the monsoon in case of highways and urban roads. \nMinimum one condition survey is required for other roads, preferably after monsoon. It is also \ndesirable that pavement condition surveys on all two lane undivided and above corridors shall \nbe carried out using an instrumented method such as Network Survey Vehicle.  For single lane  \nand Intermediate lane roads, in the absence of appropriate instrumented survey methods,   \nmanual/visual surveys shall be carried out by a team of experienced engineers at a responsible \nlevel.  \nBased on the condition survey data, the causes for the development of various distresses/ defects \nshall be examined in detail as described in Section 7 and a decision shall be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pa"
+      },
+      {
+        "rank": 4,
+        "score": 0.5844,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      },
+      {
+        "rank": 5,
+        "score": 0.574,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 71,
+        "text": "inalized, steps could be taken to secure the \nrequired allocations and start the preliminary field action such as mobilization of resources. While \nthe nomenclature “Periodic Renewal” would imply the renewal treatment to be carried out at a fixed \nand pre decided frequency, it would neither be practicable nor desirable to follow implicitly of any \nspecified frequency irrespective of the condition of the road surface proposed to be renewed. The \nmost effective way to plan a renewal programme is to carry out periodic inspections of the road \nsurface at suitable intervals. In addition, special inspections are also necessary before and after the \nrains so as to assess the need for pothole repair and patching and other remedial measures required \nto be carried out either in advance or together with the renewal treatment.  \n \n9.3 Identification of Stretches to be Renewed  \nThe stretches of the road showing signs of distress such as hungry surface/hair-line cracking, \nRaveling etc., should invariably be included in the renewal programme. This would ensure that the \nsurface of the road and the pavement structure do not deteriorate further. The stretches of the road \nwhich would be due for "
+      }
+    ]
+  },
+  {
+    "id": "Q20",
+    "query": "What evidence is required before making a road maintenance recommendation?",
+    "type": "evidence_requirement",
+    "evidence": [
+      {
+        "rank": 1,
+        "score": 0.6225,
+        "source": "NHAI Road Safety Audit Manual",
+        "document": "Road_Safety_Audit_Manual.txt",
+        "chunk_id": 85,
+        "text": "\ninspection plays an important role. As with a road safety audit of any type of project, the road\nshould be inspected from the point of view of all the likely road user groups and not just motorists.\nThe road should be inspected for each user group and for the different types of movement.\nFollowing completion of road, safety audit report for an existing road, the highway authority will\nneed to make an assessment of the cost effectiveness of the recommended solutions. Some\nsolutions may be in the nature of maintenance treatment and can be easily implemented. Some\nsolutions may be expensive. In some cases lower cost options may be available and they may\nprovide benefits only marginally less than the expensive option, in some cases, expensive option\nmay be the only effective solution.\nIt will also usually be necessary to set priorities for action on\nthe road under review, as not all recommended improvements can be funded immediately. Audit\nreport should highlight those problems, which are considered so urgent that they require\nimmediate attention. Issues and problems will vary, depending on the road's environment, the\ntopography and terrain, when\nit was built and whether it has previo"
+      },
+      {
+        "rank": 2,
+        "score": 0.5691,
+        "source": "NHAI Road Safety Audit Manual",
+        "document": "Road_Safety_Audit_Manual.txt",
+        "chunk_id": 161,
+        "text": "ditions.\n78\n\nIRC:SP:88-2010\n1 4)\nCheck that all temporary arrangements, signing, etc, have been removed and replaced\nby permanent arrangements.\n1 5)\nOther checks made at discretion of auditor or client.\nCHECKLIST 6\n- STAGE 6 AUDIT (ON EXISTING ROADS OR DURING OPERATION &\nMANAGEMENT)\n1 )\nCarryout inspection - do not forget to take the results of accidents analysis and relevant\nchecklists with you.\n2)\nDoes the actual function of the road correspond to its intended function?\n3)\nAre the prevailing speed levels within desirable limits?\n4)\nDo the equipment and standard of the road correspond to its function, speed level and\nclassification? (Use checklist 2 and 3, as well as any specific checklists, which are\nrelevant.)\n5)\nDo road users park in ways that could constitute hazards?\n6)\nDo plantations obscure visibility or the view of signs?\n7)\nAre the surface and carriageway markings in good condition?\n8)\nAre there any signs that road users drive over islands or kerbs or that the routes taken\nby motorists through junctions and bends are less than ideal?\n9)\nAre there signs of other conflict situations and minor accidents?\n10)\nAre the specified distances to\nrigid obstacles maintained for\nall g"
+      },
+      {
+        "rank": 3,
+        "score": 0.5687,
+        "source": "NHAI Road Safety Audit Manual",
+        "document": "Road_Safety_Audit_Manual.txt",
+        "chunk_id": 160,
+        "text": "s a road user: by car, by truck, by bus,\nby cycle and on foot - from disabled road user angle. Also in the dark/ night hours.\n4)\nExamine the carriageway for defects, especially at junctions to existing roads.\n5)\nHas the opening of the road facility been adequately publicized?\n6)\nHow will the transition phase proceed?\n7)\nCheck that provision for emergency vehicle access and stopping is safe?\n8)\nCheck that all delineators and pavement markings are correctly in place.\n9)\nCheck that all signs and other traffic control devices are correctly in place. Check that\nthey are likely to remain visible at all times.\n1 0)\nCheck that the road markings as installed have sufficient contrast with the surfacing\nand are clear of debris.\n1 1 )\nCheck that all lighting operating is effective from safety point of view.\n1 2)\nCheck that no roadside hazard has been installed or overlooked.\n13)\nCheck that the form and function of the road and\nits traffic management are easily\nrecognised under likely operating conditions.\n78\n\nIRC:SP:88-2010\n1 4)\nCheck that all temporary arrangements, signing, etc, have been removed and replaced\nby permanent arrangements.\n1 5)\nOther checks made at discretion of auditor or clien"
+      },
+      {
+        "rank": 4,
+        "score": 0.567,
+        "source": "NHAI Road Safety Audit Manual",
+        "document": "Road_Safety_Audit_Manual.txt",
+        "chunk_id": 62,
+        "text": "eated during its lifetime such as encroachments, ribbon development or deterioration of\nroad conditions as well as traffic conditions, etc.\nAn analysis of any accident data and inspection of the scheme every year, with a view to\ndetermine whether or not road users use the scheme appropriately. Subjects for monitoring\ninclude:\na)\nDoes the prevailing speed correspond to the design speed?\nb)\nAre the visibility and sight distance criteria still satisfied?\nc)\nHave any changes been made which could affect road safety?\nd)\nFor carriageway and paved shoulders examine things\nlike any breach or\nblockade, roughness value, pot holes, cracking, rutting, skidding, damage to\npavement, edge drop at shoulders.\ne)\nCheck the roadside furniture including road signs and markings damage to\ntheir shape or position, loss of retro-reflectivity\nf)\nStreet lighting and Highway Traffic Management System (HTMS)\ng)\nRest areas - cleaning, defects in electrical, water and sanitary installations.\nh)\nBridges - super structure, foundations, bearings, joints, etc.\n3.7\nWhat are tlie Safety Issues to be Focused in Different Stages of thie Project?\nThere are at least four distinct phases at which a road safety audit may b"
+      },
+      {
+        "rank": 5,
+        "score": 0.5561,
+        "source": "IRC Maintenance and Road Distress Document",
+        "document": "showimg.txt",
+        "chunk_id": 14,
+        "text": "ll be taken for an \nappropriate maintenance activity. Type of maintenance activity to be undertaken shall depend \nupon pavement condition index as per Table 5.5.  \nWhere severity of distress on the pavement has reached the extensive level which adversely \naffects  the riding quality significantly and eventually smooth flow of traffic, these should be \nrectified by providing appropriate timely maintenance treatment. For other defects like minor \ncracking, and raveling, optimal maintenance  strategy should be adopted considering  various \nfactors such as category of road, severity and extent of the distresses, budget  availability, and a \ndecision may have to be taken whether to go in for preventive maintenance treatment, \napplication of periodic renewal or strengthening. In other words, the planning of the various \nmaintenance operations should be correlated and looked upon as a total system rather than each \nactivity being considered in isolation.  \n\n11 | P a g e \n \nA plan has to be drawn for preventive maintenance or periodic renewals depending upon \npavement condition rating as given in Table 5.5. Once the overall maintenance plan has been \ndrawn up, attention should be given to "
+      }
+    ]
+  }
+]

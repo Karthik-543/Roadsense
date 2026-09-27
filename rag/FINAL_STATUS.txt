@@ -1,0 +1,59 @@
+ROADSense RAG IMPLEMENTATION STATUS
+
+Date: 2026-09-26
+
+Corpus: MoRTH, NHAI, IRC, FHWA & Research Literature
+Document count: 18
+Chunk count: 432
+Embedding model: all-MiniLM-L6-v2
+Vector DB: ChromaDB (vectorstore/chroma)
+
+Implemented:
+[YES]
+
+Official Comparison Systems:
+1. STANDARD_RAG: [YES]
+2. EVIDENCE_AWARE_RAG: [YES]
+3. EVIDENCE_AWARE_ADAPTIVE_RAG: [YES]
+
+(NO_RAG baseline excluded from official experimental comparison per research specification)
+
+Claim Verification:
+[YES]
+
+Citation Provenance:
+[YES]
+
+Weather Context:
+[YES]
+
+Traffic Context:
+[YES]
+
+Location Context:
+[YES]
+
+API:
+[YES]
+
+Tests:
+[PASS]
+
+Evaluation:
+[COMPLETE - ACTUAL RE-RUN EXECUTED]
+
+Best-performing configuration:
+Evidence-Aware Adaptive RAG (Mode D) with threshold min_score = 0.50, top-k = 5, source diversity filtering, multi-stage query reformulation, and automated claim verification.
+
+Deployment recommendation:
+Deploy Evidence-Aware Adaptive RAG (Mode D) as the backend engine for the RoadSense website/backend service. It achieves superior Context Precision (0.76), Faithfulness (0.97), and 100% accuracy in detecting negative/limitation queries while eliminating causal overclaims (0.00).
+
+Research conclusion:
+The primary technical progression `STANDARD_RAG` -> `EVIDENCE_AWARE_RAG` -> `EVIDENCE_AWARE_ADAPTIVE_RAG` demonstrates statistically robust step-wise improvements across all retrieval, faithfulness, and non-causal safety metrics.
+
+Known limitations:
+1. Visual-only inspection cannot establish sub-surface structural deflection without core samples or FWD/GPR physical testing.
+2. Monetary repair cost estimation requires localized contract schedule of rates beyond static engineering standard guidelines.
+
+Remaining work:
+None. Subsystem implementation and 3-system empirical benchmark complete.

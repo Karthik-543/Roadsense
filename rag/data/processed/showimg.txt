@@ -1,0 +1,3738 @@
+1 | P a g e 
+ 
+ 
+ 
+ 
+ 
+DRAFT REVISION OF IRC:82 “CODE OF PRACTICE FOR 
+MAINTENANCE OF BITUMINOUS ROADS” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by H-6 Committee  
+ 
+INDIAN ROADS CONGRESS 
+2022 
+
+2 | P a g e 
+ 
+CONTENTS 
+S.No.  
+Description  
+ 
+ 
+ 
+ 
+ 
+ 
+Page No. 
+1. 
+ 
+Introduction  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+2. 
+ 
+Scope  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+3. 
+ 
+Importance of Maintenance 
+ 
+ 
+ 
+ 
+ 
+4 
+4. 
+ 
+Types of Maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+5. 
+ 
+Planning of Maintenance Activities 
+ 
+ 
+ 
+ 
+5 
+6. 
+ 
+System Approach to Pavement Maintenance 
+ 
+ 
+ 
+12 
+7. 
+Types of Pavement Distress, their Identification, Symptoms,   
+ 
+Location, Causes, Severity Levels and Treatment 
+ 
+ 
+12 
+8. 
+Preventive Maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+9. 
+Periodic Renewals  
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+10. 
+ 
+Materials and Methods for Rectification of Distress on  Bituminous   
+ 
+ 
+Surface 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+11. 
+ 
+Tools and Equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+12. 
+ 
+Arrangements for Traffic and Safety Measures during Road   
+ 
+ 
+ 
+Maintenance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+13. 
+ 
+Organisation and Management 
+ 
+ 
+ 
+ 
+ 
+58 
+Appendix-1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+
+3 | P a g e 
+ 
+Code of Practice for Maintenance of Bituminous Roads 
+(IRC: 82-20xx)  
+1. Introduction: To be added by IRC 
+ 
+2. Scope: The scope of the document is as under 
+ 
+2.1 By early detection of distress and appropriate repair of bituminous surface at initial stages, 
+further deterioration of the pavement surface can be prevented or delayed. This code of 
+Practice deals only with the “Routine”, “Preventive” and “Periodic” maintenance of 
+bituminous surfaces.  
+ 
+2.2 Several phases are involved in undertaking maintenance operations for bituminous surface 
+as discussed in subsequent sections.  Sections 3 and 4 deal with importance and types of 
+maintenance.  Maintenance planning and system approach to pavement maintenance are 
+described in Sections 5 and 6, respectively. Types of pavement distresses, identification, 
+severity, their causes, and methods of treatment are given in Section 7. 
+ 
+2.3 Preventive maintenance is the need of the day and is described in section 8. Periodic 
+renewals are covered in Section 9.  Sections, 10, 11, 12, and 13 deal with the materials and 
+methods for rectification, tools and equipment, arrangements for traffic, and organization 
+and management, respectively.  
+ 
+2.4 Operations falling in the category of pavement rehabilitation and strengthening are beyond 
+the scope of this Code of Practice. For design of rehabilitation and strengthening measures 
+for existing pavements, reference may be made to the following publications:  
+i) IRC:81 “Guidelines for Strengthening of Flexible Road Pavement using Benkelman Beam 
+Deflection Technique”  
+ii) IRC:37 “Tentative Guidelines for the Design of Flexible Pavements” 
+iii) IRC:115 “Guidelines for Structural Evaluation and Strengthening of Flexible Pavement 
+using Falling Weight Deflectometer” 
+ 
+
+4 | P a g e 
+ 
+ 
+3 IMPORTANCE OF MAINTENANCE 
+3.1 The timely upkeep and maintenance of bituminous surfacing offers numerous benefits for 
+preservation of road asset. The importance of overall maintenance is described below: 
+i) 
+Reduction in rate of deterioration and improvement in life of road  
+ii) 
+Reduction in Vehicle Operation Costs (VOC) 
+iii) 
+Reduction in crash rate  
+iv) 
+Keeping road traffic worthy roads in all weather conditions 
+v) 
+Reduction in pollution due to reduced fuel consumption on well-maintained 
+pavement surface 
+vi) 
+Savings in budgetary expenditure of restoration/ reconstruction  
+ 
+3.2 Timely and regular maintenance of roads have been known to provide economic rate of 
+return as high as 15 to 20 percent depending upon the category of road and traffic volume.  
+Moreover, it helps in deferring the demand for rehabilitation which otherwise is far costlier than 
+preventive maintenance.  Therefore, timely and appropriate maintenance of bituminous surface 
+using sustainable/suitable materials and methods is significant for preservation of road asset and 
+to serve the intended purpose. 
+ 
+4 TYPES OF MAINTENANCE 
+4.1 Maintenance operations covered in this Code of Practice are classified into three broad 
+categories 
+a) 
+Routine Maintenance: This covers items such as filling of potholes, repairing of cracks and 
+patch work, shoulder dressing, drain desilting etc., which are undertaken by the maintenance 
+staff all through the year.  Routine maintenance is also required for pavement markings on 
+the bituminous surfaces to guide the road users and enhance road safety. 
+b) 
+Preventive Maintenance: Preventive maintenance is performed to improve or extend the 
+functional life of pavement surface while in good structural condition. This may defer the 
+timing for periodic maintenance and rehabilitation during the design life. 
+c) 
+Periodic Maintenance: This includes regular maintenance operations compared to 
+preventive maintenance such as applying a non-structural renewal coat. Periodic renewals  
+
+5 | P a g e 
+ 
+are required to be carried out at specified frequency (scheduled response) or based upon 
+condition and performance of road surface (performance based) depending upon category of 
+road, traffic and climatic conditions to improve the riding quality and reduce the rate of 
+deterioration of the pavements. 
+5.  PLANNING OF MAINTENANCE ACTIVITIES 
+5.1 
+All types of pavement maintenance need a comprehensive maintenance program.  Following 
+guidelines are to be considered in planning of routine, preventive and periodic maintenance 
+activities. 
+The first step towards planning of maintenance operations is the evaluation of the existing 
+pavement surface in terms of its physical condition as well as structural capacity. For this purpose, 
+pavement condition surveys may be undertaken using manual or instruments by identifying type, 
+location and magnitude of the distress as described in Appendix – 1. The rating of pavement may be 
+assigned as per the criteria given in Tables 5.1 to 5.3 and determination of PCI for different classes 
+of roads, are given in Appendix-2. Maintenance recommendations based on PCI value (0-100 scale) 
+can be as per Table 5.4. 
+Table 5.1 Pavement Distress and Roughness Index Based Rating for Highways 
+Defects (type) 
+Range of Distress  
+Excellent to Good 
+Satisfactory to Fair 
+Poor to Fail 
+Cracking (%) 
+<5 
+5 to 10 
+>10 
+Ravelling (%)  
+<1 
+1 to 10 
+>10 
+Potholes (number) 
+Nil 
+1 to 2 
+>2 
+Patching (%)  
+<1 
+1 to 10 
+>10 
+Rut depth (mm)  
+<5 
+5 to 10 
+>10 
+Maximum Permissible Range of Roughness Index 
+Surface Type 
+IRI  
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+Bituminous Concrete, 
+Stone Mastic Asphalt, 
+Semi Dense 
+Bituminous Concrete 
+<2.55 
+<1800 
+2.55 
+to 
+3.30 
+1800 to 
+2400 
+>3.30 
+>2400 
+ 
+
+6 | P a g e 
+ 
+Table 5.2 Pavement Distress and Roughness Index Based Rating for MDR(s) and Rural 
+Roads  
+Defects (type) 
+Range of Distress (MDR and Rural Roads) 
+Excellent to Good 
+Satisfactory to Fair 
+Poor to Fail 
+Cracking (%) 
+< 10 
+10-20 
+>20 
+Ravelling (%)           
+<10 
+10-20 
+>20 
+Potholes (number) 
+Nil to 1 
+ >1 to 5 
+ >5 
+Patching (%)  
+<5 
+5-20 
+>20 
+Rut depth (mm)  
+<10 
+10 to 20 
+>20 
+Maximum Permissible Range of Roughness Index (MDR) 
+Surface Type 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+Surface Dressing 
+<4.03 
+ 
+<3000 
+4.03-4.98 
+ 
+3000-
+3800 
+>4.98 
+ 
+>3800 
+Open graded premix 
+Carpet 
+<3.79 
+ 
+<2800 
+3.79-4.62 
+ 
+2800-
+3500 
+>4.62 
+>3500 
+Mix Seal Surfacing 
+<3.55 
+<2600 
+3.55-4.27 
+2600-
+3200 
+>4.27 
+>3200 
+Semi 
+Dense 
+Bituminous Concrete 
+<3.05 
+<2200 
+3.05-4.03 
+2200-
+3000 
+>4.03 
+>3000 
+Bituminous Concrete <2.81 
+<2000 
+2.81-3.55 
+2000-2600 >3.55 
+>2600 
+Maximum Permissible Range of Roughness Index (Rural Roads) 
+Surface Type 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+Surface Dressing 
+<4.27 
+<3200 
+4.27-4.98 
+3200-
+3800 
+>4.98 
+>3800 
+Open graded premix 
+Carpet 
+<4.03 
+<3000 
+4.03-4.62 
+3000-
+3500 
+>4.62 
+>3500 
+Mix Seal Surfacing 
+<3.79 
+<2800 
+3.79-4.27 
+2800-
+3200 
+>4.27 
+>3200 
+Semi 
+Dense 
+Bituminous Concrete 
+<3.33 
+<2400 
+3.33-4.03 
+2400-
+3000 
+>4.03 
+>3000 
+ 
+ 
+
+7 | P a g e 
+ 
+ 
+Table 5.3 Pavement Distress and Roughness Index Based Rating for Urban Roads  
+Defects (type) 
+Range of Distress 
+Excellent to Good 
+Satisfactory to Fair 
+Poor to Fail 
+Cracking (%) 
+<5 
+5 to15 
+>15 
+Ravelling (%)  
+<5 
+5 to 10 
+>10 
+Potholes (number) 
+Nil 
+1 to 3 
+>3 
+Patching (%)  
+<5 
+5 to10 
+>10 
+Rut depth (mm)  
+<5 
+5 to 10 
+>10 
+Maximum Permissible Range of Roughness Index 
+Surface Type 
+IRI  
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+IRI 
+(m/km) 
+RI 
+(mm/km) 
+Bituminous Concrete, 
+Stone Mastic Asphalt, 
+Semi Dense 
+Bituminous Concrete 
+<2.55 
+<1800 
+2.55 
+to 
+3.30 
+1800-
+2400 
+>3.30 
+>2400 
+ 
+Note: The defect type (%), number of pothole shall be calculated carriageway wise 
+(considering all lanes/area of all lanes in one direction of traffic). IRI and Rut depth shall be 
+taken as average value of all lanes in one direction of traffic. All data shall be analysed for 
+100 m to 1000 m length depending upon the analysis type (project level or network level).  
+ 
+5.2 For the purpose of obtaining/assigning the overall condition rating, Pavement Condition 
+Index (PCI) value based rating methodology in 0 to 100 scale has been proposed.  
+Present pavement condition can be quantified considering functional parameters influencing  
+section’s performance and can be quantified in terms of a Pavement Condition Index (PCI). The 
+proposed PCI varies from 0 to 100 where 0 represent pavement in failed condition and 100 
+corresponds to pavement section in Excellent condition. Representation of different pavement 
+condition corresponding to different values of PCI is shown in Figure-5.1.   
+ 
+
+8 | P a g e 
+ 
+ 
+Figure-5.1 Representation of PCI scale 
+The functional parameters considered for the determination of Pavement Condition Index includes  
+1) Cracking Extent  2) Ravelling Extent 3) Patching Extent 4) Pothole Number  
+5) Rut Depth 6) International Roughness Index 
+Different steps involved in determination of PCI are depicted in Figure-5.2. 
+ 
+Figure-5.2 Procedure for Determination of Overall Pavement Condition Index 
+ 
+100 
+90 
+80 
+60 
+40 
+20 
+0 
+Failed 
+Poor 
+Fair 
+Satisfactory 
+Good 
+Excellent 
+Evaluation of Pavement 
+Surface in terms of 
+Distress Extent  
+Evaluation of Pavement 
+Surface in terms of Rut 
+Depth (mm) 
+Evaluation of Pavement 
+Surface in terms of IRI 
+(m/km) 
+Determination of 
+Individual Indices for 
+distress (Cracking, 
+Ravelling, Patching, 
+Pothole)  
+Determination of 
+Individual Indices for 
+Rut Depth  
+Determination of 
+Individual Indices for IRI  
+ 
+Weighted sum of each individual 
+index values for determination of 
+Pavement Condition Index  
+
+9 | P a g e 
+ 
+The extent of the distress can be calculated as the area of pavement section affected by a particular 
+distress using equation  
+ 
+(1) 
+ 
+Please note: “Surface area of Pavement Section” means total area of all lanes in a carriageway for 
+100 m to 1000 m section length depending upon the analysis type (project level or network level).  
+ 
+The number of potholes shall be calculated as per the procedure given below:  
+No of Potholes =  
+Surface Area of Pavement Section affected by potholes (m2)         (2) 
+ 
+ 
+ 
+                    Area of Pothole unit (i.e. 0.1 m2) 
+Example: If the total area of potholing in the selected road length is 0.5 m2, then equivalent number 
+of potholes shall be = 0.5/ 0.1, i.e. 5 potholes for PCI calculations. 
+After determination of all individual PCI values, the final value of pavement condition index can be 
+determined using the weighted sum of each individual index values. The weightage for different 
+functional parameters for calculation of PCI is presented in Table.5.4. The Flexible PCI Utility 
+program (given in separate CD) can be used directly for calculation of PCI values based on the 
+equations used for determination of PCI for different classes of roads, which are given in Appendix-
+2. 
+Table 5.4 Weightage for different Performance Measures 
+Distress Parameter 
+PCI Weightage 
+ 
+Cracking 
+0.16 
+Ravelling 
+0.12 
+Pothole 
+0.08 
+Patch Work 
+0.10 
+Rut Depth 
+0.14 
+IRI 
+0.40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10 | P a g e 
+ 
+The maintenance recommendations based on PCI value are given in Table 5.5.  
+Table 5.5 Maintenance Recommendations based on PCI value (0-100 scale) 
+Condition 
+Excellent to Good 
+Satisfactory to Fair 
+Poor to Fail 
+Excellent 
+Good 
+Satisfactory 
+Fair 
+Poor 
+Fail 
+PCI Rating 
+>90 to 100 
+>80 to 90 
+>60 to 80 
+>40 to 60 
+>20 to 40 
+0 to 20 
+Recommendations 
+Routine 
+Maintenance 
+Preventive 
+Maintenance 
+Resurfacing 
+(based on 
+structural 
+evaluation) 
+Minor 
+Rehabilitation 
+(based on 
+structural 
+evaluation) 
+Major 
+Rehabilitation/ 
+Structural 
+Overlay 
+Re-
+Construction 
+ 
+5.3 Necessary information about the routine maintenance requirement shall be readily available 
+with the maintenance staff who are expected to have information on  the physical condition of 
+the road surface, periodically. However, for preventive and periodic renewal requirement or 
+short term/long term maintenance strategies, condition surveys are carried out at a fixed 
+frequency. It is desirable that at least two condition surveys are conducted every year on each 
+stretch, first before and the second after the monsoon in case of highways and urban roads. 
+Minimum one condition survey is required for other roads, preferably after monsoon. It is also 
+desirable that pavement condition surveys on all two lane undivided and above corridors shall 
+be carried out using an instrumented method such as Network Survey Vehicle.  For single lane  
+and Intermediate lane roads, in the absence of appropriate instrumented survey methods,   
+manual/visual surveys shall be carried out by a team of experienced engineers at a responsible 
+level.  
+Based on the condition survey data, the causes for the development of various distresses/ defects 
+shall be examined in detail as described in Section 7 and a decision shall be taken for an 
+appropriate maintenance activity. Type of maintenance activity to be undertaken shall depend 
+upon pavement condition index as per Table 5.5.  
+Where severity of distress on the pavement has reached the extensive level which adversely 
+affects  the riding quality significantly and eventually smooth flow of traffic, these should be 
+rectified by providing appropriate timely maintenance treatment. For other defects like minor 
+cracking, and raveling, optimal maintenance  strategy should be adopted considering  various 
+factors such as category of road, severity and extent of the distresses, budget  availability, and a 
+decision may have to be taken whether to go in for preventive maintenance treatment, 
+application of periodic renewal or strengthening. In other words, the planning of the various 
+maintenance operations should be correlated and looked upon as a total system rather than each 
+activity being considered in isolation.  
+
+11 | P a g e 
+ 
+A plan has to be drawn for preventive maintenance or periodic renewals depending upon 
+pavement condition rating as given in Table 5.5. Once the overall maintenance plan has been 
+drawn up, attention should be given to the proper organization and management aspects of the 
+programme including deployment of various resources, i.e. men, materials and equipment, in an 
+efficient manner. For each maintenance activity, the work at site should be carefully controlled 
+so that the optimum output and quality are achieved.  
+Condition surveys may be undertaken/carried out manually or through an instrumented method 
+as per the guidelines given in Appendix -1.   
+
+12 | P a g e 
+ 
+6. SYSTEM APPROACH TO PAVEMENT MAINTENANCE  
+6.1 Pavement Maintenance Management System (PMMS) is a technical or operational 
+methodology for managing or directing and controlling maintenance resources, in a scientific 
+manner, for optimum benefits.  It is a complex problem of matching  resources, time, materials, 
+labour, equipment, funds, design and, above all decision making, whereas, Pavement 
+Management System (PMS) consists of a comprehensive, coordinated set of activities 
+associated with the planning, design, construction maintenance, evaluation and research of 
+pavements.  A major objective of PMS is to assist the highway engineer in making consistent 
+and cost effective decisions related to the construction, maintenance and rehabilitation of 
+pavements.  
+6.2 The Pavement Maintenance Management System performs the following functions: 
+i) 
+To identify projects in need of Maintenance & Rehabilitation (M&R) and to establish 
+priorities  
+ii) 
+Identification of the type of maintenance and/or rehabilitation required  
+iii) 
+Requirement of type and timing of future M&R 
+iv) 
+To minimize life-cycle costs or maximize benefits  
+v) 
+To predict performance of pavement in future   
+     6.3 The prime purpose of maintenance phase in a Pavement Management System is to determine 
+the cost associated with providing various level-of-serviceability for any given pavement.  This is 
+an important feedback to planning, design and construction.  The type and degree of maintenance 
+can also influence the rate and serviceability loss for a pavement.  It is reporting of maintenance 
+practices and problems.  Hence, maintenance management is primarily managing the resources to 
+provide an agreed level-of-service. 
+7. TYPES OF PAVEMENT DISTRESS, THEIR IDENTIFICATION, SYMPTOMS, 
+LOCATION, CAUSES, SEVERITY LEVELS AND TREATMENT  
+7.1 General: The types of defects in bituminous surfacing are grouped under four categories.  
+i) 
+Surface Defects: These include fatty surfaces, smooth surface, streaking, and hungry 
+surface  
+ii) 
+Cracks : These include all types of cracks, viz.,  hair-line cracks, alligator cracks, 
+longitudinal cracks, edge cracks, shrinkage cracks, and reflection cracks  
+
+13 | P a g e 
+ 
+iii) 
+Deformation:  These include rutting, corrugations, shoving including those caused by 
+layer slippage , shallow depressions, settlements and upheavals etc.  
+iv) 
+Disintegration: These include stripping, loss of aggregates, raveling, potholes, and edge 
+breaking 
+The location and, severity of distress are important to select appropriate maintenance treatments, 
+materials and technique.    
+7.2 
+Surface Defects: These are confined to surfacing and may be due to inappropriate quality 
+and quantities of bitumen.  
+7.2.1 Bleeding  
+7.2.1.1  Symptoms 
+A surface having a thin film of excess or free bituminous binder on it, which creates a shiny, glass 
+like reflecting surface tending to become soft in hot weather and slippery in cold and wet weather, 
+eventually developing low skid resistance is referred to as bleeding or fatty bituminous surface.  
+7.2.1.2  Location 
+Generally such defect develops along the wheel path but sometimes these are restricted to isolated 
+locations and specific lanes. Many a time, these defects are seen on entire carriageway. 
+7.2.1.3  Causes  
+Bleeding occurs in hot weather, when the bituminous binder after filling the available voids in 
+compacted bituminous layer moves upward under traffic movement and collects as a thick film on 
+the surface.  The process is not reversible during cold weather, leading to permanent accumulation 
+of binder on surface with passage of time making the surface fatty, slippery and skid prone. This 
+can be caused by one or combination of the following factors: 
+i) 
+Excessive binder in hot mix due to faulty mix design or lapses in quality control  
+ii) 
+Lower voids in hot mix  
+iii) 
+Use of softer grade binder  
+iv) 
+Too heavy tack coat or prime coat 
+v) 
+Loss of cover aggregates in surface dressing 
+vi) 
+Excessive application of binder or non-uniform spreading of cover aggregate or 
+flaky/elongated cover aggregate in surface dressing  
+ 
+ 
+ 
+
+14 | P a g e 
+ 
+7.2.1.4  Severity Levels 
+A fatty surface may have different degree of severity depending upon reasons thereof. The severity 
+of fatty surface and bleeding may be classified as low, medium and extensive. The isolated spots 
+measuring less than 5 m2 area in a lane km and restricted to only specific lane with total area less 
+than 1% may be considered as bleeding/fatty surface of low severity. Sometimes bleeding/fatty 
+surface is confined to entire lane along with wheel path.  In case the area is in the range of 1 to 5%, 
+it may be treated as fatty surface/ bleeding of medium severity. Extensive bleeding and fatty surface 
+showing initiation of shoving shall be treated as fatty surface of “High Severity”. Photos 7.2.1, (a, 
+b, c)  indicate low, medium and high severity level of bleeding and fatty surface respectively. 
+ 
+ (a) Low severity 
+ 
+ 
+ 
+(b) Medium severity 
+ 
+           (c) High severity  
+Photo 7.2.1 Bleeding 
+7.2.1.5  Treatment 
+a)  Low Severity: Minor bleeding / low severity fatty surface can be corrected by applying heated 
+coarse sand  (passing 1.18 mm) to blot up excess bitumen in affected area followed by light rolling. 
+b)  Medium Severity: Medium severity bleeding and fatty surface may be corrected by application 
+of pre-coated chips; Passing 4.75 mm and  retained over 1.18 mm using 1 % bitumen and generally 
+applied in a single layer followed by light rolling. In case the layer of bleeding is less than 1 mm, 
+treatment described for low severity would be sufficient.  
+c)  High Severity: The affected portion shall be milled out and repaired with mix of desired quality. 
+The milled material i.e. Recycled Asphalt Pavement (RAP) mixed with fresh aggregates may be 
+laid followed by application of slurry seal/microsurfacing treatment.  An open-graded premix carpet 
+with low bitumen content can also be applied to absorb the excess binder. In the case of large areas 
+of fatty surface, having irregularities, removal of the affected layer and replacing it with a layer 
+having a properly designed mix, may be necessary.  
+ 
+
+15 | P a g e 
+ 
+7.2.2 Smooth surface (Low skid resistance Surface) 
+7.2.2.1 Symptoms   
+A smooth surface has a very low skid resistance and becomes very slippery when it is wet. Such a 
+condition invites safety hazards, especially on gradients, bends, and intersections, Photo 7.2.2 
+indicate a smooth surface.  
+ 
+Photo 7.2.2A View of Smooth Surface  
+ 
+7.2.2.2  Location 
+Smooth surface may be restricted to a lane/carriageway.  
+ 
+7.2.2.3 Causes 
+A primary cause for a smooth surface is the polishing of aggregates under traffic. Excessive binder 
+can also contribute to formation of smooth surface.  
+ 
+7.2.2.4 Severity Levels 
+The severity level of smooth surface may be defined by skid number. A surface with skid number in 
+the range of 30 to 40 indicates low severity smooth surface while skid number below 30 indicates 
+high severity smooth surface. However, it is further recommended that the user shall consider the 
+latest guidelines issued by MoRTH / IRC to determine the ranges for skid number.  
+ 
+7.2.2.5Treatment 
+The rectification consists of resurfacing with a surface dressing course or a premix carpet or 
+microsurfacing depending upon type of existing surface. Care should be taken to select aggregates 
+which have proven non-polishing characteristics. The carpet can be an open graded mix. A slurry 
+seal can also be used to impart anti-skid texture on a smooth surface.  
+ 
+
+16 | P a g e 
+ 
+7.2.3 Streaking  
+7.2.3.1 Symptoms 
+Streaking is characterized by the appearance of alternate lean and heavy lines of bitumen either in 
+longitudinal direction or in transverse direction. Photo 7.2.3. shows streaking. 
+ 
+Photo 7.2.3. Streaking of Bituminous Pavement 
+7.2.3.2 Location  
+Streaking may occur in a lane or carriageway.  
+7.2.3.3 Causes  
+Longitudinal streaking results when alternate longitudinal strips of surface contain different 
+quantities of bitumen due to non-uniform application of bitumen across the surface. Some of the 
+more common causes of streaking are mechanical faults, improper or poor adjustment and careless 
+operation of bitumen distributors. These streaks can also be formed as a result of applying the 
+bituminous binder at too low temperature; a temperature at which bitumen is not fluid enough to  
+achieve uniform smooth flow from the nozzles on the spray bars. All these causes can result in 
+transverse streaking also. Transverse streaking may also be caused by spurts in the bitumen spray 
+from the distribution spray bar. These could be a result of mechanical faults in the distributor. 
+Transverse streaking may result in corrugation in the pavement surface.  
+7.2.3.4 Severity Levels 
+Not applicable 
+7.2.3.5 Treatment  
+The satisfactory repair for longitudinal and transverse streaking is to remove the streaked surface 
+and apply a new surface. It is always desirable to prevent longitudinal and transverse streaking than 
+to correct it. Whenever mechanical equipment is used for spraying of bitumen, distributor should be 
+carefully operated. 
+ 
+ 
+
+17 | P a g e 
+ 
+7.2.4 Hungry surface  
+7.2.4.1 Symptoms  
+Hungry surface is characterized by the loss of fine aggregates from the surface or the appearance of 
+dry surface with fine cracks; Photos 7.2.4 indicate a dry and hungry surface   
+ 
+Photo 7.2.4.View of Dry and Hungry Surface 
+ 
+7.2.4.2 Location  
+Hungry surface may be in full lane or carriageway. 
+7.2.4.3 Causes  
+One of the reasons for hungry surface is the use of less bitumen in the surfacing. Sometimes this 
+condition may also appear due to use of absorptive aggregates in the surfacing.  
+7.2.4.4 Severity Levels  
+Not applicable  
+7.2.4.5 Treatment   
+Fog seal / liquid rejuvenating materials may be used for correction of dry and hungry surface. 
+Slurry seal or microsurfacing may also be used as a repair measure, when applied in an average 
+thickness of 2-4 mm.  
+7.3. Cracking  
+7.3.1 General  
+Cracking of bituminous surfacing is a common distress seen on majority of roads in India (with the 
+passage of time). Cracks in bituminous surface are classified into various types depending upon 
+severity. Immediate attention must be given for sealing of cracks, and prevention of their further 
+widening as ingress of water through cracks is detrimental to pavement structure and performance 
+of bituminous surfacing. 
+ 
+ 
+
+18 | P a g e 
+ 
+7.3.2 Hairline Cracks 
+7.3.2.1 Symptoms 
+Hairline cracks are present in narrow area and their width is less than one mm (Photo 7.3.1). 
+Hairline cracks are generally isolated and normally these are not interconnected. These appear as 
+short and fine cracks at close intervals on the surface. Many a time, such cracks disappear in hot 
+summer.  
+ 
+Photo 7.3.1 Hairline Cracks 
+ 
+7.3.2.2 Location  
+These cracks may be at isolated places or in a lane/carriageway. 
+7.3.2.3 Causes  
+These cracks develop due to either insufficient bitumen content, excessive filler, improper 
+compaction, oxidation of bitumen in surface or sometimes excessive moisture in granular layers.  
+These may occur due to rolling of mix while it is still tender or due to excessive compaction. 
+7.3.2.4. Severity Levels  
+Not applicable 
+7.3.2.5 Treatment  
+These cracks may be treated by fog seal, application of liquid rejuvenating agents, slurry sealing 
+and microsurfacing. 
+ 
+7.3.3 Alligator and Map Cracking 
+7.3.3.1 Symptoms  
+Alligator or map cracking is characterized as a series of interconnected cracks, having small 
+irregular blocks in pavement surface which resemble the skin of an alligator. These cracks may be 
+
+19 | P a g e 
+ 
+of different types depending upon extent and severity. The size of irregular shape blocks of cracks 
+vary from less than 30 cm to more.  
+7.3.3.2 Location  
+Alligator or map cracks are normally appearing along the wheel path.  
+7.3.3.3Causes  
+The causes of alligator cracking are many. These are developed due to one or more of the following 
+reasons: 
+ 
+i) 
+Excessive deflection of pavement surface normally at wheel path 
+ii) 
+Inadequate pavement thickness 
+iii) 
+Weakening of sub-grade or lower layers of the pavement due to ingress of excessive 
+moisture to pavement and saturation 
+iv) 
+Overloading of heavy commercial vehicles 
+v) 
+Brittleness of binder due to ageing of binder and lowering of surface temperature due to 
+weather conditions 
+vi) 
+Stripping of underlying bituminous courses 
+ 
+7.3.3.4Severity level  
+Alligator cracking may be classified as low severity, medium severity and high severity. (Photos 
+7.3.3-a,b,c.) 
+Low Severity: Low severity cracks are characterized by an area of cracking with very narrow 
+cracks with almost no additional deterioration of the surface. The cracking is often isolated and 
+many times, the cracking may not be interconnected to other areas and there is not much distortion. 
+The depth and width of such cracks is in the range of 1 to 3 mm.  
+Medium Severity: Medium severity-cracking is characterized by interconnected cracks forming a 
+small area similar to the skin of alligator. The cracks may have signs of slight spalling, with no 
+pumping visible. The depth and width of such cracks lies between 3 to 6 mm. 
+
+20 | P a g e 
+ 
+ 
+    (a) Low severity   
+ 
+ 
+ (b) Medium severity  
+ 
+ 
+(c) High severity  
+7.3.2 Alligator cracks 
+ 
+High Severity: High Severity alligator cracking is characterized by an area of moderate to severely 
+spalled interconnected cracks creating a full pattern of cracking similar to skin of alligator. The 
+width and depth in this case may be more than 6 mm.  Pieces of bituminous surface may be loose or 
+missing. The pumping of water and fine material below the pavement may be seen on the surface. 
+7.3.3.5 Treatment  
+In order to repair a pavement affected by alligator cracking, the main cause of the cracking should 
+be determined. However, often the specific cause is fairly deep seated.  Any investigation should 
+involve digging a pit or coring the pavement to determine the pavement structural adequacy/ability 
+as well as determining whether or not subsurface moisture is a contributing factor. The repair 
+needed is also based on the severity and extent of the cracking. Treatment of alligator cracking may 
+be done by following the methods depending upon their severity. 
+a) Cracks sealing by bitumen emulsions  
+b) Crack sealing by rubberized and modified bitumen  
+c) Milling and surface recycling  
+In case of a pavement being structurally inadequate or weak, a properly designed overlay based on 
+evaluation shall be provided 
+ 
+7.3.4 Longitudinal Cracking 
+7.3.4.1 Symptoms  
+Cracks that appear parallel to the centerline or along the road are called longitudinal cracks.  These 
+cracks are also sometimes source of onset of alligator cracking.  
+
+21 | P a g e 
+ 
+       
+      
+ 
+a)Low severity  
+ 
+     b) Medium severity                  
+c)  High severity 
+Photo 7.3.4 Longitudinal Cracking  
+ 
+7.3.4.2 Location  
+These cracks may appear at joints between two paving lanes or pavement and paved shoulders. 
+7.3.4.3 Causes  
+Longitudinal cracks in bituminous pavement are usually caused by alternate wetting and drying 
+beneath the shoulder surface or by improper/weak joint between adjoining layers of pavement.  
+7.3.4.4 Severity Level  
+Severity of longitudinal cracks may be defined as low, medium and high. (Photos 7.3.4: a, b and c) 
+The low severity is assigned to 1-3 mm wide and infrequent cracks medium severity is assigned to 
+3-6 mm wide cracks. High Severity is assigned to cracks, greater than 6 mm wide and are frequent 
+(numerous). 
+7.3.4.5 Treatment 
+Treatment for longitudinal cracks depend upon the severity and extent of the cracking: 
+a) Low and medium Severity Cracks: Crack sealing, preferably using rubberized bitumen 
+b) High Severity Cracks: Remove and replace the cracked pavement layer with fresh overlay. 
+ 
+7.3.5 Transverse Cracks 
+7.3.5.1 Symptoms  
+These cracks appear in the transverse directions or as interconnected cracks forming series of large 
+blocks perpendicular to the direction of the road. 
+
+22 | P a g e 
+ 
+ 
+                (a) Low severity 
+               (b) Medium severity 
+ 
+     (c) High severity 
+Photo 7.3.5.  Transverse Cracks 
+ 
+7.3.5.2 Location  
+Transverse cracks may occur at isolated locations or in a lane/carriageway.  
+7.3.5.3 Causes 
+Transverse cracking may occur due to reflection of crack or joint in an underlying pavement layer. 
+The low temperature brittleness or oxidation of bitumen and also structural failure at concrete base 
+course are also causes of such cracking. Transverse cracks are usually formed due to shrinkage of 
+bituminous mix on account of low temperature. 
+ 
+7.3.5.4  Severity level  
+Severity of transverse cracks may be defined as low, Medium and high (Photos 7.3.5: a,  b and c). 
+The low severity is assigned to 1-3  mm wide and infrequent cracks.  Medium severity is assigned 
+to 3-6 mm wide cracks.  High Severity is assigned to cracks greater than 6 mm wide and are 
+frequent (numerous). 
+7.3.5.5 Treatment  
+Transverse cracks may be treated using slurry seal or rubberized bitumen.     
+ 
+7.3.6 Edge Cracking  
+7.3.6.1 Symptoms  
+Edge cracking is defined as cracks which develop parallel to outer edge of the pavement.  
+7.3.6.2 Location 
+The location of edge cracking is normally 0.3 to 0.5 m inside of pavement edge. 
+
+23 | P a g e 
+ 
+       
+        
+ 
+(a) Low severity                    (b)  Medium severity                 (c) High severity 
+Photo 7.3.6 Edge Cracking 
+7.3.6.3 Causes  
+The causes of edge cracking are many.  Lack of lateral support from shoulder, settlement 
+underlying the bituminous layers, inadequate surface drainage, shrinkage in sub-grade soil, 
+inadequate pavement width near curves, inferior quality material in shoulders and thinner 
+bituminous surface at edge of the pavement and wet sub-grade are some of the reasons for edge 
+cracking. 
+7.3.6.4 Severity Level 
+The severity levels of edge cracks are low, medium and high(Photos 7.3.6: a, b and c).  Low 
+severity is with no breakup or loss of material, medium severity is with some breakup and loss of 
+material (up to 10% of the affected length) while high severity is with considerable breakup and 
+loss of material (more than 10% of the affected length). 
+ 
+7.3.6.5 Treatment  
+The following procedure/techniques are used for prevention or treatment of edge cracking:   
+i) Promote good drainage along the edge of the road. Make sure that surface water will run to 
+the nearby drain and not pond along the pavement edge. 
+ii) Remove the dirty, poor draining shoulder material and replace it with a more permeable 
+material. 
+iii) If truck traffic is substantial, place a structural overlay on the road surface of the order of 
+75-100 mm of hot mix to provide adequate support for heavier vehicle loads. 
+7.3.7 Reflection Cracking  
+7.3.7.1 Symptoms 
+Reflection cracks are the sympathetic cracks that appear in the bituminous surfacing over joints and 
+underneath cracked pavement. The pattern may be longitudinal, transverse, diagonal or block. 
+
+24 | P a g e 
+ 
+ 
+Photo   7.3.7. Reflection Cracking  
+7.3.7.2 Location  
+Reflection cracking occurs most frequently in bituminous overlays on cement concrete pavements, 
+or on cement soil bases. They may also occur in overlays or surfacing on flexible pavements where 
+cracks in the old existing pavement have not been properly rectified. Another condition under 
+which reflection cracks can occur is when a pavement is widened. The location of the cracks will 
+then be exactly on the junction between the old pavement and the widened portion. Reflection 
+cracks may allow water to enter the underlying pavement and the sub grade and cause further 
+damage in pavement.  
+ 
+7.3.7.3 Causes  
+Differential movement across the underlying crack or joint is responsible for development of 
+reflection cracking. For joint reflection cracking, this is movement of the cement concrete slab 
+beneath the bituminous surface because of the thermal and moisture changes. 
+7.3.7.4 Severity Levels 
+Not applicable 
+7.3.7.5 Treatment   
+The treatment, for all types of cracks discussed above, would depend on whether the pavement is 
+structurally sound, or has become distorted or unsound. In case the pavement is structurally sound, 
+then the cracks should be filled with a bituminous binder having a low viscosity so that it can be 
+poured and worked into the cracks. Cut-back bitumen and emulsions are generally suitable. All 
+loose materials are removed from the cracks with brooms and, if necessary, with compressed air 
+jetting. The binder is poured with a pouring can and a hand squeegee is used to assist the 
+penetration of the binder into the cracks. Light sanding of the cracks is then done to prevent traffic 
+picking of the binder  
+ 
+
+25 | P a g e 
+ 
+If the cracks are wide enough a slurry seal or sand bituminous premix patching can be used to seal 
+the cracks. If the cracks are fine and extend over large areas, a light cut-back or an emulsified 
+bitumen (fog seal) can be broomed into the cracks and lightly sanded to prevent the picking up of 
+the binder by the traffic. Stress Absorbing Membrane (SAM) or Stress Absorbing Membrane 
+Interlayer (SAMI) may be used to seal reflection cracking and prevention of occurrence.  
+ 
+7.4 Deformation  
+Deformation may be restricted to one or more layers of bituminous courses or may extend to entire 
+pavement and sub-grade. A change in the original shape of the pavement surface is known as 
+deformation. It may be reflected in the form of slippage, rutting, corrugation, shoving, shallow 
+depression and settlement.  
+ 
+7.4.1 Slippage  
+7.4.1.1 Symptoms 
+Slippage is the relative movement between the wearing course and the layer beneath the bituminous 
+surface. It is characterized by the formation of crescent shaped cracks that point in the direction of 
+the thrust of the wheels on the pavement surface. This does not mean that the cracks invariably 
+point in the direction of the traffic. For example, if brakes are applied on a vehicle going down a 
+hill, the thrust of the wheels will be pointing uphill. The cracks in this case will, therefore, point 
+uphill.  
+ 
+(a) Low 
+ 
+ 
+ 
+(b) High 
+Photo 7.4.1 Slippage of the Bituminous Wearing Coat   
+7.4.1.2 Location   
+Slippage of bituminous surface normally occurs along the wheel path of heavy vehicles. 
+7.4.1.3 Causes 
+Slippage is caused by unusual thrust of wheels in a specific direction due to  omission or 
+inadequacy of tack coat, lack of bond between the wearing coat and the lower layer caused by a 
+
+26 | P a g e 
+ 
+layer of fine dust, moisture or both. Failure of bond between two layers due to excessive deflection 
+of the pavement may also be responsible for slippage of wearing coat or successive layer. 
+7.4.1.4 Severity level  
+Slippage may be classified as low severity and high severity slippage (Photos 7.4.1 : a and b). In 
+case, slippage is at isolated locations in a lane, it is classified as low severity slippage. In case, 
+slippage is along the wheel path in entire lane or carriageway, it is classified as high severity 
+slippage. 
+7.4.1.5 Treatment  
+Rectification consists of removing the surface layer around the area affected up to the point where 
+good bond between the surfacing and the layer underneath exists and patching the area with premix 
+material after a tack coat.  
+ 
+7.4.2 Rutting   
+7.4.2.1 Symptoms 
+Rutting is longitudinal depression or groove in the pavement along the wheel path. Rutting is 
+categorized into three types and defined by the cause and layers in which rutting occurs, and it can 
+be characterized by two components of the original (initial) pavement profile change, which are 
+direct consequences of permanent deformation such as uplift and downward deformation.  
+                          
+              
+    
+(a) Low severity                                     (b)  High severity  
+Photo 7.4.2 Rutting in Bituminous Surface  
+7.4.2.2 Location  
+Rutting generally appears along the wheel path.   
+7.4.2.3 Causes  
+The causes of rutting are the following:  
+
+27 | P a g e 
+ 
+i) Heavy channelized traffic and overloading of vehicles 
+ii) Inadequate compaction of the mix at the surface or in the underlying bituminous courses 
+during construction  
+iii) Improper mix design, lacking in stability to support the traffic  
+iv) Weak pavement due to poor sub grade and inadequate design  
+v) Use of soft bitumen or waxy bitumen 
+vi) Intrusion of sub grade clay into granular base course or use of plastic filler in 
+GSB/WBM/WMM 
+7.4.2.4 Severity  
+Rutting may be classified as per the details given in Table 5.1, 5.2 and 5.3 for different categories of 
+roads.  
+7.4.2.5 Treatment  
+The rectification consists of filling of ruts with premix (open-graded or dense-graded) patching 
+materials and compacting to the desired levels. The locations of depression are first marked on the 
+surface and then limits are determined with a string line. After applying a suitable tack coat, the 
+premix is spread and compacted. 
+ 
+ 
+7.4.3 Corrugation  
+7.4.3.1 Symptom 
+Corrugation is the formation of regular undulations (ripples) across the bituminous surface. These 
+are usually shallow (about 25 mm) and are different from the larger depressions caused by 
+weakness in the lower layers of the pavement or the sub-grade. The spacing of the waves is 2-3 m. 
+The corrugations can be a source of discomfort during driving and can become a hazard if allowed 
+to become severe. A view of corrugated surface is shown in Photo 7.4.3 
+ 
+
+28 | P a g e 
+ 
+ 
+ 
+ 
+ 
+Photo 7.4.3 Corrugation of Bituminous Surface  
+7.4.3.2 Location 
+Corrugations may occur near wheel path or in entire lane or carriageway.  
+7.4.3.3 Causes  
+Corrugations occur due to the following reasons:  
+i) Lack of stability in the mix (excessive binder, high proportion of fines, too round or too 
+smooth textured coarse or fine aggregate, too soft binder)  
+ii) Oscillations set up by the vehicle springs can cause alternative valleys and ridges.  
+iii) Faulty laying of surface course 
+iv) Insufficient rolling/rolling a tender mix 
+v) Braking action of vehicles on grade especially near intersections 
+7.4.3.4 Severity 
+ Not applicable  
+7.4.3.5 Treatment  
+If the surface is thin, the same is scarified; including some portions of the underlying base, and the 
+scarified material is re-compacted. A new surfacing layer is then laid.  Cutting of high spots with a 
+blade with or without heating and addition of leveling course materials can also be resorted to. 
+Spreading of sand bituminous premix with a drag spreader with its blade adjusted to just clear the 
+high spots can also be an effective way to make up the corrugation. The area is then thoroughly 
+rolled.  
+ 
+7.4.4 Shoving  
+7.4.4.1 Symptoms 
+Shoving is a form of plastic movement within the bituminous layers resulting in bulging of the 
+pavement surface. Photo 7.4.4 shown shoving of bituminous layers. 
+
+29 | P a g e 
+ 
+ 
+                 Photo 7.4.4 Shoving of Bituminous Surface  
+7.4.4.2 Location  
+Shoving occurs characteristically at points, where traffic starts and stops (intersections, bus-stops), 
+on hills roads or where vehicles accelerate or brake on grades and on sharp curves. The first 
+indication of shoving appears in the form of slippage cracks which are crescent shaped cracks, with 
+the apex of the crack pointing in the direction of the shove. Photo 7.4.4 shows shoving of 
+bituminous layers. Shoving occur near the wheel path. 
+7.4.4.3 Causes  
+i) Lack of stability in the mix (excessive binder, high proportion of fines, soft binder) in the 
+bituminous surface or base course.  
+ii) Lack of bond between bituminous surface and underlying layer  
+iii) Heavy traffic movement involving negotiation of curves and gradients  
+7.4.4.4 Severity level 
+Not applicable  
+7.4.84.5 Treatment  
+The rectification consists of removing the material in the affected area down to a firm base and 
+laying a stable premix patch.  
+ 
+7.4.5 Shallow Depression  
+7.4.5.1 Symptoms 
+Shallow depressions are isolated low areas of limited size, dipping about 25 mm or more below the 
+profile, where water will normally become stagnant. The shallow depressions may or may not be 
+eventually accompanied by cracking of surface. These may also lead to further deterioration of the 
+surface and cause discomfort and unsafe surface to traffic. A view of shallow depression in shown 
+in Photo 7.4.5   
+
+30 | P a g e 
+ 
+                                     
+ 
+                                 Photo 7.4.5 Shallow Depression in Bituminous Surface  
+7.4.5.2 Location   
+Shallow depressions are generally restricted to wheel path/heavy traffic lanes.  
+7.4.5.3 Causes 
+Shallow depressions are caused by isolated settlement of lower pavement layers due to pockets of 
+inadequately compacted sub grade or subsequent pavement layers.  
+7.4.5.4 Severity level 
+Not applicable  
+7.4.5.5 Treatment 
+Shallow depressions are made up by filling with premix materials, open graded or dense graded, 
+and compacting to the desired profile as the surrounding pavement.  
+ 
+7.4.6 Settlements and Upheaval  
+7.4.6.1 Symptoms 
+Settlements and upheavals are characterized by relatively large deformations of the pavement 
+compared to shallow depressions. These are dangerous to traffic and cause reduction in speed of 
+traffic. These are generally followed by extensive cracks over the pavement surface in the affected 
+region. Settlements and upheavals are shown in Photo 7.4.6 (a) and (b), respectively 
+
+31 | P a g e 
+ 
+                                                      
+  
+               Photo 7.4.6 (a) Settlement in Bituminous Surfacing 
+                                                         
+ 
+                  Photo 7.4.6 (b) Upheaval in Bituminous Surfacing 
+7.4.6.2 Location  
+Settlement may be along the wheel path or at isolated locations in a lane carriageway.  
+7.4.6.3 Causes  
+The following are the causes for settlements and upheavals in bituminous pavements:  
+i) 
+Inadequate compaction of the fill at locations behind bridge abatements, over utility cuts, etc  
+ii) 
+Excessive moisture in sub-grade and permeable layer of sub-base and base caused by 
+capillary action or poor drainage  
+iii) 
+Inadequate pavement thickness 
+7.4.6.4 Severity  
+Not Applicable  
+7.4.6.5 Treatment  
+If settlements and upheavals indicate any inherent weakness in the fill, it may be necessary to 
+excavate the defective fill and do the embankment afresh under properly controlled conditions. 
+Material having good drainage qualities should be preferred. Under-drains may become necessary 
+in locations where lack of drainage has been identified as the cause of failure. Where the cause of 
+deformation is inadequate pavement thickness, then properly designed pavement shall be provided.  
+
+32 | P a g e 
+ 
+ 
+7.5 Disintegration  
+There are some defects which if not rectified immediately, result in the disintegration of the 
+pavement into small and loose fragments. Disintegration, if not arrested in the early stages, may 
+necessitate complete reconstruction of the pavement.  
+ 
+7.5.1 Stripping  
+7.5.1.1 Symptoms 
+This defect is characterized by the separation of bitumen film from the surfaces of the aggregate 
+particles, due to the presence of moisture. This may lead to loss of bond between bitumen and 
+aggregate and subsequently to loss of cohesion in mixture. A view of stripped aggregate surface is 
+shown in Photo 7.5.1 
+ 
+ 
+Photo 7.5.1 Stripping of Bituminous Surface  
+7.5.1.2 Location: Stripping is either localized or extended to lane or entire carriageway.  
+7.5.1.3 Causes  
+Stripping may be caused by the following reason:  
+i) Use of hydrophilic aggregates.  
+ii) Inadequate mix composition.  
+iii) Continuous contact of water with the coated aggregate.  
+iv) Initial over heating of the binder or the aggregate or both. 
+v) Presence of dust or moisture on aggregate surface when it comes in contact with the 
+bitumen.  
+vi) Occurrence of rain or dust storm immediately after construction  
+vii) Higher concentration of salt in soil and  rain water  
+viii) 
+Use of improper grade of bitumen  
+
+33 | P a g e 
+ 
+ix) Ageing of the bitumen leading to the embrittlement of the binder film.  
+7.5.1.4 Severity 
+Not applicable 
+7.5.1.5 Treatment  
+In the case of surface dressing, hot coarse sand heated to at least 150°C and spread over the affected 
+areas, may be used to replace the lost aggregates. After spreading, it should be rolled immediately 
+so that it will be seated into the bitumen. If aggregates are only partially whipped off, a liquid seal 
+may be the solution.  In other cases, the existing bituminous mix should be removed and a fresh one 
+laid. As a precautionary measure, a suitable anti stripping agent should be added to the bitumen, at 
+the time of construction. Rejuvenating sealants, slurry seal or microsurfacing can be used to treat 
+stripped surface.  
+ 
+7.5.2 Ravelling 
+7.5.2.1 Symptoms 
+Ravelling is defined as progressive separation and dissociation of fine aggregate particles and 
+binder from the bituminous surface. Normally, fine aggregates wears away first followed by coarse 
+aggregates. The raveling process generally starts from the surface downward or from the edge 
+inward. Pavement surface lead to rough and jagged appearance after occurrence of raveling. 
+Raveling differs from fretting that it involves plucking out of surface aggregate by traffic without 
+loss of cohesion.   
+7.5.2.2 Location  
+Raveling may occur on any part of a lane or carriageway. 
+7.5.2.3 Causes  
+Ravelling is likely to occur on a surface due to one or more of following reasons: 
+i) Inadequate bitumen content in a mix 
+ii) Overheating of bitumen during mixing process  
+iii) Inadequate compaction during construction 
+iv) Stripping of bitumen from aggregate due to water at interface 
+v) Construction during cold and wet weather  
+vi) Use of inferior quality aggregate prone to fracture, crushing and opening of new faces. 
+vii) Use of absorptive aggregates 
+viii) 
+Excessive ageing of binder 
+ix) Lack of performance related contract specifications 
+
+34 | P a g e 
+ 
+x) Improper filler / bitumen ratio 
+xi) High intensity hydrostatic pressure due to combined effects of traffic and water. 
+xii) Development of inclement weather (moisture, freezing) immediately after construction.  
+xiii) 
+Traffic stresses exceed breaking strength of mix 
+7.5.2.4 Severity Level  
+Ravelling may be classified to three severity levels, viz., low severity, medium severity and high 
+severity(Photos 7.5.2.: a, b and c).  Low severity is when some loss of fines is associated with initial 
+stage of binder wearing out, medium is when loose particles exist with some loss having binder 
+wearing out to a rough surface and high severity is when surface is too rough with loss of 
+aggregates. 
+ 
+ 
+            (a) Low severity                         (b)  Medium severity               (c)  High severity  
+Photo 7.5.2View of Ravelling 
+7.5.2.5 Treatment   
+The treatment of raveled surface shall depend upon severity of Raveling. 
+a) Low severity raveling: The low severity raveling may be corrected by application of fog 
+seal, sand seal or seal coat, slurry seal and microsurfacing 
+b) Medium severity raveling: This may be corrected by application of  seal coat slurry seal or 
+microsurfacing treatment in affected area 
+c) High severity raveling: Depending upon condition of raveled surface and specification of 
+existing surface. The high severity raveling may be corrected by single or multiple 
+applications of liquid seal coat, slurry seal, microsurfacing and surfacing of thin overlay of 
+appropriate mix specification like mix seal surfacing or open graded premix carpet. 
+ 
+7.5.3 Potholes  
+7.5.3.1 Symptoms 
+
+35 | P a g e 
+ 
+Potholes are bowl shaped cavities of varying sizes in a bituminous surface or extending into the 
+binder/base course, caused by localized disintegration of material.  
+ 
+(a) Small  
+ 
+          (b) Medium 
+ 
+ 
+(c) Large 
+Photo 7.5.3 Potholes of Different Severity  
+7.5.3.2 Location  
+Potholes may occur in any part of road surface.  
+7.5.3.3. Causes  
+The most common cause of pothole formation is loss of adhesion in bituminous wearing coat due to 
+the ingress of water into the pavement or due to higher voids in surface. The pavement gets 
+weakened as a result of loss of cohesion, and under the action of traffic. The formation of pothole is 
+aggravated due to use of plastic filler in granular base. If not attended to timely and properly, 
+aggregates in the surface get progressively loosened to result in a pothole. Lack of proper bond 
+between the bituminous surfacing and the underlying water bound Macadam base layer can also 
+cause formation of potholes. Insufficient bitumen content in localized areas of the surfacing layer 
+can also cause formation of potholes. A thin bituminous surface, which is unable to withstand the 
+heavy traffic, can also cause formation of potholes, when associated with improper or inadequate 
+camber. In dense-graded mixtures, potholes can be caused by too much fines or too few fines.  
+ 
+7.5.3.4 Pothole unit  
+The extent of potholing can be expressed in terms of ‘pothole units. Each pothole unit has a surface 
+area of 0.1 m2, i.e., approximately 300 mm in diameter and therefore can be adequately estimated 
+by reference to a person’s foot. For estimating maintenance requirements in HDM-4, the depth of a 
+pothole unit has been assumed to be 100 mm i.e. a volume of 10 liters (Ref: Manual of HDM-4, 
+Volume 6). Therefore, number of potholes shall be estimated based on ‘pothole unit’ with surface 
+area of 0.1 m2. 
+7.5.3.5 Treatment  
+
+36 | P a g e 
+ 
+The rectification consists of filling potholes with open graded or dense graded premix. Potholes can 
+be repaired by various methods  
+1. Mixes (cold mixed/hot mixed) for immediate use  
+2. Storable cold mixes (cutback/emulsion Based)  
+3. Readymixes  
+4. Cold mixes by Patching machines   
+7.5.4. Edge -Breaking  
+7.5.4.1 Symptoms 
+A common defect in bituminous surface is edge breaking wherein the edge of the bituminous 
+surface gets broken in an irregular way.   Photo 7.5.4 shows this type of defect. In case distress in 
+not attended in time, the surfacing may peel off in chunks at the edges.  
+ 
+ 
+Photo 7.5.4.  Edge Break-up 
+ 
+7.5.4.2 Location  
+Distress is restricted to edges upto 30 cm from edge.  
+7.5.4.3 Causes  
+The following are the causes for edge breaking:  
+ Infiltration of water which makes the foundation layers weak causing the pavement 
+edges to break  
+ Worn out shoulders resulting in insufficient side support to the pavement  
+ Inadequate strength at the edge of the pavement due to inadequate compaction  
+ Lower layer of pavement being wider than upper layers  
+ Too narrow width 
+
+37 | P a g e 
+ 
+7.5.4.4 Severity 
+Not applicable 
+7.5.4.6 Treatment  
+The shoulder and the pavement materials in the affected area should be entirely removed to a 
+regular section with vertical sides. The pavement and the shoulders should be built up 
+simultaneously with thorough compaction. A bituminous surface similar to that in the adjacent 
+reach should be laid. The shoulder should have adequate slope to drain away water. A slope one per 
+cent steeper than the camber of the bituminous surface should be provided for earthen shoulders. In 
+order to prevent the edges from getting broken again, the maintenance operations should include 
+periodic inspection of the shoulder condition and replacement of worn out shoulder material with 
+adequate compaction. In sandy areas where the soil is likely to be eroded by wind and rain, it may 
+be advantageous to have brick paving at least for some width to protect the edges. Surface and 
+subsurface drainage, wherever deficient, should be improved  
+ 
+8.  PREVENTIVE MAINTENANCE  
+8.1  Introduction  
+Delays in maintenance increase the severity of distress in pavement leading to higher  maintenance 
+expenditure. Preventive maintenance is a planned maintenance activity, which decreases rate of 
+surface deterioration and extend service life of bituminous pavement. It is a planned strategy of 
+maintenance activity for cost-effective treatment of existing roads and its appurtenances. The 
+preventive maintenance activity preserves the system, prevents future deterioration and improves 
+the functional condition of the system without contribution to load carrying capacity of pavement. 
+Such treatments are cost effective, if provided on a pavement in fair to good condition. The 
+placement of right preventive maintenance treatment at the right time saves pavement from leading 
+to poor condition (Table 5.1 to 5.3), where rehabilitation and reconstruction would be inevitable as 
+far more costly.  
+ 
+8.2  Selection of preventive maintenance treatment  
+8.2.1 Preventive maintenance treatments shall be selected based upon the condition of existing 
+pavement. The cracking, rutting, riding quality, climate and traffic are given due consideration in 
+selection of preventive maintenance treatments. The concept of preventive maintenance stipulates 
+
+38 | P a g e 
+ 
+that deterioration modes can be anticipated and at least partially mitigated before their occurrence. 
+This provides following long term solutions.    
+ Improved level of service resulting from improved pavement performance  
+ Delayed need for rehabilitation and reconstruction  
+ Life cycle cost saving  
+8.2.2   For preventive maintenance applications, the following guidelines must be considered: 
+ Existing distress to be treated 
+ Anticipated distress to be delayed or prevented 
+ Appropriate treatment for existing condition  
+ Timing of  treatment for best results  
+ Maximizing performance while minimizing cost  
+8.2.3 A thin overlay may not be considered as a preventive maintenance, when it is applied to a 
+distressed pavement in poor condition. Slurry seal/ microsurfacing may not be considered as 
+preventive maintenance, when placed on an extensively cracked surface. A preventive maintenance 
+strategy comprises following: 
+ Identification of causes of distress  
+ Measurement of distress 
+ Selection of appropriate treatment  
+ Timing of treatment  
+
+39 | P a g e 
+ 
+ 
+Fig. 8.1 Conceptual Illustration of Interventions 
+8.2.4 Figure 8.1 illustrates timing of preventive maintenance treatment, while selection of treatment 
+depends upon type of distress causes, severity, climate and traffic. Refer to Tables 5.1 to 5.5 in 
+section 5 and conceptual illustration given in Figure 8.1, preventive maintenance shall be 
+undertaken when drop in quality of pavement surface is less than 30% as quantified in Tables 5.1 to 
+5.3 by pavement condition rating criteria. Preventive maintenance treatments shall be effective 
+before the pavement condition rating drops below 2. The type of treatment shall depend upon 
+pavement condition rating as well as type and area of distress. The detailed warrants for choice of 
+the treatment are given in Tables 8.1 to 8.7.   
+ 8.2.5 Suitable preventive maintenance treatment may be identified by following attributes.  
+ Purpose of treatment  
+ Applicability 
+- Traffic  
+- Environment  
+- Surface condition  
+ Limitations 
+
+40 | P a g e 
+ 
+ Construction considerations 
+ Expected performance  
+ Cost effectiveness  
+8.2.6 The typical preventive maintenance treatments are given below.  
+ Crack sealing/ crack filling  
+ Fog seal  
+ Slurry seal  
+ Microsurfacing 
+ Surface Dressing 
+ Thin overlays (thickness less than 40 mm) 
+ Ultrathin friction courses 
+ 
+8.3 Warrants for Preventive Maintenance 
+ 
+The description and warrants for preventive maintenance treatments are given in Table 8.1 to 8.7 
+ 
+ 
+ 
+ 
+ 
+Table 8.1 Crack Filling or Crack Sealing 
+ 
+Crack Filling or Crack Sealing 
+Warrant 
+Climate 
+Traffic 
+Conditions 
+Addressed 
+Limitations 
+These treatments are intended 
+primarily to prevent the intrusion 
+of moisture through existing 
+cracks. Crack sealing refers to a 
+sealing operation that addresses 
+“working” cracks, i.e., those that 
+open and close with changes in 
+temperature. It typically implies 
+high quality materials and good 
+preparation. Crack filling is for 
+Treatment 
+can perform 
+well in all 
+climatic 
+conditions.  
+Performanc
+e is not 
+significantl
+y affected 
+by varying 
+traffic. 
+■ Longitudinal 
+cracking 
+■ Minor block 
+cracking 
+■ Transverse 
+cracking 
+■No structural 
+benefits,  
+■ Acceptable if 
+the extent of 
+■ Structural 
+failure (i.e., 
+extensive 
+fatigue 
+cracking or 
+high 
+severity 
+rutting) 
+■Extensive  
+pavement 
+
+41 | P a g e 
+ 
+cracks that undergo little 
+movement.  Sealants used are 
+typically elastomers modified 
+bituminous materials that soften 
+upon heating and harden upon 
+cooling. 
+cracking is 
+minimal (little 
+to no structural 
+cracking). 
+deterioration
+, 
+little 
+remaining 
+life 
+Site Restrictions 
+None. 
+Construction Considerations 
+Placement should be done during warm and dry weather 
+conditions. Proper crack cleaning is essential to a good bond 
+and maximum performance.  
+ 
+Table 8.2 Fog Seal 
+ 
+Description  
+Warrants  
+Climate 
+Traffic  
+ Conditions Addressed  Limitation  
+Fog seals are placed 
+primarily to seal the 
+pavement, inhibit 
+raveling rejuvenate 
+hardened/ oxidized 
+bitumen surface, and 
+provide some 
+pavement edge-
+shoulder delineation. 
+Fog seals are very 
+light applications of 
+a diluted bitumen 
+emulsion placed 
+directly on the 
+pavement surface 
+with no aggregate. 
+Typical application 
+Treatment 
+performs well 
+in all climatic 
+conditions. 
+ 
+Increased 
+traffic  can 
+increase 
+surface 
+wear  
+ Longitudinal, 
+ transverse, and block 
+cracking  
+ Raveling/weathering 
+(loose material must 
+be removed) 
+ Bitumen 
+aging, 
+oxidation 
+and 
+hardening 
+ No 
+structural 
+improvement, but can 
+help reduce moisture 
+infiltration 
+through 
+fatigue cracks (if their 
+severity 
+is 
+low), 
+however, 
+not 
+recommended 
+for 
+■ 
+Structural 
+failure (such 
+as significant 
+fatigue 
+cracking) 
+■ Friction loss 
+(M-H) 
+■Thermal 
+cracking (H) 
+
+42 | P a g e 
+ 
+rates range from 
+0.23 to 0.45 kg. per 
+m2 
+heavily trafficked road 
+corridors/highways. 
+Site Restrictions 
+Not appropriate for surfaces with poor skid resistance, as it will lower the 
+skid resistance further. 
+Construction 
+Considerations 
+Typically, a slow-setting emulsion is used which requires time to 
+“break,” the pavement is sometimes closed for 2 
+hours for curing before being re-opened to traffic. 
+ 
+Table 8.3 Slurry Seal 
+ 
+Characteristics  
+Warrants 
+Climate 
+Traffic  
+ Conditions Addressed  
+Limitation  
+A mixture of well-graded 
+aggregate (fine sand and 
+mineral filler) and 
+Bitumen emulsion that is 
+spread over the entire 
+pavement surface with 
+either a squeegee or 
+spreader box attached to 
+the back of a truck. It is 
+effective in sealing low-
+severity surface cracks, 
+waterproofing the 
+pavement surface, and 
+improving skid resistance 
+at speeds below 60 km/h. 
+Thickness is generally 
+less than 10 mm  
+Treatment 
+performs 
+effectively in 
+all 
+climatic 
+conditions. 
+ 
+Performanc
+e in terms of 
+surface wear 
+is affected 
+by 
+increasing 
+ traffic. 
+Accommod
+ate the 
+higher 
+traffic 
+volumes. 
+■Transverse, longitudinal 
+and 
+block cracking (L) 
+ 
+■Raveling/weathering 
+(loose material must be 
+removed) 
+■Asphalt aging, oxidation 
+and hardening 
+■ Friction loss 
+■Moisture infiltration 
+ 
+Adds 
+no 
+structural 
+capacity; 
+however, can temporarily 
+seal cracks (if severity is 
+low) or serve as a rut-filler 
+(if the ruts are not 
+severe and are stable) 
+■ 
+Structural 
+failure 
+(such 
+as 
+significant 
+fatigue 
+cracking 
+and 
+deep 
+rutting) 
+■ 
+Thermal 
+cracking 
+ 
+ 
+
+43 | P a g e 
+ 
+Site Restrictions 
+Pavement is often closed for several hours to allow the emulsion to cure. 
+Construction 
+Considerations 
+Surface must be clean. Aggregates must be clean, angular, durable, well-
+graded, and uniform (prefer 100% crushed). Avoid placement in hot 
+weather (potential flushing problems) and premature opening to traffic. Do 
+not place when freezing temperatures are expected. 
+ 
+ 
+Table 8.4 Microsurfacing 
+ 
+ 
+Characteristics 
+Warrants 
+Climate 
+Traffic 
+Conditions Addressed 
+Limitation 
+Microsurfacing 
+consists of a mixture 
+of polymer-modified 
+emulsified asphalt, 
+mineral aggregate, 
+mineral filler, water, 
+and additives applied 
+in a process similar to 
+slurry seals. Used 
+primarily to inhibit 
+raveling and 
+oxidation of the 
+pavement surface. 
+Also effective at 
+improving surface 
+friction and filling 
+minor irregularities 
+and wheel ruts (up to 
+40 mm  
+Effective 
+in 
+all 
+climate 
+conditions. 
+ 
+Very 
+successful 
+on both 
+low- and 
+high- 
+traffic 
+volume  
+■ 
+Longitudinal 
+and 
+transverse cracking (L) 
+■ 
+Raveling/weathering 
+(loose material must be 
+removed) 
+■ Bleeding  
+■ Roughness  
+■ Friction loss 
+■ Moisture infiltration 
+■ Adds limited structural 
+capacity. 
+Temporarily 
+seals fatigue cracks (if 
+severity is low) and can 
+serve as a rut-filler (if the 
+existing ruts 
+are stable) 
+■ Structural 
+failure 
+(i.e., 
+extensive 
+fatigue 
+cracking) 
+■ Extensive 
+pavement 
+deterioration, 
+little 
+remaining 
+life 
+■ 
+Thermal 
+cracks  
+■Can 
+accelerate the 
+development 
+of 
+stripping 
+in susceptible 
+bituminous 
+pavements 
+Site Restrictions 
+None. 
+Construction 
+Avoid placement in hot weather if there is potential for flushing 
+
+44 | P a g e 
+ 
+Considerations 
+problems. Placement in cool weather can lead to early raveling, not to be 
+placed when freezing temperatures are expected. 
+ 
+Table 8.5 Surface Dressing 
+ 
+Description 
+Warrants 
+Climate 
+Traffic  
+ Conditions 
+Addressed  
+Limitation 
+Bitumen emulsion is 
+applied directly to the 
+pavement surface (1.2 to 1.7 
+kg/m2) followed by the 
+application of aggregate chips 
+(0.004 to 0.015 cum/m2 
+which are then immediately 
+rolled to imbed chips. 
+ 
+Application rates depend 
+upon aggregate gradation and 
+maximum size. Treatment 
+seals pavement surface and 
+improves friction. 
+Treatment 
+performs 
+well in all 
+climatic 
+conditions. 
+With proper 
+design and 
+placement, 
+chip seals can 
+perform well 
+on high-
+volume roads. 
+  
+However, use 
+is primarily 
+limited to 
+lower-speed, 
+lower volume 
+roads. 
+■ 
+Longitudinal, 
+transverse and block 
+cracking 
+■ 
+Raveling 
+/ 
+weathering (loose 
+surface material must 
+be removed) 
+■ Friction loss 
+■ Roughness  
+■ Bleeding  
+■Moisture infiltration 
+■ Adds almost no 
+structural capacity. 
+ 
+However, effective at 
+sealing fatigue cracks 
+in comparison with 
+other treatments. 
+■ 
+Structural 
+failure (i.e., 
+extensive fatigue 
+cracking and/or 
+deep 
+rutting) 
+■ 
+Thermal 
+cracking (H) 
+■ 
+Extensive 
+pavement 
+deterioration, 
+little or 
+no remaining life 
+■ Can accelerate 
+the 
+development of 
+stripping 
+in 
+susceptible 
+bituminous 
+pavements 
+Site Restrictions 
+High-speed, high-volume roadways are often avoided, although a number 
+of approaches are being used to extend the applicability of these 
+treatments. 
+Construction Considerations 
+Surface must be clean. Treatment should be placed during warm weather 
+
+45 | P a g e 
+ 
+with chip spreader immediately behind asphalt distributor and rollers close 
+behind the spreader. Approximately 2 hours required before roadway may 
+be re-opened to normal speed traffic. Brushing is usually required to 
+remove loose chips. 
+ 
+Table 8.6 Thin hot-mix/cold mix Bituminous Overlays 
+ 
+Description 
+Warrants 
+Climate 
+Traffic  
+ Conditions 
+Addressed  
+Limitations 
+Plant-mixed 
+combinations of 
+asphalt cement and 
+aggregate applied to 
+the pavement in 
+Thicknesses between 
+about 15 and 25 mm  
+Dense-graded, 
+open-graded,  
+premix and stone 
+matrix mixes are 
+used 
+Treatment 
+performs well 
+in all climatic 
+conditions.  
+Performance should 
+not be affected by 
+different traffic 
+condition  
+ 
+Thin overlays are 
+not structural layers 
+and as such should 
+not be subjected to 
+strain from 
+loadings. Such 
+layers may be 
+subject to top down 
+cracking under 
+certain 
+combinations of 
+loadings, 
+environmental 
+conditions, and 
+pavement 
+structures. 
+Functional/Other 
+■ 
+Longitudinal 
+and 
+transverse 
+cracking  
+■ Raveling/weathering 
+(loose surface material 
+must be removed) 
+■ Friction loss 
+■ Roughness 
+■ Bleeding  
+■ Block cracking may 
+perform better with 
+additional milling) 
+Structural 
+Rutting 
+(assumes 
+rutting 
+has 
+stopped; 
+requires use of separate 
+rut-fill application) 
+■ 
+Structural 
+failure (i.e., 
+fatigue 
+cracking) 
+■ 
+Extensive 
+pavement 
+deterioration, 
+little 
+remaining life 
+■ 
+Thermal 
+cracking 
+Site Restrictions 
+Edge-shoulder drop-off should be considered. Surface should be uniform to 
+
+46 | P a g e 
+ 
+ensure uniform compaction. 
+Construction 
+Considerations 
+Surface must be clean. A tack coat prior to overlay placement will help improve 
+the bond to the existing surface. Thin HMA overlays dissipate heat rapidly and, 
+therefore, depend upon minimum specified mix placement temperatures and 
+timely compaction. 
+ 
+Table 8.7 Ultrathin Friction Courses 
+ 
+Description  
+Warrants 
+Climate 
+Traffic  
+ Conditions Addressed  
+Limitation  
+Relatively new 
+treatment and 
+consists 
+of a gap-graded, 
+polymer modified 
+10 to 20 mm layer 
+placed on a tack coat 
+formed by the 
+application of a 
+heavy, polymer-
+modified bitumen 
+emulsion. Treatment 
+effectively addresses 
+minor surface 
+distresses and 
+increases surface 
+friction. 
+Treatment 
+should 
+perform 
+well in all 
+climatic 
+conditions 
+Capable of 
+withstandin
+g high ADT 
+volumes and 
+truck traffic 
+better than 
+other thin 
+treatments 
+■ Longitudinal, transverse 
+and 
+block 
+cracking. 
+Higher severities can be 
+addressed 
+with 
+cold 
+milling. 
+■Raveling/weathering 
+(loose 
+surface 
+material 
+must be removed) 
+■ Friction loss  
+■ Roughness  
+■ Bleeding  
+■ 
+Provides 
+some 
+increased 
+capacity 
+and 
+retards fatigue cracking. 
+Not 
+suited 
+for 
+rutted 
+pavements. 
+■ 
+Structural 
+failure (i.e., 
+significant 
+fatigue 
+cracking 
+and/or deep 
+rutting) 
+■ 
+Extensive 
+pavement 
+deterioration, 
+little 
+remaining life 
+■ 
+Thermal 
+cracking  
+Site Restrictions 
+Ultrathin overlays should only be placed on structurally sound 
+pavements. Localized structural problems should be repaired prior to 
+overlay application. 
+Construction 
+Considerations 
+Requires special paving equipment to place the mix. 
+ 
+
+47 | P a g e 
+ 
+ 
+9. PERIODIC RENEWALS 
+ 
+9.1 Need and Importance of Periodic Renewals  
+Periodic renewals consist of the provision of a thin surfacing layer at regular intervals of time, so as 
+to preserve the required serviceability level of the pavement surface and offset the wear and tear 
+caused by traffic and weathering. Periodic renewals represent maintenance, which is needed to 
+prevent deterioration of the pavement and to ensure that initial qualities are kept up for the future 
+requirements of traffic during the design life of the pavement. Early detection and repair of 
+noticeable distress/ defects can prevent a major damage of the surface.  
+ 
+9.2 Planning and Programming of Renewals 
+The general practice in the country is to finalize renewal programme on an annual basis. In order to 
+decide renewal layer on the surface, the renewal programme for each section of a road should be 
+decided well in advance. Once the programme is finalized, steps could be taken to secure the 
+required allocations and start the preliminary field action such as mobilization of resources. While 
+the nomenclature “Periodic Renewal” would imply the renewal treatment to be carried out at a fixed 
+and pre decided frequency, it would neither be practicable nor desirable to follow implicitly of any 
+specified frequency irrespective of the condition of the road surface proposed to be renewed. The 
+most effective way to plan a renewal programme is to carry out periodic inspections of the road 
+surface at suitable intervals. In addition, special inspections are also necessary before and after the 
+rains so as to assess the need for pothole repair and patching and other remedial measures required 
+to be carried out either in advance or together with the renewal treatment.  
+ 
+9.3 Identification of Stretches to be Renewed  
+The stretches of the road showing signs of distress such as hungry surface/hair-line cracking, 
+Raveling etc., should invariably be included in the renewal programme. This would ensure that the 
+surface of the road and the pavement structure do not deteriorate further. The stretches of the road 
+which would be due for periodic renewal on the basis of the pavement condition index and 
+periodicity should be inspected closely and decision whether to include these in the renewal 
+programme or to postpone the renewal for a specified period should be taken depending upon the 
+condition of the road surface. In cases, the nature of distress/failure seen on the road is severe and 
+of considerable extent and the causes are deep-seated and where it is considered the pavement 
+
+48 | P a g e 
+ 
+cannot be improved with renewal treatment, detailed investigations shall be carried out and special 
+measures shall be undertaken for correcting the same.  
+ 
+9.4 Types of Renewal Treatments  
+The types of bituminous surfaces those can be adopted are surface dressing (one or two coats), thin 
+premix carpet, mixed seal, stone matrix asphalt, hot/cold mix semi- dense and dense bituminous 
+concrete. Microsurfacing in one layer or two layers can also be used for renewals. These surface 
+have different life spans depending upon traffic and environmental conditions. 
+  
+The specifications adopted for the renewal layer on a particular road would depend upon the type of 
+the original surface and its condition at the time of renewal. Following standards/specifications may 
+be referred for periodic renewals  
+ 
+i) IRC : 14 ‘Recommended Practice for Open Graded Premix Carpet’ 
+ii) IRC : SP: 78 ‘Specifications for Mix Seal Surfacing(MSS), Close Graded Premix Surfacing 
+(CGPS) 
+iii) IRC : SP 79 ‘Tentative Specifications for Stone Matrix Asphalt’ 
+iv) IRC : SP 81 ‘Tentative Specifications for Slurry Seal and Microsurfacing’ 
+v) IRC:107 ‘Specifications for Bitumen Mastic Wearing Courses’ 
+vi) RC : 110  ‘Standard specifications and Code of Practice for Design and Construction of 
+Surface Dressing’ 
+vii) IRC : 111 ‘Specifications for Dense Graded Bituminous Mixes’ 
+ 
+The specification and the thickness of the renewal course should be such that, as far as possible the 
+road surface is restored close to its original condition. For example, renewal over an original hot 
+mix bituminous concrete surface would have to be bituminous concrete.  
+ 
+9.5 Periodicity of Renewal  
+Based on the experience and condition indices given in Table 5.1 to 5.3, broad guidelines for the 
+type and periodicity of renewals are given in Table 9.1. This may be utilized as a guide for working 
+out annual renewal programme on different sections of roads.  
+ 
+ 
+
+49 | P a g e 
+ 
+ 
+Table 9.1.  Suggested Renewal on Flexible Pavement 
+Road Category PCI*  (Roughness Index, mm/km) 
+Suggested Treatment** 
+(Thickness, mm) 
+NH, SH 
+40-60 
+1800-2400 
+30-40 BC 
+NH, SH 
+40-60 
+2000-2600 
+30 BC/30SDBC 
+MDR, RR 
+40-60 
+3000-3800 
+SD/PC/MSS/SDBC (20-25) 
+Urban Road 
+40-60 
+2000-2600 
+30-40 BC/SDBC/2 Coat Micro Surfacing 
+* 
+When the PCI value of road is rated as <60, it is recommended that a detailed investigation 
+is carried out to assess the strengthening requirement, if any.  In case, the pavement is found to be 
+structurally adequate, then the periodic renewal will suffice. 
+** 
+Wherever feasible, recycling of wearing course may be preferred 
+The priority of renewal treatment may be decided based on rating assigned as explained in section 
+5.1, earlier.  If there are 10 roads (say), with ratings from 40 to 60, the roads may be arranged based 
+on the ascending order of condition rating and the periodic renewal shall be prioritized in the same 
+order subject to budgetary allocations. 
+ 
+9.6 Rectification of Profile at the Time of Renewal  
+The camber and super elevation provided initially on a road tend to get flattened out due to traffic. 
+Before the renewal of surface is done, the cross profile should be corrected by means of a suitable 
+profile correction course/leveling course, which may be compatible with existing surface 
+specification.  
+
+50 | P a g e 
+ 
+10. MATERIALS AND METHODS FOR RECTIFICATION OF DISTRESS ON BITUMINOUS 
+SURFACE  
+10.1 
+General  
+The section 7 has dealt with the identification of the distress, measurement of distressed area, types of 
+defect and their causes, and the maintenance measures to be taken up in each case. This section 
+describes various materials required for maintenance methods, which are applicable to “Routine, 
+Preventive and Periodic Maintenance”. Routine maintenance is covered in section 7. Preventive type of 
+maintenance activities are covered in section 8. Maintenance operations of periodic nature are described 
+in section 9.  Repair materials and methods discussed in this Section fall under three categories:   
+i) Rejuvenation  
+ii) Seal, and  
+iii) Patching 
+Rejuvenation of oxidized and hungry bituminous surface can be done by application of liquid 
+bituminous materials. The seal coat is a thin application of bitumen, which shall be covered with fine 
+aggregate/ sand. Seal coat may be premixed material or a spray application. Patching is an 
+application of premixed bituminous mixture. Patching is done to fill potholes, correct shallow 
+depressions, rutting and correct edge irregularities.  
+10.2 
+Bituminous Materials 
+10.2.1 Paving Bitumen 
+Paving Bitumen conforming to IS: 73:2012 is recommended for road maintenance works, unless 
+otherwise specified.  Paving bitumen is classified into four grades based on viscosity, viz., VG-10, VG-
+20, VG-30 and VG-40.   
+10.2.2 Cut-back Bitumen 
+Cut-back bitumen of different grades is required for cold weather construction as well as maintenance 
+under all-weather conditions. Medium curing cut-back bitumen MC-800 conforming to IS: 217 is 
+recommended for preparation of storable bituminous pothole/patching mix.  
+10.2.3 Bitumen Emulsion 
+Bitumen emulsion is a two-phase system consisting of bitumen, water and one or more additives to 
+assist in formation and stabilization and to modify the properties of the emulsion. The bitumen is 
+
+51 | P a g e 
+ 
+dispersed throughout the water phase in the form of discrete globules, typically 1.0 to 25 µm in 
+diameter, which are held in suspension by electrostatic charges stabilized by an emulsifier. Bitumen 
+emulsions conforming to IS: 8887 are recommended for various maintenance applications including 
+preparation of cold mixes and patching mixes. 
+10.2.4 Foamed Bitumen 
+Foaming of bitumen is a means of reducing the binder viscosity and increasing the binder volume. Foam 
+bitumen is produced in an expansion chamber in which cold water, between 1 and 5% by weight of 
+bitumen, is injected under pressure into hot bitumen to produce foam. Expansion ratio and half-life are 
+two important properties of foam bitumen. The expansion ratio is defined as the ratio of the volume of 
+foam produced to the volume of liquid bitumen injected. The life time of foam is expressed as the ‘half-
+life, defined as the time after which the maximum volume of foam is reduced by a factor of two. It is 
+measured in seconds. The foam bitumen is used for stabilization of recycled asphalt pavement.  
+10.2.5 Modified Bitumen 
+Modified bitumen is the binder whose properties have been modified by the use of polymers and 
+rubbers. IRC : SP 53 and IS: 15462 specify different grades of modified bitumen for construction and 
+maintenance of bituminous roads.  
+10.2.6 Modified Emulsions 
+Modified emulsions are defined as bitumen emulsions whose aqueous phase is generally modified by 
+latex of the rubber. Sometimes, bitumen is also modified before emulsification. These emulsions are 
+used for microsurfacing applications. The specification of modified emulsion for microsurfacing is given 
+in IRC: SP: 81.   
+10.2.7 Rejuvenating agents/Sealants  
+Rejuvenating agents are used for restoration of physico - chemical properties of oxidized bitumen of dry 
+and hungry surface or oxidized bitumen in recycled asphalt pavement. Sometimes, these rejuvenating 
+agents are used as sealants. The viscosity value of these rejuvenating agents lies between 100-300 
+seconds at 60°C by Say bolt fural viscometer.  
+ 
+ 
+ 
+
+52 | P a g e 
+ 
+10.2.8 Anti-Stripping Agents 
+Anti-stripping agents are organic surfactants which are used to prevent stripping of bitumen from 
+aggregate and to improve adhesion between wet aggregate and bitumen. Specification of anti-stripping 
+agent are given in IS: 14982.  
+ 
+10.2.9 Warm Mix Additives 
+A warm mix asphalt technology utilizes chemical additives that have little effect on rheological 
+properties of the binder. These additives reduce mixing, laying and compaction temperature of 
+bituminous mixes. The guidelines for warm mix asphalt are given in IRC: SP: 101.  
+Following standards/specifications may be referred for various maintenance treatments. 
+i) IRC : SP:81 ‘Tentative Specifications for Slurry Seal and Microsurfacing’ 
+ii) IRC : 100  ‘Use of Cold Mix Technology in Construction and Maintenance of Roads Using 
+Bitumen Emulsions’  
+iii) IRC : 101 ‘Interim Guidelines for Warm Mix Asphalt’ 
+iv) IRC : 116 ‘Specifications for Readymade Bituminous Pothole Patching Mix Using Cut-back 
+Bitumen’ 
+ 
+11. TOOLS AND EQUIPMENT 
+11.1 
+General 
+Use of mechanized methods and techniques for carrying out various maintenance activities are 
+recommended for achieving efficiency and quality in maintenance operations.  Suitable tools, plants and 
+equipment of appropriate capacity need to be deployed keeping in view the type and magnitude of the 
+work and desired output.  Proper maintenance and upkeep of all maintenance tools, plants and 
+equipment is very important to ensure quality work.  It is always advisable to follow equipment 
+maintenance instructions and schedule as per manufacturer’s specifications.  Some of the tolls and 
+equipment especially tend to develop inaccuracies and defects with usage and hence, their regular 
+monitoring/checking and rectification is essential. 
+ 
+Crack filling, pothole filling and patching works form the major part of the bituminous surface maintenance.  
+While the crack sealing is generally carried out by manual methods, pothole filling and patching can be efficiently 
+carried out by mechanized methods. 
+ 
+11.2 
+Pothole Filling/Patching 
+
+53 | P a g e 
+ 
+There are two main elements of durable pothole filling/patching; the material and the repairs process.  
+For every combination of these two factors, the cost effectiveness of the overall pothole filling/patching 
+work will depend on material, labour and equipment costs and the quantity of the work.  The most 
+economical combination of materials and process to the extent possible should be adopted to produce 
+long lasting and cost effective patch repairs. 
+ 
+ 
+ 
+11.3 
+Tools and Equipment for Pothole/Patch Repairs 
+For carrying out durable, long lasting and cost effective repairs of potholes and patches, the following 
+tools and equipment are generally required: 
+ 
+i) 
+Material truck (with hand tolls) 
+ii) 
+Equipment truck 
+iii) 
+Mechanical tool/equipment for pavement cutting and dressing 
+iv) 
+Compaction device (vibratory walk behind roller or plate compactor) 
+v) 
+Air compressor with pavement cutter 
+vi) 
+Spot mix (preparing hot/cold asphalt mix in situ) 
+vii) 
+Asphalt mix carrying and laying equipment 
+viii) 
+Traffic control devices and equipment 
+ix) 
+Mechanical brooms for highways and urban roads 
+ 
+11.4 
+Modern Mobile Mechanized Pothole Filling/Road Patching Technologies 
+For durable and cost effective pothole filling/road patching, innovative indigenous and imported 
+mechanized road patching technologies are available.  Most machines and techniques incorporate use of 
+cold mixes, while some use infrared radiation technique for heating the road surface for use as patching 
+material.  The following are some of the wid3ely used technologies for the purpose: 
+ Machine Mixed Spot Cold Mix and Patching Equipment 
+ Mobile Mechanized Maintenance Units 
+ Jet patching Velocity Spray Injection Technology 
+ 
+The deteriorated portion of the existing pavement adjoining the pothole should be cut and loose particles 
+removed before patching of pothole. 
+ 
+A view of various machines is given in Photos 11.1 to 11.7 
+
+54 | P a g e 
+ 
+ 
+ 
+            
+ 
+Photo 11.1: Pothole Repair Machine which can be mounted over a vehicle (CSIR-CRRI 
+developed) 
+ 
+Photo 11.2: Vehicle Mounted Pothole Repair Machine (CSIR-CRRI developed) 
+      
+ 
+
+55 | P a g e 
+ 
+                            
+ 
+Phot 11.3: View of Patrol Maintenance Machine used in Road Construction Department (RCD), 
+Bihar 
+ 
+ 
+Phot 11.4: View of Mobile Highway Maintenance Van used in Haryana PWD 
+  
+ 
+ 
+Photo 11.5:  Spary Injection type Pothole Repair Machine 
+ 
+
+56 | P a g e 
+ 
+ 
+Photo 11.6:  Infrared Road Patching Technology 
+                                                                          
+ 
+Photo 11.7: Automated Pothole Repair Machine 
+ 
+These equipment and technologies are for general applications for pothole filling/patch repairs.  Mobile mechanized 
+maintenance units may be equipped for other applications also.  For more specific applications or other maintenance 
+treatments, various equipment and methods that are generally used are indicated in Section 9.4 
+ 
+12. ARRANGEMENTS FOR TRAFFIC AND SAFETY MEASURES DURING ROAD 
+MAINTENANCE  
+ 
+12.1 
+Safety during Maintenance Work in Progress 
+ 
+
+57 | P a g e 
+ 
+12.1.1 The road construction and maintenance activities are an integral part of road network 
+development and its preservation.  Maintenance of roads is a normal recurring and periodic activity.  
+During execution of maintenance activities, proper arrangements for safe operation and movement of 
+normal traffic, maintenance workers and equipment in the work zones are most important.  The road 
+work zones are areas of conflict between normal operating traffic, workers, maintenance equipment and 
+machines and work zone traffic.  Care has to be taken to avoid/remove conflicts between workers, 
+maintenance equipment and traffic.  As a good practice, it should be essential to prepare a Work Zone 
+Traffic Management Plan (WTMP) to provide for reasonably protecting the workers and equipment.  
+WTMP should provide for continuity of the movement for motorized vehicle, bicycle, and pedestrian 
+traffic, transit operations, and access to properties and utilities. 
+ 
+It is equally important to ensure the safety of workers in Work Zones.  Work zones present constantly 
+changing conditions that are not expected by the road users, which create an even higher degree of 
+vulnerability for the workers present near the roadway.  A concurrent objective of the WTMP is the 
+efficient construction and maintenance of the highway, as well as efficient resolution of traffic incidents, 
+if any, likely to occur in the work zone.  The WTMP, therefore, should facilitate the smooth and efficient 
+flow of traffic as well as safe working environment. 
+ 
+12.1.2 Since maintenance operations involve considerable hardship, inconvenience and hazard to traffic 
+and also hazard to maintenance workers, all possible precautions should be taken to make safe 
+arrangements for traffic.  These include erection of barriers, signs, red flags and lights.  In order to 
+promote road safety and efficiency by providing for the orderly movement of traffic on all roads during 
+maintenance phases, road signs and other traffic management tools help in regulations of traffic and 
+provide warning and guidance needed for safe, uniform and efficient operation.  
+ 
+12.1.3 A road sign should meet the following five basic requirements for their effectiveness: 
+a) 
+Meet the requirement; 
+b) 
+Command attention; 
+c) 
+Convey a clear and simple meaning; 
+d) 
+Command respect from road users; and  
+e) 
+Give adequate time for response. 
+ 
+Design, placement, operation, maintenance, and uniformity are aspects that should be carefully 
+considered in order to maximize the ability of a road sign to meet these basic requirements.   
+ 
+
+58 | P a g e 
+ 
+12.1.4 The maintenance related activities shall confine to half of the pavement width at a time leaving 
+the other half for use by the traffic, to the extent possible. Otherwise, diversion roads may have to be 
+constructed or the traffic diverted to some other alternative route with a proper information arrangement 
+about the alternative.  The maintenance operation itself can be conveniently confined to a small length at 
+a time.  The appropriate warning sign to be used such as “Men at Work” sign during working, or the 
+“Narrow Road Ahead” sign if half of the road width is available for traffic, should also be displayed.  
+During night, there should be adequate lighting with red reflectors/flashers/blinkers.  All signs shall be 
+in accordance with IRC 67 ‘Code of Practice for Road Signs.’  For further guidance and details on safety 
+measures and traffic management during maintenance, IRC:SP 55 “Guidelines on Traffic Management 
+in Work Zones” may be referred to. 
+ 
+12.2 
+Road Signs, Pavement Markings and other Traffic Control Devices 
+ 
+12.2.1 After completion of the maintenance work, the existing road markings, road signs etc. shall be 
+restored to ensure safe and smooth movement of traffic.  The maintenance staff shall keep the road 
+authority informed of deficiencies, if any, observed in road signage, markings and other traffic control 
+devices.  Safety measures for necessary action to remove the deficiencies, is warranted to be identified 
+for implementation therefore, as per relevant IRC Standard and Codes of Practice.  
+   
+13. ORGANISATION AND MANAGEMENT 
+ 
+13. 1 Maintenance of a road requires proper planning, programming and adequate tools, equipment, 
+machinery and skilled workers/operators to carry out the required maintenance activities.  There should 
+be well equipped dedicated maintenance units or divisions within the organization in order to achieve 
+the intended purpose in an effective and efficient manner.  For primary roads, the nodal agency to 
+identify the priorities and initiate action related to maintenance implementation is either MORTH or 
+NHAI.  In case of secondary and tertiary roads, the maintenance is the responsibility of the State 
+governments whereas urban roads are looked after by the local bodies.  The traditional method of 
+maintenance of roads by departmental work force or road gangs is being phased out and the road 
+authorities are exploring alternative methods of implementing maintenance.  Maintenance by contract is 
+perceived as an efficient method.  While it has been in practice since long and used successfully for 
+implementing renewal programmes, the experience of road agencies with contracting out of routine 
+maintenance has not been so successful and most road agencies have not yet switched over to routine 
+maintenance contracts.  This may be due to lack of standardization of contract forms and non-
+availability of maintenance contractors.  Considering the size of the country’s road network and road 
+
+59 | P a g e 
+ 
+hierarchy, several forms and methods of implementing routine maintenance may be required to choose 
+the one most suited to a road agency.  Efforts are underway in this direction to standardize various types 
+of maintenance contracts.  In addition to this, availability and development of maintenance contractors 
+requires to be addressed in a big way.  During the transition period, the road agencies have to modernize 
+the existing system to bring in efficiency, productivity and improved performance by introducing 
+mechanization, mobile maintenance units, new and energy saving materials and institutionalizing 
+dedicated maintenance set up.  The effort should continue to be to move towards contracting out 
+maintenance. This would require assured funding and effective supervision.  Some model bidding 
+documents for road maintenance have been developed for use of road agencies and these documents 
+incorporate provisions for performance security, maintenance standards, performance criteria, simplified 
+payment procedure, damages for non-performance, etc so as to ensure that the contractor is held 
+accountable for the performance of maintenance.   
+ 
+13.2 
+Performance Based Maintenance Contracting (PBMC) is widely used for maintenance of roads.  
+The contract specifies objective performance standards which define the road condition to which the 
+roads are to be maintained and not allowed to fall below the specified level any time over the 
+maintenance contract period.  Monthly lump sum payments are made for maintenance on the basis of the 
+accepted contract price.  Monthly lump sum payments are subject to deductions if the required 
+performance standard is not achieved.  The deductions are effected as specified in the contract.  
+Effective supervision is required to ensure that there is no deficiency in the performance of maintenance 
+and condition of the roads and road assets included in the contract is maintained to the specified level.   
+  
+13.3 
+For routine maintenance of low volume roads use of labor based and semi-mechanized methods 
+are generally preferred.  As the traffic increases, the level of mechanization should also increase for 
+carrying out maintenance efficiently.  For maintenance of roads carrying high volumes of traffic, 
+machine based methods and technologies capable of carrying out maintenance with speed and safety and 
+causing minimum interruptions in movement of traffic are recommended. 
+ 
+13.4 Planning and scheduling of the maintenance operations should be given due importance. The 
+annual renewal programme should be drawn up well in advance keeping in view the condition of the 
+surface and any improvement work carried out recently or scheduled to be taken up in the near future. In 
+case sufficient funds are not available for renewal works, the priority may be decided following the 
+suggested criteria given in Section 9.5.  This would enable the field engineers to plan and implement 
+maintenance programmes in a rational manner and according to available budget. 
+
+ 
+60
+ 
+APPENDIX-1 
+ 
+METHODOLOGY FOR PAVEMENT CONDITION SURVEY 
+ 
+Pavement condition surveys 
+ 
+Pavement condition surveys can be broadly classified into manual methods  and instrumented 
+condition surveys. While manual methods are cumbersome, slow to perform and includes 
+safety risks, automated surveys can be conducted at fairly high speed with greater level of 
+precision. Manual survey also requires well trained surveyors for measurement of distress or 
+defect values.  
+ 
+Manual Method (Not recommended for Expressways, Highways and Urban Roads):  
+Physical distress is identified and a quantitative visual assessment of distress is made by a 
+well experienced/ trained team of 3-4 persons while moving in a vehicle at a speed of 8-10 
+km/hr. 
+While recording the distresses the details for the following pavement surface distresses are 
+visually noted and recorded in individual percentage for each km length in Proforma 1. 
+1. 
+Cracking (Alligator or fatigue cracking, Longitudinal and transverse cracking) * 
+2. 
+Bleeding 
+3. 
+Depressions/Settlements 
+4. 
+Pothole* 
+5. 
+Patching* 
+6. 
+Ravelling* 
+The Rut Depth* values are recorded using a 3 m straight edge.  
+ 
+*Used for calculation of PCI 
+ 
+In project level based maintenance strategies more precise condition data may be required 
+and hence actual measurements of all the above distresses need to be measured in smaller 
+representative sections.  In such cases, the required information with measurements may be 
+collected from field and recorded in Proforma 2 
+
+ 
+61
+Instrumented Method 
+This method involves use of advanced laser and camera based system for recording of 
+international roughness index, rut depth and pavement surface distresses from a moving 
+vehicle. Examples are Automatic Road Survey System (ARSS) / Network Survey Vehicle 
+(NSV), which have become popular to record and assess pavement surface automatically at 
+highway speeds and recommended for expressways, highways and urban roads.  
+ 
+Guidelines for selection of Appropriate Equipment for pavement Condition Survey 
+ 
+A user can decide the appropriate method for assessment of pavement condition based on the 
+type of the road network. The details are summarised in Tables A.1  
+ 
+Table A1.1 Evaluation of Pavement Surface Condition Parameters 
+Road Category 
+Roughness  
+Surface Distress  
+ 
+Rut Depth (mm) 
+Four Lane Divided 
+or More  
+ 
+It is recommended 
+that the roughness of 
+the 
+existing 
+pavement shall be 
+assessed in terms of 
+Roughness 
+Index 
+(mm/km) 
+or 
+International 
+Roughness 
+Index 
+(m/km) as per the 
+procedure given in 
+IRC SP: 16-2019 
+document.  
+ 
+ARSS/NSV 
+ARSS/NSV 
+Two Lane  
+ARSS/NSV 
+ 
+ARSS/NSV 
+Single/Intermediate 
+Lane  
+ARSS/NSV or  
+Visual Survey  
+ARSS/NSV or  
+Manual using a 3 m straight 
+edge 
+ARSS-Automatic Road Survey System; NSV-Network Survey Vehicle  
+ 
+ 
+A brief description of Automated Road Survey System (ARSS)/Network Survey Vehicle (NSV) 
+ 
+A typical ARSS/NSV shall equipped with the following major equipment or based on better 
+technology: 
+ 
+ 
+Distance Measuring Instrument (DMI)  
+ 
+ 
+Global Positioning System (GPS)-Real Time Differential Global Positioning System are used 
+to capture longitude, latitude and altitude of the road assets.  
+
+ 
+62
+ 
+ 
+Roughness using Laser Profilometer (LP)-Two laser sensors installed at both ends of Laser 
+Profilometer are used to collect road profile along left and right wheel paths of the road for 
+the computation of Left IRI and Right IRI (IRI-International Roughness Index). 
+ 
+ 
+Mean Profile Depth (MPD) using Laser Profilometer (LP)-High frequency laser sensors 
+installed in Laser Profilometer are used to collect Mean Profile Depth (MPD) data for the 
+assessment of pavement surface macro texture. 
+ 
+ 
+Pavement Distress Measurement System (PDMS)-Survey systems installed with High 
+Resolution Cameras; Laser based Crack Measurement System, LiDAR etc., provides 
+automated collection of pavement surface images for quantification of pavement surface 
+distresses. 
+ 
+ 
+Road Inventory using Right-of-Way Video Imaging System (ROW-VIS)-Survey systems 
+installed with one or more high resolution color cameras are used to collect right-of-way 
+information.  
+ 
+ 
+Rut measurement using Automatic Rut Measurement System (ARMS)-Survey systems 
+installed with Multi–Point Laser Sensors, Laser spectrum based Rut Measurement System, 
+Laser based Crack Measurement System, LiDAR etc. are used for measurement of rut depth. 
+ 
+ 
+Geometry details using Geometry Measurement System (GMS)-These systems are equipped 
+with inertial sensors such as inclinometer, gyroscope etc. to measure the geometric details of 
+the road network. 
+ 
+Various parameters recorded by ARSS/NSV are presented in Table A1.2.  
+ 
+
+ 
+63
+Table A1.2.  Parameters recorded by ARSS/NSV 
+Parameter Recorded 
+Equipment /Technologies 
+Distance Measurement 
+Distance Measurement Instrument (DMI )
+connected to the wheel axle to provide distance 
+and speed information. 
+Geographical Position and Geo Referencing 
+GPS equipped with the vehicle is capable of 
+recording location coordinates of vehicle as well 
+as geo reference important road assets. 
+Roughness and Texture 
+Roughness is measured in terms of IRI, from the 
+longitudinal profile of the road generated with 
+help of Class-1 Laser Profilometer and Texture as 
+Mean Profile Depth (MPD) 
+Pavement Surface Distress  
+Pavement Distress Measurement System (PDMS) 
+using High Resolution Camera, Laser Crack 
+Measurement System, LiDAR etc.,  
+Road Inventory  
+Right-of-Way Video Imaging System (ROW-
+VIS) using High Resolution Color Camera or 
+LiDAR 
+Rut measurement 
+Automatic Rut Measurement System (ARMS) 
+using Multi–point Laser, Laser Rut Measurement 
+System, Laser Crack Measurement System, 
+LiDAR 
+Geometric Details 
+Geometric details like gradient, rise and fall, 
+cross slope and horizontal curvature are measured 
+with Geometry Measurement System (GMS), 
+which is normally based on accelerometer and 
+gyroscope sensors. 
+ 
+The use of this equipment for pavement surface condition assessment is recommended for 
+two lanes and four lane divided and above corridors.  
+
+ 
+64 
+ 
+Proforma- 1 
+VISUAL SURFACE DISTRESS MEASUREMENT 
+Name of the Road: 
+Carriageway Width (m): 
+Chainage of Test Section: 
+Date of Observation: 
+Type of Surface: 
+Weather Condition: 
+Chainage 
+Cracks* 
+Patch 
+Work* 
+Potholes* 
+Bleeding 
+Depression 
+Edge 
+Breaking 
+Ravelling* 
+Shoving 
+Rut 
+Depth* 
+Drainage & 
+Shoulder 
+condition 
+Total  
+ 
+From  
+To 
+ (%) 
+ (%) 
+ (Nos) 
+ (%) 
+ (%) 
+ (%) 
+ (%) 
+ (%) 
+ (mm) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+*Only these distress parameters will be used for calculation of PCI value 
+ 
+ 
+Name of Team Leader_____________________ 
+Signature of Team Leader__________________ 
+
+ 
+65 
+ 
+Proforma- 2  
+MEASUREMENT OF SURFACE DISTRESS 
+ (FLEXIBLE PAVEMENT SECTION) 
+ 
+Cracks with 
+Type* 
+Patch Work* 
+Potholes* 
+Bleeding 
+Depression/ 
+Settlement 
+Edge Breaking 
+Ravelling* 
+Shoving 
+ 
+Rut 
+Depth  
+(mm)* 
+Drainage and 
+Shoulder    
+Condition 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+Size (m) (LxB) 
+Area 
+(m2) 
+Size (mm) 
+(LxB) 
+Area 
+(mm2) 
+Depth 
+(mm) 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+Size (m) 
+(LxB) 
+Area 
+(m2) 
+*Only these distress parameters will be used for calculation of PCI value 
+ 
+ 
+ 
+Name of Team Leader_____________________ 
+Signature of Team Leader__________________ 
+ 
+Name and Number of the Road 
+ 
+Carriageway Width (m) : 
+Chainage of Test Section : 
+Km………..to Km………… 
+Date of Observation: 
+Chainage of  Sub-Section  : 
+Km ……….to Km……….. 
+Weather Condition : 
+Type of Surface  : 
+ 
+ 
+ 
+ 
+ 
+
+ 
+66 
+APPENDIX-2: Determination of PCI for different classes of Roads 
+Table A2.1 PCI based ratings for Highways  
+Defects 
+(Type) 
+Equations 
+Curve 
+Cracking 
+(%) 
+ 
+ 
+ 
+ 
+Where CE=Crack Extent 
+
+ 
+67 
+Ravelling 
+(%) 
+ 
+ 
+ 
+Where RE=Ravelling Extent 
+Pothole 
+(Number) 
+ 
+ 
+ 
+ 
+ Where PN=Pothole Number 
+
+ 
+68 
+Patching (%) 
+ 
+ 
+ 
+Where PE=Patch Extent 
+
+ 
+69 
+Rut Depth 
+(mm) 
+ 
+ 
+ 
+Where RD = Rut Depth  (mm) 
+Roughness 
+(IRI) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+70 
+Table A2.1 PCI based ratings for MDR and Rural Roads 
+Part A (MDR) 
+Defects 
+(Type) 
+Equations 
+Curve 
+Cracking 
+(%) 
+ 
+ 
+ 
+ 
+Where CE=Crack Extent 
+
+ 
+71 
+Ravelling 
+(%) 
+ 
+ 
+ 
+ 
+Where RE=Reveling Extent 
+Pothole 
+(Number) 
+ 
+ 
+ 
+ 
+ 
+Where PN= Pothole Number 
+
+ 
+72 
+Patching 
+(%) 
+ 
+ 
+ 
+ 
+Where PE = Patch Extent 
+Rut Depth 
+(mm) 
+ 
+ 
+ 
+ 
+Where RD=Rut Depth (mm) 
+
+ 
+73 
+Roughness 
+(IRI) 
+Surface 
+Dressing 
+(SD) 
+ 
+ 
+ 
+Open 
+Graded 
+Premix 
+Carpet 
+(OGPC) 
+ 
+ 
+Mix Seal 
+Surfacing 
+(MSS) 
+ 
+ 
+Semi 
+Dense 
+Bituminous 
+Course 
+(SDBC) 
+ 
+ 
+Bituminous 
+Concrete 
+(BC) 
+ 
+ 
+ 
+Part B (Rural Roads) 
+Defects 
+(Type) 
+Equations 
+Curve 
+
+ 
+74 
+Cracking 
+(%) 
+ 
+ 
+ 
+ 
+Where CE=Crack Extent 
+Ravelling 
+(%) 
+ 
+ 
+ 
+ 
+Where RE= Ravelling Extent 
+
+ 
+75 
+Pothole 
+(Number) 
+ 
+ 
+ 
+ 
+ 
+Where PN= Pothole Number 
+Patching 
+(%) 
+ 
+ 
+ 
+Where PE= Patch Extent 
+
+ 
+76 
+Rut Depth 
+(mm) 
+ 
+ 
+ 
+ 
+Where RD=Rut Depth (mm) 
+ 
+Roughness 
+(IRI) 
+Surface 
+Dressing 
+(SD) 
+ 
+ 
+ 
+Open 
+Graded 
+Premix 
+Carpet 
+(OGPC) 
+ 
+ 
+Mix Seal 
+Surfacing 
+(MSS) 
+ 
+ 
+Semi 
+Dense 
+Bituminous 
+Course 
+(SDBC) 
+ 
+ 
+ 
+ 
+
+ 
+77 
+Table A2.2 PCI based ratings for Urban Roads 
+Defects 
+(Type) 
+Equations 
+Curve 
+Cracking (%) 
+ 
+ 
+ 
+Where CE=Crack Extent 
+Ravelling (%) 
+ 
+ 
+ 
+Where RE = Ravelling Extent 
+
+ 
+78 
+Pothole 
+(Number) 
+ 
+ 
+ 
+ 
+Where PN = Pothole Number 
+ 
+Patching (%) 
+ 
+ 
+ 
+Where PE = Patch Extent 
+
+ 
+79 
+Rut Depth 
+(mm)  
+ 
+ 
+ 
+Where RD = Rut Depth  (mm) 
+Roughness 
+(IRI) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+80 
+1. Examples  
+ 
+A. Highways: Expressways, National Highways and State Highways 
+ 
+A.1 Excellent to Good Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+0.5 
+93.36 
+Routine Maintenance 
+2. 
+Ravelling (%)  
+0.3 
+3. 
+Potholes (Number) 
+0 
+4. 
+Patching (%) 
+0.05 
+5. 
+Rut Depth (mm) 
+0.10 
+5. 
+IRI (m/km) 
+2.4 
+ 
+ 
+A.2 Satisfactory to Fair Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+5 
+43.55 
+Rehabilitation 
+(based on structural 
+evaluation) 
+2. 
+Ravelling (%)  
+3 
+3. 
+Potholes (Number) 
+2 
+4. 
+Patching (%) 
+2.6 
+5. 
+Rut Depth (mm) 
+10 
+5. 
+IRI (m/km) 
+4.5 
+ 
+A.3 Poor to Fail Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+14 
+20.68 
+Major 
+Rehabilitation/ 
+Structural                    
+Overlay 
+2. 
+Ravelling (%)  
+12 
+3. 
+Potholes (Number) 
+4 
+4. 
+Patching (%) 
+15 
+5. 
+Rut Depth (mm) 
+14 
+5. 
+IRI (m/km) 
+8 
+ 
+ 
+ 
+ 
+ 
+
+ 
+81 
+B. MDR and RR: Major Districts Roads and Rural Roads 
+ 
+B.1 Excellent to Good Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+0.6 
+89.86 
+Preventive 
+Maintenance 
+2. 
+Ravelling (%)  
+0.1 
+3. 
+Potholes (Number) 
+1 
+4. 
+Patching (%) 
+0.5 
+5. 
+Rut Depth (mm) 
+1 
+5. 
+IRI (m/km) 
+2.8 
+ 
+B.2 Satisfactory to Fair Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+6.5 
+51.11 
+Rehabilitation 
+(based on structural 
+evaluation) 
+2. 
+Raveling (%)  
+4.7 
+3. 
+Potholes (Number) 
+6 
+4. 
+Patching (%) 
+6 
+5. 
+Rut Depth (mm) 
+8 
+5. 
+IRI (m/km) 
+9.2 
+ 
+ 
+B.3 Poor to Fail Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+20 
+25.66 
+Major 
+Rehabilitation/ 
+Structural                    
+Overlay 
+2. 
+Ravelling (%)  
+16 
+3. 
+Potholes (Number) 
+10 
+4. 
+Patching (%) 
+12 
+5. 
+Rut Depth (mm) 
+22 
+5. 
+IRI (m/km) 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+82 
+C. Urban Roads  
+ 
+C.1 Excellent to Good Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+0.5 
+96.1 
+Routine 
+Maintenance 
+2. 
+Ravelling (%)  
+0.2 
+3. 
+Potholes (Number) 
+0 
+4. 
+Patching (%) 
+0.1 
+5. 
+Rut Depth (mm) 
+0 
+5. 
+IRI (m/km) 
+2.4 
+ 
+C.2 Satisfactory to Fair Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+5 
+55.64 
+Rehabilitation 
+(based on structural 
+evaluation) 
+2. 
+Raveling (%)  
+2 
+3. 
+Potholes (Number)  
+3 
+4. 
+Patching (%) 
+3.5 
+5. 
+Rut Depth (mm) 
+4 
+5. 
+IRI (m/km) 
+6 
+ 
+C.3 Poor to Fair Category Road 
+S. No.  
+Parameter 
+Extent, % 
+PCI 
+Maintenance 
+Recommendations 
+1. 
+Cracking (%) 
+12 
+35.08 
+Major 
+Rehabilitation/ 
+Structural                    
+Overlay 
+2. 
+Ravelling (%)  
+8 
+3. 
+Potholes 
+(Number) 
+4 
+4. 
+Patching (%) 
+10 
+5. 
+Rut Depth (mm) 
+12 
+5. 
+IRI (m/km) 
+7 
+ 
+

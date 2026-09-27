@@ -1,0 +1,202 @@
+[
+  {
+    "id": "Q01",
+    "query": "What maintenance treatment is recommended for potholes?",
+    "type": "direct"
+  },
+  {
+    "id": "Q02",
+    "query": "What activities are included in routine pavement maintenance?",
+    "type": "direct"
+  },
+  {
+    "id": "Q03",
+    "query": "What maintenance actions are recommended for pavement cracks?",
+    "type": "direct"
+  },
+  {
+    "id": "Q04",
+    "query": "What are the benefits of preventive road maintenance?",
+    "type": "direct"
+  },
+  {
+    "id": "Q05",
+    "query": "What factors should be considered when selecting a maintenance treatment?",
+    "type": "direct"
+  },
+  {
+    "id": "Q06",
+    "query": "What equipment is recommended for road maintenance activities?",
+    "type": "direct"
+  },
+  {
+    "id": "Q07",
+    "query": "What causes potholes in bituminous pavements?",
+    "type": "related"
+  },
+  {
+    "id": "Q08",
+    "query": "What are the recommended repair methods for longitudinal cracks?",
+    "type": "specific"
+  },
+  {
+    "id": "Q09",
+    "query": "What are the recommended repair methods for transverse cracks?",
+    "type": "specific"
+  },
+  {
+    "id": "Q10",
+    "query": "What maintenance methods are used for alligator cracking?",
+    "type": "specific"
+  },
+  {
+    "id": "Q11",
+    "query": "What factors influence pavement deterioration?",
+    "type": "related"
+  },
+  {
+    "id": "Q12",
+    "query": "What road maintenance actions can improve road serviceability?",
+    "type": "synthesis"
+  },
+  {
+    "id": "Q13",
+    "query": "What maintenance approach should be selected for a pavement with existing distress?",
+    "type": "synthesis"
+  },
+  {
+    "id": "Q14",
+    "query": "What information is needed before selecting a pavement maintenance treatment?",
+    "type": "synthesis"
+  },
+  {
+    "id": "Q15",
+    "query": "What is the relationship between pavement distress and maintenance requirements?",
+    "type": "synthesis"
+  },
+  {
+    "id": "Q16",
+    "query": "What exact remaining service life can be determined from a single pothole image?",
+    "type": "insufficient_evidence"
+  },
+  {
+    "id": "Q17",
+    "query": "Can a road damage image alone determine the structural load carrying capacity of the pavement?",
+    "type": "insufficient_evidence"
+  },
+  {
+    "id": "Q18",
+    "query": "Can a road damage image alone determine the exact cost of repairing the road?",
+    "type": "insufficient_evidence"
+  },
+  {
+    "id": "Q19",
+    "query": "What maintenance recommendations are supported when both potholes and cracks are observed?",
+    "type": "multi_evidence"
+  },
+  {
+    "id": "Q20",
+    "query": "What evidence is required before making a road maintenance recommendation?",
+    "type": "evidence_requirement"
+  },
+  {
+    "id": "Q21",
+    "query": "How does moisture intrusion affect subgrade soil stability and pavement distress?",
+    "type": "weather_pavement"
+  },
+  {
+    "id": "Q22",
+    "query": "What is the relationship between heavy rainfall events and moisture acceleration in bituminous layers?",
+    "type": "weather_pavement"
+  },
+  {
+    "id": "Q23",
+    "query": "How do temperature variations and freeze-thaw cycles contribute to transverse crack propagation?",
+    "type": "weather_pavement"
+  },
+  {
+    "id": "Q24",
+    "query": "What pavement drainage maintenance practices prevent moisture-induced stripping?",
+    "type": "weather_pavement"
+  },
+  {
+    "id": "Q25",
+    "query": "Can recent rainfall data be stated as the sole cause of a pothole?",
+    "type": "insufficient_evidence"
+  },
+  {
+    "id": "Q26",
+    "query": "How does heavy traffic volume influence maintenance work zone planning and traffic control constraints?",
+    "type": "traffic_operations"
+  },
+  {
+    "id": "Q27",
+    "query": "What operational factors determine repair priority on high-traffic volume National Highways?",
+    "type": "traffic_operations"
+  },
+  {
+    "id": "Q28",
+    "query": "Does heavy traffic volume prove direct physical causation of pavement cracking?",
+    "type": "insufficient_evidence"
+  },
+  {
+    "id": "Q29",
+    "query": "What preservation strategies are specified for high-traffic roadway corridors?",
+    "type": "traffic_operations"
+  },
+  {
+    "id": "Q30",
+    "query": "How should traffic delay metrics be incorporated into maintenance scheduling?",
+    "type": "traffic_operations"
+  },
+  {
+    "id": "Q31",
+    "query": "What are the standard operating parameters for Network Survey Vehicle (NSV) condition surveys?",
+    "type": "standards_inspection"
+  },
+  {
+    "id": "Q32",
+    "query": "What quality assurance standards are required for bitumen tack coat application in patch repair?",
+    "type": "standards_inspection"
+  },
+  {
+    "id": "Q33",
+    "query": "What International Roughness Index (IRI) threshold indicates severe pavement roughness?",
+    "type": "standards_inspection"
+  },
+  {
+    "id": "Q34",
+    "query": "What safety inspection items are required for road hazard remediation near schools and junctions?",
+    "type": "standards_inspection"
+  },
+  {
+    "id": "Q35",
+    "query": "What performance standards govern contract maintenance on National Highways?",
+    "type": "standards_inspection"
+  },
+  {
+    "id": "Q36",
+    "query": "What synthetic repair strategy is indicated when high traffic volume, severe moisture exposure, and alligator cracking co-occur?",
+    "type": "multi_evidence"
+  },
+  {
+    "id": "Q37",
+    "query": "How do computer vision models like RF-DETR classify road damage in multi-national datasets?",
+    "type": "research_detection"
+  },
+  {
+    "id": "Q38",
+    "query": "What are the acknowledged limitations of image-only road distress detection in literature?",
+    "type": "research_detection"
+  },
+  {
+    "id": "Q39",
+    "query": "What preventive maintenance treatments extend pavement service life prior to structural failure?",
+    "type": "synthesis"
+  },
+  {
+    "id": "Q40",
+    "query": "What evidence distinguishes surface raveling from deep subgrade structural degradation?",
+    "type": "multi_evidence"
+  }
+]

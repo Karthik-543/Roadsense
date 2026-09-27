@@ -1,0 +1,681 @@
+Page 1 of 15 
+ 
+ROAD ASSET MANAGEMENT SYSTEM (RAMS) 
+SOP for Data Collection through NSV 
+ 
+1. Background 
+ 
+ 
+National Highways are developed and managed by Ministry of Road Transport and 
+Highways (MORT&H), through its implementing agencies, i.e., State PWDs and its 
+associated organisations, National Highways Authority of India (NHAI), National 
+Highways Infrastructure Development Corporation Ltd (NHIDCL), and Border Roads 
+Organisation (BRO).  
+ 
+MoRTH and NHAI have developed Road Asset Management System (RAMS) for 
+managing and maintaining the entire National Highways in India through a systematic, 
+scientific and life cycle analysis. It combines the engineering principles with sound 
+business practices and economic rationale. It provides tools to facilitate a more 
+organized, logical and flexible approach to decisions for handling both short- and 
+Long-term planning, programming and budgeting. In addition, RAMS also provides a 
+platform for seamless experience in accessing up to date information on road assets. 
+RAMS has GIS capability to provide information to road users on various attributes of 
+road networks such as traffic, road site amenities and facilities.  
+ 
+RAMS for the entire National Highways along with the collection of requisite data is 
+underway as part of the Digital India initiative. 
+ 
+2. RAMS Objectives and Benefits 
+ 
+The broad objective of the RAMS is to store road asset information in digital format, 
+analyse these information using different software modules and then provide tangible 
+outputs which can be utilized for planning, maintenance, upgradation, renewal and 
+taking scientific based decisions into consideration for optimal utilisation of available 
+budgets.  
+ 
+The system will provide input on continuous basis for maintenance and up-gradation 
+of completed roads with economic analysis to determine priorities. RAMS is an 
+integrated Web based system coupled with GIS features. The information captured in 
+RAMS is collectively used as input to Highway Development & Management (HDM-4) 
+software which would be used as tool for strategic, tactical analysis and planning of 
+
+Page 2 of 15 
+ 
+National Highways. RAMS consists of core modules and support modules, catering to 
+collection and management of highway information i.e. highway planning and 
+maintenance management.  
+ 
+Various benefits can be derived from RAMS, particularly on: 
+ 
+• maintaining reliable, historical and up to date asset inventory and other data; 
+• road assets condition status and maintenance strategies; 
+• scientific analysis of maintenance options and selection of optimal maintenance 
+regime; 
+• providing vital information on road network planning; 
+• providing relevant information on other aspects such as development of road 
+safety measures, etc. 
+ 
+4. Modules of RAMS 
+ 
+RAMS consists of  
+• 
+Location Reference Management System (LRMS): Maintains road network 
+information, such as spatial coordinates of road alignment (road centre lines) and 
+linear chainage etc; 
+• 
+Road Information System (RIS): A data repository system including inventory, 
+condition, Roughness, wayside amenities, road furniture, multimedia data like 
+videos and photos etc; 
+• 
+Pavement Management System (PMS): An important module aimed at 
+performing maintenance needs analysis, prioritisation of maintenance activities, 
+selection of optimal maintenance treatments/strategies under unconstrained and 
+constrained budgets;  
+• 
+Bridge Information System (BIS): A data repository for bridge and culvert 
+inventory and condition including brief details on maintenance and priorities 
+(interfaced with Indian Bridge management System – IBMS); 
+• 
+Traffic Information System (TIS): A data repository for traffic volume and 
+loading details (interfaced with IHMCL Traffic Database); 
+• 
+Accident Information System (AIS): A data repository for accidents data 
+including fatal, major and minor accidents and its attributes including location 
+details; 
+• 
+Toll Information System (TOIS): A data repository for Toll Plazas locations and 
+user fee details levied on National Highways; 
+
+Page 3 of 15 
+ 
+• 
+Environmental Information System (EIS): A data repository of all relevant 
+assets, features and structures within the Right of Way (ROW), such as religious 
+structures, heritage structures, trees, ponds, lakes, encroachments etc. 
+• 
+Geographical Information System (GIS): A geo-referenced representation of 
+all attribute information inbuilt into each module. 
+ 
+5. Centralised RAMS Cell 
+A dedicated and centralised RAMS Cell has been established at NHAI to take over 
+the implementation and continual operation of the RAMS. The RAMS Cell would 
+bring all initiatives related to data collection, data management, and information 
+sharing on National Highways under one umbrella including periodical data 
+collection by NH Divisions of State PWDs, NHAI, NHIDCL, BRO and their 
+Concessionaires, Contractors and Consultants. The main objective of the proposed 
+RAMS Cell would be to operate, maintain, update and upgrade RAMS system 
+developed for all National Highways in India notwithstanding to the owning agency 
+of development and maintenance. 
+ 
+The stretch-wise data may be collected by field offices, PIUs, Contractors, Consultants 
+etc of MoRTH, NHAI, NHIDCL, State PWDs, BRO, etc., and such data may be fed into 
+RAMS system through the RAMS Cell established in NHAI. Data flow Diagram and 
+intuitional framework is enclosed at Annex IV. The Centralized RAMS Cell shall do 
+quality assurance checks of data collected and upload the same on the portal/ RAMS 
+system. The RAMS Cell then performs maintenance needs analysis and of the data 
+available in the RAMS system and prioritises the available maintenance budget. 
+Therefore, the data expected to be collected by the above mentioned stakeholders 
+play a vital role and data accuracy is very critical to generate reliable maintenance 
+strategies and interventions. 
+ 
+5.1 Objective of Centralized RAMS Cell 
+ 
+The main objective of the RAMS Cell is to operate, maintain, update and upgrade 
+RAMS system developed for all National Highways in India, irrespective of the 
+agencies with whom such stretches of NHs are entrusted. 
+ 
+5.2 Key Functions of Centralized RAMS Cell  
+ 
+The primary function of RAMS Cell is to act as a cohesive office for facilitating 
+
+Page 4 of 15 
+ 
+planning, programming and budgeting of National Highways in the country and 
+facilitate timely decision making through analysis of data and presenting the same to 
+the MORTH and other agencies on regular basis. 
+ 
+The other key functions of the RAMS Cell are: 
+ 
+• To plan, monitor and manage annual data collection of National Highways; 
+• To process, manage and perform quality assurance of the data collected; 
+• To load processed data into RAMS; 
+• To operate RAMS on daily basis; 
+• To provide or answer daily or ad hoc enquiries; 
+• To identify potential improvement and up-gradation of projects on PPP/EPC 
+basis or otherwise; 
+• To prepare annual maintenance needs and related budget for public funded 
+roads; 
+• To impart training and technology transfer on RAMS operation; 
+• To provide helpdesk support on RAMS users; 
+• To Manage and monitor external consultants working on RAMS. 
+ 
+5.3 Stakeholders 
+ 
+National Highways are currently entrusted to different agencies, MORTH (through NH 
+divisions of State PWDs, PIUs of MORTH), NHAI, NHIDCL and BRO for development 
+and/or maintenance. These agencies thus become major stakeholders of RAMS. 
+As mentioned above, the centralized RAMS Cell will support all stakeholders. Each 
+agency may have one or two liaison officers within the organization to coordinate with 
+the centralized RAMS Cell. The main function of the liaison cells shall be to ascertain 
+regular data flow from the PIU/ field level cells to the centralized RAMS Cell. 8 
+6. Process of Maintenance Needs Analysis  
+The collection of data shall be through NSV runs as per extant policies. The field cells 
+of various agencies shall submit the same to the centralized RAMS Cell at NHAI, who 
+will validate and further process data into required format. The processed data will be 
+loaded into RAMS. The maintenance analysis will then be performed by RAMS Cell 
+considering the overall development and maintenance strategy for National Highways. 
+The preliminary maintenance plan and needs will be sent to the Planning Zone of the 
+Ministry, NHAI and respective field offices; the respective field cells of agencies shall 
+verify and validate the program within seven days. Field offices will submit their 
+
+Page 5 of 15 
+ 
+observations and comments along with their recommended maintenance program for 
+the National Highways in their jurisdiction. RAMS Cell will collate the feedback from 
+all field offices and rerun or reconsider the preliminary program. The final maintenance 
+plan and needs will be prepared by RAMS Cell for sending to Planning Zone of the 
+MORTH HQ and all agencies (viz. MORTH, NHAI, NHIDCL, BRO and NH Divisions 
+of State PWDs). The MORTH Planning Zone will then validate, adjust and finalise the 
+annual maintenance plan for the subsequent financial year.  
+A tentative process for maintenance needs analysis is depicted below. The below 
+picture depicted engaging Consultants by Field Offices for collecting data. 
+Alternatively, Field Offices may collect data by themselves, however the responsibility 
+of supplying the required data lies with Field Offices.  
+ 
+ 
+ 
+ 
+6.1 Guidelines for Data Collection using NSV 
+
+Page 6 of 15 
+ 
+To bring the uniformity in data collection through NSV, a standard operating 
+procedure has been developed and it is requested to follow these standards 
+procedures to collect data: 
+1. The road inventory data shall be collected for each carriageway while the 
+condition data shall be collected for each lane. Starting from initial chainage to 
+final chainage in increasing direction and final to initial in decreasing direction. if 
+the chainage is not starting from zero, start from initial point and end at km stone 
+then record km wise e.g. starting for 45.600 to 46.000, then 46.000 to 47.000, 
+47.000 to 48.000, 48.000 to 48.300 not like that 45.600 to 46.600 etc. The same 
+procedure shall be followed in the reverse direction. 
+ 
+ 
+ 
+ 
+ 
+2. While recoding data, it is recommended to record some permanent location 
+points, such as km stone and starting point of bridge etc as these points would 
+help when there is a change in alignment or for resetting the changings  to avoid 
+cumulative chainage errors. 
+3. The minimum inventory items to be recorded are, Centre Line GPS, Right of Way 
+(ROW), Road Type, Pavement Surface Type, Pavement Width, Shoulder Type, 
+Shoulder Width, Median Type, Median Width, Side Drain Type, Type of Cross-
+Section, Topography, Adjoining Land Use, Road Furniture, Wayside Amenities 
+and Emergency Contact etc. The details of data to be recoded are given in 
+Annex-I. 
+4. The minimum condition items to be recorded are, Cracking, Ravelling, Potholes, 
+Depression, Bleeding, Patching, Edge Damage, Shoulder Condition, Drain 
+Condition, Roughness and Rutting etc. The details of data to be recoded are 
+given in Annex-II. 
+5. Once the inventory is recorded, the same shall be verified in the subsequent 
+cycles and update data, if and as appropriate. 
+ 
+ 
+ 
+ 
+ 
+Increasing Direction 
+
+Page 7 of 15 
+ 
+6. GPS coordinates of the notional centreline shall be collected on the pre-
+designated route. The survey vehicle records the coordinates and distance 
+measurements while travelling closest to the centreline (i.e. on the fast or 
+innermost lane, next to the road median). The coordinates shall be recorded 
+continuously at no more than every 10 meters (or 5 meters) interval in one 
+direction for single carriageway while in both bounds for divided or dual 
+carriageways.  
+7. All continuous items, such as pavement width, pavement type, crash barrier, 
+bridge start and end points etc, shall be recorded with start point and end point 
+(both location and chainage).  
+8. Point inventory items, such as sign board, road furniture, wayside amenities etc, 
+shall be recorded with location and chainage. 
+9. The full motion video shall be captured by the video camera mounted on Network 
+Survey Vehicle. The camera mounted on the vehicle shall be used to capture 
+features on the carriageway as well as roadside features. The video shall be 
+captured on a real-time basis with full correlation with chainage measurements 
+and GPS coordinates. 
+10. 
+The standard NSV at least shall have the following components: 
+• Laser Profilometer (LP): For measuring dual wheelpath Roughness. 
+Must possess manufacture’s calibration certificate. 
+• Transverse Profile Logger (TPL): For measuring Rut Depth in both 
+wheelpaths. Must possess manufacture’s calibration certificate. 
+• Running Distance Measurement Instrument (RDMI): For measuring 
+linear chainage. Must possess manufacture’s calibration certificate. 
+• DGPS: For recording spatial coordinates notional road centrelines.  Must 
+have capability of real time correction for more accurate spatial data using 
+BHUVAN or similar technology. 
+• HD Video Cameras: At least two HD cameras recording continuous 
+footage of the visible ROW (say at every 5m or 10m). Attributes shall be 
+embedded on video such as chainage, name of road, date of data 
+collection, latitude, longitude, altitude, distance travelled etc. 
+
+Page 8 of 15 
+ 
+• Road Inventory and Condition Recoding Keyboards: For recording 
+other inventory and condition data as mentioned in Annex I and Annex II.  
+11. In addition, Falling Weight Deflectometer (FWD) shall engaged to measure 
+pavement deflection and thus pavement strength.  
+12. The collected data shall be supplied in the formats enclosed in Annex III 
+along with raw data generated from machine.  
+13. The data collected shall be supplied to HQ within 15 days after completion 
+of survey. 
+14. Other required data, such as pavement composition and maintenance 
+history shall be compiled from the available records or knowledge in the 
+required format mentioned in Annex III.   
+15. Data flow Diagram and intuitional framework is enclosed at Annex IV. 
+16. In case of any query / help, please contact  
+Mr. Narinder Pal Singh, Project Manager 
+Mob. No. +91-9891275159 
+Email : rams@nhai.org 
+ 
+ 
+ 
+ 
+
+Page 9 of 15 
+ 
+Annex-I 
+Road Inventory Data 
+Inventory Feature 
+Details of Measurement 
+GIS 
+Centre line coordinates at an interval of 5 m not 
+more than 10m  
+Right of way 
+Through secondary sources such as design 
+standards. Through visual observations in the field, 
+wherever the boundary was visible. 
+Road type 
+Visual observations in the following categories: 
+• 
+Two-lane; 
+• 
+Four-lane without divided carriageway; 
+• 
+Four-lane with divided carriageway; 
+• 
+Six-lane without divided carriage way; 
+• 
+Six-lane with divided carriage way. 
+Pavement surface 
+type 
+Visual observations in the following categories: 
+• 
+Asphalt; 
+• 
+Cement Concrete; 
+• 
+Others. 
+Pavement width 
+Visual observations in the following categories: 
+• 
+With accuracy to 10cm 
+Shoulder type 
+Visual observations in the following categories: 
+• 
+None; 
+• 
+Paved; 
+• 
+Gravel; 
+• 
+Earth. 
+• 
+Other 
+Shoulder width 
+Visual observations in the following categories: 
+• 
+With accuracy to ±10cm 
+Median Type 
+Visual observations in the following categories: 
+• 
+Depressed 
+• 
+Barrier 
+• 
+Flushed 
+• 
+None 
+Median width 
+Visual observations in the following categories: 
+• 
+With accuracy to ±10cm 
+
+Page 10 of 15 
+ 
+Inventory Feature 
+Details of Measurement 
+ 
+Side Drain Type 
+Visual observations in the following categories: 
+• 
+Open unlined; 
+• 
+Open lined; 
+• 
+Covered lined; 
+• 
+No drain; 
+• 
+Drain not needed. 
+Cross section 
+Visual observations in the following categories: 
+• 
+Cut; 
+• 
+Fill; 
+• 
+Embankment. 
+Topography 
+Visual observations in the following categories: 
+• 
+Flat; 
+• 
+Rolling; 
+• 
+Hilly. 
+Road furniture 
+Visual observations in the following categories: 
+• 
+Road Sign 
+• 
+Bus Shelter 
+• 
+Km stone 
+• 
+Toll Plaza 
+• 
+Crash Barrier (Start, End) 
+• 
+Street Light (Start, End) 
+• 
+Culvert 
+• 
+Bridge 
+Land use 
+Visual observations in the following categories: 
+• 
+Residential; 
+• 
+Commercial; 
+• 
+Industrial; 
+• 
+Agricultural; 
+• 
+Water bodies; 
+• 
+Public/commcelly use; 
+• 
+Forest reserve. 
+
+Page 11 of 15 
+ 
+Inventory Feature 
+Details of Measurement 
+Wayside Amenities 
+Visual observations in the following categories: 
+• 
+Restaurant / Motel 
+• 
+Toilet / Public Convenience 
+• 
+Rest Rooms 
+• 
+First Aid / Medical Centre 
+• 
+Telephone Booth 
+• 
+HT Line Crossing 
+• 
+Petrol Pump 
+• 
+Police Station 
+• 
+Temple / Mosque 
+Emergency Contact 
+• 
+Ambulance 
+• 
+Hospital 
+• 
+Police 
+• 
+Toll Plaza 
+ 
+ 
+
+Page 12 of 15 
+ 
+Annex-II 
+Road Condition Data 
+Num 
+Surface Distress 
+Rating Criteria 
+1.  
+Crack Area (% Surface 
+Area) 
+• 
+Very Good (<5% ) 
+• 
+Good (5 - 10%) 
+• 
+Fair (11 - 20%) 
+• 
+Poor (21 - 30%) 
+• 
+Very Poor (>30%) 
+2.  
+Ravelling (% Surface 
+Area) 
+• 
+Very Good (0%) 
+• 
+Good (1 – 5%) 
+• 
+Fair (6 - 10%) 
+• 
+Poor (11 - 30%) 
+• 
+Very Poor (>30%) 
+3.  
+Potholes (Numbers) 
+• 
+Very Good (0) 
+• 
+Good (1) 
+• 
+Fair (2) 
+• 
+Poor (2 – 5) 
+• 
+Very Poor (> 5) 
+4.  
+Depression (% 
+Surface Area) 
+• 
+Very Good (0%) 
+• 
+Good (0-1%) 
+• 
+Fair (1-2%) 
+• 
+Poor (3 - 5%) 
+• 
+Very Poor (>5%) 
+5.  
+Bleeding (% 
+Surface Area) 
+• 
+Very Good (<1%) 
+• 
+Good (1-10%) 
+• 
+Fair (10-20%) 
+• 
+Poor (20 - 50%) 
+• 
+Very Poor (>50%) 
+6.  
+Patching (% 
+Surface Area) 
+• 
+Very Good (<2%) 
+• 
+Good (2-5%) 
+• 
+Fair (6-15%) 
+• 
+Poor (16 - 30%) 
+• 
+Very Poor (>30%) 
+7.  
+Edge Damage 
+(Area m2) 
+• 
+Very Good (0 m2) 
+• 
+Good (0-0.5 m2) 
+• 
+Fair (0.5-1.0 m2) 
+• 
+Poor (1.0 – 5.0 m2) 
+• 
+Very Poor (>5.0 m2) 
+
+Page 13 of 15 
+ 
+Num 
+Surface Distress 
+Rating Criteria 
+8.  
+Shoulder Condition 
+• 
+Good 
+• 
+Fair 
+• 
+Poor 
+9.  
+Drain Condition 
+• 
+Good 
+• 
+Fair 
+• 
+Poor 
+10.  
+Shoulder Elevation 
+with respect to 
+Edge 
+• 
+Level 
+• 
+Above 
+• 
+Below 
+11.  
+Rutting  
+• 
+Rut Depth (mm) 
+12.  
+Roughness 
+• 
+Roughness is to be recorded at an 
+interval of 100m 
+ 
+ 
+ 
+ 
+
+Page 14 of 15 
+ 
+Annex III: Data Formats (Excel Sheet Enclosed) 
+ 
+1. Location Reference Management System (LRMS)  
+2. Road Information System (RIS)  
+3. Pavement Management System (PMS)  
+4. Bridge Information System (BIS)  
+5. Traffic Information System (TIS)  
+6. Accident Information System (AIS)  
+7. Toll Information System (TOIS)  
+8. Environmental Information System (EIS)  
+ 
+Annex IV : Data Flow Diagram and Institutional Framework 
+ 
+Institutional Framework : 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Collection
+Data Management
+Data Analysis
+Road Asset Management
+Road Asset Management System
+Institutional Framework
+Planning
+Financing
+Implementation
+
+Page 15 of 15 
+ 
+Data Flow Diagram : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accept Data and Invoice 
+Identify Issues and return 
+data packets to Site 
+Return to Analyst for 
+Reformatting 
+Resolve record issues and 
+reload records to software 
+Provide Copy of Verification 
+data and Reload 
+Load Data to Software 
+Forward data to filed 
+for rechecking 
+Data received from Site 
+Submit Data to RAMS Cell for QA & QC 
+Data Formatting Processing 
+Pass/Fail 
+Pass/Fail 
+Pass/Fail 
+Pass/Fail 
+Pass/Fail 
+Resolve record issues and 
+reload records to software 
+Unsuccessful data format 
+Fail 
+Pass 
+Fail because of data issue 
+Successful data format 
+Fail 
+Pass
+Fail because of record issue 
+Pass
+Fail because of data issue 
+Fail because of record issue 
+Pass
+
