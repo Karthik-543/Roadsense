@@ -3,9 +3,10 @@ import chromadb
 from pathlib import Path
 from datetime import datetime
 
-INPUT = Path("data/processed/embeddings.json")
-DB_PATH = "vectorstore/chroma"
-LOGS_PATH = Path("logs")
+BASE_DIR = Path(__file__).resolve().parent.parent
+INPUT = BASE_DIR / "data/processed/embeddings.json"
+DB_PATH = str(BASE_DIR / "vectorstore/chroma")
+LOGS_PATH = BASE_DIR / "logs"
 LOGS_PATH.mkdir(exist_ok=True)
 
 print(f"Reading embeddings from {INPUT}...")

@@ -1,11 +1,16 @@
+import os
+from pathlib import Path
 import chromadb
 from typing import List, Dict, Any, Optional
 from sentence_transformers import SentenceTransformer, util
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+DB_PATH = os.path.join(BASE_DIR, "vectorstore", "chroma")
+
 MODEL_NAME = "all-MiniLM-L6-v2"
 MODEL = SentenceTransformer(MODEL_NAME)
 
-client = chromadb.PersistentClient(path="vectorstore/chroma")
+client = chromadb.PersistentClient(path=DB_PATH)
 
 try:
     collection = client.get_collection("roadsense_knowledge")
