@@ -7,6 +7,7 @@ import torch
 import numpy as np
 
 from rfdetr import RFDETRMedium
+import rfdetr.utilities.io as rfdetr_io
 from app.schemas import DetectionItem, DetectionResponse
 
 logger = logging.getLogger("detection_service.detector")
@@ -43,11 +44,26 @@ class RoadDamageDetector:
         try:
             # Load RF-DETR Medium from verified checkpoint
             
-            self.model = RFDETRMedium(
-                num_classes=4,
-                pretrain_weights=str(self.checkpoint_path),
-                trust_checkpoint=True
-            )
+            original_loader = rfdetr_io._safe_torch_load
+
+            def mmap_loader(path, trust=False):
+                return torch.load(
+                    path,
+                    map_location="cpu",
+                    weights_only=True,
+                    mmap=True
+                )
+
+            try:
+                rfdetr_io._safe_torch_load = mmap_loader
+
+                self.model = RFDETRMedium(
+                    num_classes=4,
+                    pretrain_weights=str(self.checkpoint_path),
+                    trust_checkpoint=True
+                )
+            finally:
+                rfdetr_io._safe_torch_load = original_loader
             self.model.inference(
                 compile=False,
                 inplace=True,
