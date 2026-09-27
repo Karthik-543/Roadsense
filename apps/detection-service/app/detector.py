@@ -42,7 +42,12 @@ class RoadDamageDetector:
         logger.info(f"Loading RF-DETR Medium checkpoint from: {self.checkpoint_path} on device: {self.device}")
         try:
             # Load RF-DETR Medium from verified checkpoint
-            self.model = RFDETRMedium.from_checkpoint(str(self.checkpoint_path), trust_checkpoint=True)
+            
+            self.model = RFDETRMedium(
+                num_classes=4,
+                pretrain_weights=str(self.checkpoint_path),
+                trust_checkpoint=True
+            )
             self.model.inference(
                 compile=False,
                 inplace=True,
