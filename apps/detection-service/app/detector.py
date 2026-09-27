@@ -43,6 +43,12 @@ class RoadDamageDetector:
         try:
             # Load RF-DETR Medium from verified checkpoint
             self.model = RFDETRMedium.from_checkpoint(str(self.checkpoint_path), trust_checkpoint=True)
+            self.model.inference(
+                compile=False,
+                inplace=True,
+                dtype=torch.float32
+            )
+            logger.info("RF-DETR Medium inference optimization completed.")
             self.is_loaded = True
             logger.info("RF-DETR Medium model loaded successfully.")
         except Exception as e:
