@@ -49,9 +49,12 @@ def health_check():
 @app.get("/api/v1/config")
 def get_config():
     is_openai_active = bool(pipeline.llm.api_key)
+    from retrieval.evidence_retriever import RAG_DEPLOYMENT_MODE, HAS_CHROMADB
+    store_desc = "Lightweight NumPy Matrix (< 5MB RAM)" if RAG_DEPLOYMENT_MODE == "lightweight" or not HAS_CHROMADB else "ChromaDB (roadsense_knowledge)"
     return {
-        "vector_store": "FAISS (roadsense_knowledge)",
+        "vector_store": store_desc,
         "embedding_model": "all-MiniLM-L6-v2",
+        "deployment_mode": RAG_DEPLOYMENT_MODE,
         "llm_enabled": is_openai_active,
         "llm_provider": pipeline.llm.active_provider,
         "model": pipeline.llm.model_name,

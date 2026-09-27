@@ -1,21 +1,35 @@
 import os
 from pathlib import Path
-import chromadb
 from typing import List, Dict, Any, Optional
-from sentence_transformers import SentenceTransformer, util
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-DB_PATH = os.path.join(BASE_DIR, "vectorstore", "chroma")
+RAG_DEPLOYMENT_MODE = os.environ.get("RAG_DEPLOYMENT_MODE", "lightweight").lower()
 
-MODEL_NAME = "all-MiniLM-L6-v2"
-MODEL = SentenceTransformer(MODEL_NAME)
+# Check availability of heavy dependencies
+HAS_CHROMADB = False
+if RAG_DEPLOYMENT_MODE != "lightweight":
+    try:
+        import chromadb
+        from sentence_transformers import SentenceTransformer, util
+        HAS_CHROMADB = True
+    except ImportError:
+        HAS_CHROMADB = False
 
-client = chromadb.PersistentClient(path=DB_PATH)
+_lightweight_retriever = None
 
-try:
-    collection = client.get_collection("roadsense_knowledge")
-except Exception:
+if HAS_CHROMADB and RAG_DEPLOYMENT_MODE == "research":
+    DB_PATH = os.path.join(BASE_DIR, "vectorstore", "chroma")
+    MODEL_NAME = "all-MiniLM-L6-v2"
+    MODEL = SentenceTransformer(MODEL_NAME)
+    client = chromadb.PersistentClient(path=DB_PATH)
+    try:
+        collection = client.get_collection("roadsense_knowledge")
+    except Exception:
+        collection = None
+else:
     collection = None
+    from retrieval.lightweight_retriever import LightweightRetriever
+    _lightweight_retriever = LightweightRetriever()
 
 def retrieve(
     query: str,
@@ -24,18 +38,25 @@ def retrieve(
     source_diversity: bool = True
 ) -> List[Dict[str, Any]]:
     """
-    Retrieves top-k evidence chunks from ChromaDB.
-    Supports similarity scoring, metadata filtering, and source diversity.
+    Retrieves top-k evidence chunks.
+    Uses LightweightRetriever in deployment mode (< 5MB RAM, NO PyTorch/CUDA/ChromaDB),
+    or ChromaDB in research evaluation mode.
     """
+    if _lightweight_retriever is not None:
+        return _lightweight_retriever.retrieve(
+            query=query,
+            k=k,
+            category_filter=category_filter,
+            source_diversity=source_diversity
+        )
+
     if collection is None:
         return []
 
-    # Prepare metadata query filter if category provided
     where_clause = {}
     if category_filter:
         where_clause = {"category": category_filter}
 
-    # Fetch initial pool (oversample if diversity requested)
     fetch_n = k * 2 if source_diversity else k
 
     try:
@@ -78,7 +99,6 @@ def retrieve(
             "text": text
         })
 
-    # Sort descending by cosine similarity score
     raw_evidence.sort(key=lambda x: x["score"], reverse=True)
 
     if not source_diversity:
@@ -86,7 +106,6 @@ def retrieve(
             item["rank"] = idx + 1
         return raw_evidence[:k]
 
-    # Source-aware diversity filtering: limit max chunks per single source to 2 unless total sources < k
     diversified = []
     source_counts = {}
 
@@ -99,7 +118,6 @@ def retrieve(
         if len(diversified) == k:
             break
 
-    # If diversification resulted in fewer than k items, fill remaining from raw_evidence
     if len(diversified) < k:
         for item in raw_evidence:
             if item not in diversified:
@@ -111,10 +129,3 @@ def retrieve(
         item["rank"] = idx + 1
 
     return diversified
-
-if __name__ == "__main__":
-    query = "What maintenance treatment is recommended for potholes?"
-    res = retrieve(query, k=5, source_diversity=True)
-    print(f"Retrieved {len(res)} chunks for: '{query}'")
-    for r in res:
-        print(f"Rank {r['rank']} | Score: {r['score']} | Source: {r['source_title']} (p. {r['page']})")
