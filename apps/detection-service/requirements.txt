@@ -2,9 +2,10 @@ fastapi>=0.110.0
 uvicorn>=0.28.0
 pydantic>=2.6.0
 python-multipart>=0.0.9
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+transformers==5.1.0
+numpy<2
 pillow>=10.2.0
-numpy>=1.26.0
-supervision>=0.18.0
-rfdetr>=1.11.0
+supervision>=0.29.0
+rfdetr==1.11.0
