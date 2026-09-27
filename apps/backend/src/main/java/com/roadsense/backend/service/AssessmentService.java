@@ -230,15 +230,51 @@ public class AssessmentService {
                 "road_type", loc.getRoadType() != null ? loc.getRoadType() : "Road Corridor"
         );
 
-        Map<String, Object> weatherInput = Map.of(
-                "rainfall_mm", 25.0,
-                "temperature_c", 27.0
-        );
+        Map<String, Object> weatherInput = new HashMap<>();
+        if (weath != null) {
+            weatherInput.put("available", weath.isAvailable());
+            weatherInput.put("historical7Days", weath.getHistorical7Days() != null ? weath.getHistorical7Days() : List.of());
+            weatherInput.put("forecast7Days", weath.getForecast7Days() != null ? weath.getForecast7Days() : List.of());
+            if (weath.getRetrievedAt() != null) {
+                weatherInput.put("retrievedAt", weath.getRetrievedAt().toString());
+            }
+            if (weath.getEnvironmentalNote() != null) {
+                weatherInput.put("environmentalNote", weath.getEnvironmentalNote());
+            }
+        } else {
+            weatherInput.put("available", false);
+            weatherInput.put("historical7Days", List.of());
+            weatherInput.put("forecast7Days", List.of());
+        }
 
-        Map<String, Object> trafficInput = Map.of(
-                "route", traff.getRouteSummary() != null ? traff.getRouteSummary() : "Corridor Route",
-                "volume_level", traff.getTrafficVolumeLevel() != null ? traff.getTrafficVolumeLevel() : "High"
-        );
+        Map<String, Object> trafficInput = new HashMap<>();
+        if (traff != null) {
+            trafficInput.put("available", traff.isAvailable());
+            if (traff.getDurationSeconds() != null) {
+                trafficInput.put("durationSeconds", traff.getDurationSeconds());
+            }
+            if (traff.getStaticDurationSeconds() != null) {
+                trafficInput.put("staticDurationSeconds", traff.getStaticDurationSeconds());
+            }
+            if (traff.getTrafficDelaySeconds() != null) {
+                trafficInput.put("trafficDelaySeconds", traff.getTrafficDelaySeconds());
+            }
+            if (traff.getTrafficVolumeLevel() != null) {
+                trafficInput.put("trafficVolumeLevel", traff.getTrafficVolumeLevel());
+                trafficInput.put("volume_level", traff.getTrafficVolumeLevel());
+            }
+            if (traff.getRouteSummary() != null) {
+                trafficInput.put("routeSummary", traff.getRouteSummary());
+                trafficInput.put("route", traff.getRouteSummary());
+            }
+            if (traff.getOperationalNote() != null) {
+                trafficInput.put("operationalNote", traff.getOperationalNote());
+            }
+            trafficInput.put("rawApiData", traff.getRawApiData() != null ? traff.getRawApiData() : Map.of());
+        } else {
+            trafficInput.put("available", false);
+            trafficInput.put("rawApiData", Map.of());
+        }
 
         RagServiceClient.RagRequestDTO ragReq = RagServiceClient.RagRequestDTO.builder()
                 .query("What maintenance treatment and operational planning is required for the observed distress?")
@@ -270,8 +306,8 @@ public class AssessmentService {
                 .ragMode(ragResp.getRagMode() != null ? ragResp.getRagMode() : "EVIDENCE_AWARE_ADAPTIVE_RAG")
                 .report(ragResp.getReport())
                 .executiveSummary("Evidence-aware assessment completed for " + images.size() + " submitted image(s).")
-                .engineeringAssessment("Authoritative evidence supports routine surface repair per MoRTH guidelines.")
-                .recommendations(List.of("Perform surface cleaning and dry area", "Apply bitumen tack coat", "Compact asphalt hot/cold mix"))
+                .engineeringAssessment(null)
+                .recommendations(List.of())
                 .uncertainties(ragResp.getUncertainties() != null ? ragResp.getUncertainties() : List.of())
                 .citations(citations)
                 .claimVerification(ragResp.getVerification() != null ? ragResp.getVerification() : Map.of())

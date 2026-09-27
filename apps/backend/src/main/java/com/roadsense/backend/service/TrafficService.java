@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClient;
 
 import java.time.Instant;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -38,6 +37,7 @@ public class TrafficService {
                     .available(false)
                     .timestamp(Instant.now())
                     .operationalNote("Traffic context unavailable due to missing GPS coordinates.")
+                    .rawApiData(Map.of())
                     .build();
         }
 
@@ -71,17 +71,17 @@ public class TrafficService {
                     String staticDurationStr = (String) route.get("staticDuration"); // e.g. "90s"
                     String summary = (String) route.getOrDefault("description", "Primary Road Corridor");
 
-                    int durationSec = parseSeconds(durationStr, 120);
-                    int staticDurationSec = parseSeconds(staticDurationStr, 90);
-                    int delaySec = Math.max(0, durationSec - staticDurationSec);
+                    Integer durationSec = parseSeconds(durationStr);
+                    Integer staticDurationSec = parseSeconds(staticDurationStr);
+                    Integer delaySec = (durationSec != null && staticDurationSec != null) ? Math.max(0, durationSec - staticDurationSec) : null;
 
-                    String volumeLevel = delaySec > 180 ? "High" : (delaySec > 60 ? "Moderate" : "Standard");
+                    String volumeLevel = delaySec != null ? (delaySec > 180 ? "High" : (delaySec > 60 ? "Moderate" : "Standard")) : "Standard";
 
                     String note = String.format(
-                            "Corridor traffic volume context: %s. Traffic delay: %d seconds. " +
+                            "Corridor traffic volume context: %s. Traffic delay: %s seconds. " +
                             "Traffic context increases operational repair urgency and work-zone safety constraints. " +
                             "Traffic data does NOT establish direct physical causation of pavement distress.",
-                            volumeLevel, delaySec
+                            volumeLevel, delaySec != null ? delaySec : 0
                     );
 
                     return Assessment.TrafficContext.builder()
@@ -101,26 +101,21 @@ public class TrafficService {
             logger.warn("Google Routes API traffic call failed: {}", e.getMessage());
         }
 
-        // Return standard operational context if API is unreachable
+        // Return unavailable traffic context if API is unreachable or returns no route
         return Assessment.TrafficContext.builder()
-                .available(true)
+                .available(false)
                 .timestamp(Instant.now())
-                .durationSeconds(120)
-                .staticDurationSeconds(90)
-                .trafficDelaySeconds(30)
-                .trafficVolumeLevel("Moderate")
-                .routeSummary("Primary Corridor")
-                .operationalNote("Traffic context increases operational maintenance scheduling priority. Traffic data does NOT establish direct physical causation of pavement distress.")
+                .operationalNote("Traffic context unavailable due to Google Routes API failure or no usable route returned.")
                 .rawApiData(Map.of())
                 .build();
     }
 
-    private int parseSeconds(String secStr, int defaultSec) {
-        if (secStr == null) return defaultSec;
+    private Integer parseSeconds(String secStr) {
+        if (secStr == null) return null;
         try {
             return Integer.parseInt(secStr.replace("s", "").trim());
         } catch (Exception e) {
-            return defaultSec;
+            return null;
         }
     }
 }
