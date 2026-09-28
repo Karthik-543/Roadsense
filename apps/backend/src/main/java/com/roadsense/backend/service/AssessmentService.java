@@ -294,54 +294,115 @@ public class AssessmentService {
         double primaryConf = !detList.isEmpty() ? ((Number) detList.get(0).get("confidence")).doubleValue() : 0.817;
         int totalDefects = detList.size();
 
+        // 1. Evaluate Weather Support / Causation
+        double histPrecip = 0.0;
+        double fcstPrecip = 0.0;
+        if (weath != null && weath.getHistorical7Days() != null) {
+            histPrecip = weath.getHistorical7Days().stream()
+                    .mapToDouble(d -> d.getPrecipitationMm() != null ? d.getPrecipitationMm() : 0.0).sum();
+        }
+        if (weath != null && weath.getForecast7Days() != null) {
+            fcstPrecip = weath.getForecast7Days().stream()
+                    .mapToDouble(d -> d.getPrecipitationMm() != null ? d.getPrecipitationMm() : 0.0).sum();
+        }
+
+        String weatherCausationStr;
+        if (histPrecip > 5.0) {
+            weatherCausationStr = String.format(Locale.US,
+                    "Recent 7-day cumulative rainfall of %.1f mm directly supported and accelerated this distress by infiltrating micro-cracks and weakening subgrade soil.",
+                    histPrecip
+            );
+        } else {
+            weatherCausationStr = String.format(Locale.US,
+                    "Recent 7-day weather was predominantly dry (%.1f mm rainfall), indicating weather is NOT the primary initial cause of cracking. However, upcoming 7-day forecast rainfall (%.1f mm) poses a high risk of expanding unsealed cracks.",
+                    histPrecip, fcstPrecip
+            );
+        }
+
+        // 2. Evaluate Infrastructure Distance Priority (<300m HIGH, <500m MODERATE, >500m LOW)
+        String priorityLevel = "STANDARD PRIORITY";
+        String priorityReason = "No sensitive public infrastructure located within 500m proximity.";
+        String nearestInfraName = "None";
+        int nearestDist = 9999;
+
+        if (loc != null && loc.getNearbyInfrastructure() != null && !loc.getNearbyInfrastructure().isEmpty()) {
+            for (Assessment.NearbyPlace place : loc.getNearbyInfrastructure()) {
+                if (place.getDistanceMeters() != null && place.getDistanceMeters() < nearestDist) {
+                    nearestDist = place.getDistanceMeters();
+                    nearestInfraName = place.getName() != null ? place.getName() : "Infrastructure Facility";
+                }
+            }
+        }
+
+        if (nearestDist < 300) {
+            priorityLevel = "HIGH PRIORITY";
+            priorityReason = String.format(Locale.US, "Key facility '%s' is within %dm (< 300m threshold), creating high pedestrian and safety vulnerability.", nearestInfraName, nearestDist);
+        } else if (nearestDist < 500) {
+            priorityLevel = "MODERATE PRIORITY";
+            priorityReason = String.format(Locale.US, "Key facility '%s' is within %dm (< 500m threshold).", nearestInfraName, nearestDist);
+        } else if (nearestDist < 9999) {
+            priorityLevel = "LOW / STANDARD PRIORITY";
+            priorityReason = String.format(Locale.US, "Nearest facility '%s' is at %dm (> 500m threshold).", nearestInfraName, nearestDist);
+        }
+
         String rawReport = ragResp.getReport();
         String formattedReport;
 
-        if (rawReport != null && rawReport.contains("## OBSERVED DAMAGE")) {
+        if (rawReport != null && rawReport.contains("## EXECUTIVE SYNTHESIS")) {
             formattedReport = rawReport;
         } else {
+            String trafficVol = (traff != null && traff.getTrafficVolumeLevel() != null) ? traff.getTrafficVolumeLevel() : "Standard Traffic Load";
+            String roadName = (loc != null && loc.getRoad() != null) ? loc.getRoad() : "Road Corridor";
+            String roadType = (loc != null && loc.getRoadType() != null) ? loc.getRoadType() : "National Highway";
+            double latVal = (loc != null && loc.getLatitude() != null) ? loc.getLatitude() : 16.49411;
+            double lngVal = (loc != null && loc.getLongitude() != null) ? loc.getLongitude() : 80.50127;
+
             formattedReport = String.format(Locale.US,
                     "## OBSERVED DAMAGE\n" +
                     "- Primary Distress Class: %s\n" +
                     "- Model Confidence: %.1f%%\n" +
                     "- Distress Count: %d\n" +
-                    "- Severity Indicator: Moderate to Severe visual surface deterioration\n\n" +
+                    "- Severity Indicator: Moderate visual surface deterioration\n\n" +
 
                     "## LOCATION CONTEXT\n" +
                     "- Mapped Road Corridor: %s\n" +
                     "- Road Classification: %s\n" +
-                    "- Coordinates: Latitude %.5f, Longitude %.5f\n\n" +
+                    "- Coordinates: Latitude %.5f, Longitude %.5f\n" +
+                    "- Nearest Infrastructure: %s (%s)\n\n" +
 
                     "## ENVIRONMENTAL & WEATHER IMPACT ANALYSIS\n" +
-                    "- Weather Context: %s\n" +
-                    "- Previous 7-Day Rainfall Impact: Moisture infiltration has penetrated pavement micro-cracks, weakening subgrade soil bearing capacity.\n" +
-                    "- Upcoming 7-Day Weather Projection Impact: Upcoming temperature variations and forecasted precipitation will expand crack apertures, accelerating void formation and pothole risk if left unsealed.\n\n" +
+                    "- Previous 7-Day Rainfall: %.1f mm\n" +
+                    "- Upcoming 7-Day Forecast Rainfall: %.1f mm\n" +
+                    "- Weather Impact Evaluation: %s\n\n" +
 
                     "## TRAFFIC & CORRIDOR LOAD ANALYSIS\n" +
                     "- Corridor Traffic Category: %s\n" +
-                    "- Previous 7-Day Traffic Impact: Cumulative heavy commercial vehicle loading has applied cyclic flexural stresses to distress boundaries.\n" +
-                    "- Upcoming 7-Day Traffic Projection Impact: High traffic density will accelerate crack propagation, elevating work-zone repair urgency.\n\n" +
+                    "- Previous 7-Day Traffic Impact: Cumulative heavy commercial vehicle loading has applied cyclic flexural stress to crack boundaries.\n" +
+                    "- Upcoming 7-Day Traffic Impact: High traffic density will increase crack propagation rate, elevating repair urgency.\n\n" +
 
                     "## PRECAUTIONS & RECOMMENDED REPAIRS\n" +
-                    "- Immediate Action: Perform high-pressure air blasting and tack coating of crack channels.\n" +
+                    "- Immediate Maintenance Action: Perform high-pressure air cleaning and tack coating of crack channels.\n" +
                     "- Recommended Repair Procedure: Fill and seal cracks using hot-applied polymer-modified bitumen per IRC:82 / MoRTH Section 300 standards.\n" +
-                    "- Work-Zone Precautions: Deploy advance warning signage, cone channelization, and flaggers during execution to maintain commuter and crew safety.\n\n" +
+                    "- Work-Zone Safety Precautions: Deploy advance warning signage, cone channelization, and flaggers during execution.\n\n" +
 
-                    "## ENGINEERING EVIDENCE & AUTHORITATIVE SOURCES\n" +
+                    "## ENGINEERING EVIDENCE\n" +
                     "- According to IRC:82-2015 Guidelines: \"Bituminous crack sealing prevents water entry into the subgrade, preserving pavement structural capacity.\"\n" +
                     "- According to MoRTH Specifications: \"Crack sealing and patch repairs must be executed prior to monsoon cycles to prevent pothole formation.\"\n\n" +
 
-                    "## UNCERTAINTY & STRUCTURAL LIMITATIONS\n" +
-                    "- Exact Remaining Service Life (RSL) requires non-destructive Benkelman Beam Deflection or FWD field testing.\n" +
-                    "- Monetary repair cost estimation requires site quantity measurements and local schedule of rates.",
+                    "## UNCERTAINTY / LIMITATIONS\n" +
+                    "- Exact Remaining Service Life (RSL) cannot be determined from a single visual image.\n" +
+                    "- Structural load-carrying capacity (e.g. Benkelman Beam Deflection) requires physical field testing.\n" +
+                    "- Exact monetary repair cost cannot be estimated without site measurements and local schedule of rates.\n\n" +
+
+                    "## EXECUTIVE SYNTHESIS & NATURAL LANGUAGE ROAD REPORT\n" +
+                    "The observed road segment along %s (%s at coordinates %.5f, %.5f) exhibits %s distress with an AI model confidence of %.1f%% across %d detected defect zone(s). %s Regarding corridor traffic, the road experiences %s under cumulative heavy commercial vehicle loading. Based on infrastructure proximity, this section is assigned **%s** because %s. Immediate crack sealing using hot-applied polymer-modified bitumen is recommended prior to upcoming weather cycles.",
 
                     primaryDamage, primaryConf * 100, totalDefects,
-                    loc.getRoad() != null ? loc.getRoad() : "Road Corridor",
-                    loc.getRoadType() != null ? loc.getRoadType() : "National Highway",
-                    loc.getLatitude() != null ? loc.getLatitude() : 16.49411,
-                    loc.getLongitude() != null ? loc.getLongitude() : 80.50127,
-                    weath != null && weath.getEnvironmentalNote() != null ? weath.getEnvironmentalNote() : "Precipitation infiltrates surface cracks, weakening subgrade layers.",
-                    traff != null && traff.getTrafficVolumeLevel() != null ? traff.getTrafficVolumeLevel() : "Standard Traffic Load"
+                    roadName, roadType, latVal, lngVal, nearestInfraName, priorityLevel,
+                    histPrecip, fcstPrecip, weatherCausationStr,
+                    trafficVol,
+                    roadName, roadType, latVal, lngVal, primaryDamage, primaryConf * 100, totalDefects,
+                    weatherCausationStr, trafficVol, priorityLevel, priorityReason
             );
         }
 

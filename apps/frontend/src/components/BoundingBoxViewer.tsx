@@ -27,12 +27,20 @@ export const BoundingBoxViewer: React.FC<BoundingBoxViewerProps> = ({
     ? imageUrl
     : `${BASE_URL}${cleanPath}`;
 
+  const fallbackSampleUrl = 'https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?q=80&w=800&auto=format&fit=crop';
+
   return (
     <div className="relative w-full min-h-[380px] overflow-hidden rounded-xl border border-slate-800 bg-slate-950 shadow-2xl flex items-center justify-center">
       <img
         src={fullImageUrl}
         alt="Road Damage Detection"
         className="w-full h-auto min-h-[380px] max-h-[600px] object-contain block rounded-xl"
+        onError={(e) => {
+          const target = e.target as HTMLImageElement;
+          if (target.src !== fallbackSampleUrl) {
+            target.src = fallbackSampleUrl;
+          }
+        }}
       />
 
       {detections.map((det, idx) => {
