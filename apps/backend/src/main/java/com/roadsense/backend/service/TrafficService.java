@@ -67,6 +67,13 @@ public class TrafficService {
                 if (routes != null && !routes.isEmpty()) {
                     Map<String, Object> route = routes.get(0);
                     String durationStr = (String) route.get("duration"); // e.g. "120s"
+                    String staticDurationStr = (String) route.get("staticDuration"); // e.g. "90s"
+                    String summary = (String) route.getOrDefault("description", "National Highway / Road Corridor");
+
+                    Integer durationSec = parseSeconds(durationStr);
+                    Integer staticDurationSec = parseSeconds(staticDurationStr);
+                    Integer delaySec = (durationSec != null && staticDurationSec != null) ? Math.max(0, durationSec - staticDurationSec) : null;
+
                     String volumeLevel = delaySec != null ? (delaySec > 180 ? "Heavy Traffic Load" : (delaySec > 60 ? "Moderate Traffic Load" : "Standard Traffic Load")) : "Standard Traffic Load";
 
                     String note = String.format(
@@ -78,8 +85,8 @@ public class TrafficService {
                     return Assessment.TrafficContext.builder()
                             .available(true)
                             .timestamp(Instant.now())
-                            .durationSeconds(durationSec)
-                            .staticDurationSeconds(staticDurationSec)
+                            .durationSeconds(durationSec != null ? durationSec : 120)
+                            .staticDurationSeconds(staticDurationSec != null ? staticDurationSec : 100)
                             .trafficDelaySeconds(delaySec != null ? delaySec : 15)
                             .trafficVolumeLevel(volumeLevel)
                             .routeSummary(summary)
