@@ -36,24 +36,61 @@ public class RagServiceClient {
     }
 
     public RagResponseDTO generateAssessmentReport(RagRequestDTO request) {
-        try {
-            return restClient.post()
-                    .uri(ragServiceUrl + "/api/v1/road-assessment")
-                    .header(HttpHeaders.USER_AGENT, "RoadSense-Backend/1.0 (Spring-Boot/3.2.5; Java/21)")
-                    .contentType(MediaType.APPLICATION_JSON)
-                    .body(request)
-                    .retrieve()
-                    .body(RagResponseDTO.class);
-        } catch (RestClientResponseException e) {
-            logger.error("RAG service error [HTTP {}] calling {}: {}",
-                    e.getStatusCode().value(), ragServiceUrl + "/api/v1/road-assessment", e.getResponseBodyAsString());
-            throw new ServiceUnavailableException("Evidence-Aware Adaptive RAG Service is currently unavailable: HTTP "
-                    + e.getStatusCode().value() + " - " + e.getMessage());
-        } catch (Exception e) {
-            logger.error("RAG service call failed for URL {}: [{}] {}",
-                    ragServiceUrl + "/api/v1/road-assessment", e.getClass().getName(), e.getMessage());
-            throw new ServiceUnavailableException("Evidence-Aware Adaptive RAG Service is currently unavailable: " + e.getMessage());
+        int maxAttempts = 4;
+        Exception lastException = null;
+
+        for (int attempt = 1; attempt <= maxAttempts; attempt++) {
+            try {
+                return restClient.post()
+                        .uri(ragServiceUrl + "/api/v1/road-assessment")
+                        .header(HttpHeaders.USER_AGENT, "RoadSense-Backend/1.0 (Spring-Boot/3.2.5; Java/21)")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .body(request)
+                        .retrieve()
+                        .body(RagResponseDTO.class);
+
+            } catch (RestClientResponseException e) {
+                lastException = e;
+                int statusCode = e.getStatusCode().value();
+                logger.warn("RAG service attempt {}/{} failed with HTTP {}", attempt, maxAttempts, statusCode);
+
+                if ((statusCode == 502 || statusCode == 503 || statusCode == 504) && attempt < maxAttempts) {
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException ie) {
+                        Thread.currentThread().interrupt();
+                        break;
+                    }
+                    continue;
+                }
+                break;
+
+            } catch (Exception e) {
+                lastException = e;
+                logger.warn("RAG service attempt {}/{} failed: [{}] {}", attempt, maxAttempts, e.getClass().getName(), e.getMessage());
+                if (attempt < maxAttempts) {
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException ie) {
+                        Thread.currentThread().interrupt();
+                        break;
+                    }
+                    continue;
+                }
+                break;
+            }
         }
+
+        if (lastException instanceof RestClientResponseException rcre) {
+            int code = rcre.getStatusCode().value();
+            throw new ServiceUnavailableException(
+                    "Evidence-Aware Adaptive RAG Service is currently waking up or unavailable (HTTP " + code + "). Please wait 10 seconds and try again."
+            );
+        }
+
+        throw new ServiceUnavailableException(
+                "Evidence-Aware Adaptive RAG Service is currently unavailable: " + (lastException != null ? lastException.getMessage() : "Connection timeout")
+        );
     }
 
     @Data

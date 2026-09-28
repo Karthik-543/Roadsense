@@ -51,47 +51,68 @@ public class DetectionServiceClient {
 
         String actualFilename = (filename != null && !filename.isBlank()) ? filename : "image.jpg";
 
-        try {
-            MultipartBodyBuilder bodyBuilder = new MultipartBodyBuilder();
-            bodyBuilder.part("file", new ByteArrayResource(imageBytes) {
-                @Override
-                public String getFilename() {
-                    return actualFilename;
+        int maxAttempts = 4;
+        Exception lastException = null;
+
+        for (int attempt = 1; attempt <= maxAttempts; attempt++) {
+            try {
+                MultipartBodyBuilder bodyBuilder = new MultipartBodyBuilder();
+                bodyBuilder.part("file", new ByteArrayResource(imageBytes) {
+                    @Override
+                    public String getFilename() {
+                        return actualFilename;
+                    }
+                }, mediaType);
+
+                return restClient.post()
+                        .uri(detectionServiceUrl + "/predict?threshold=" + threshold)
+                        .header(HttpHeaders.USER_AGENT, "RoadSense-Backend/1.0 (Spring-Boot/3.2.5; Java/21)")
+                        .body(bodyBuilder.build())
+                        .retrieve()
+                        .body(DetectionResponseDTO.class);
+
+            } catch (RestClientResponseException e) {
+                lastException = e;
+                int statusCode = e.getStatusCode().value();
+                logger.warn("Detection service attempt {}/{} failed with HTTP {}", attempt, maxAttempts, statusCode);
+
+                if ((statusCode == 502 || statusCode == 503 || statusCode == 504) && attempt < maxAttempts) {
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException ie) {
+                        Thread.currentThread().interrupt();
+                        break;
+                    }
+                    continue;
                 }
-            }, mediaType);
+                break;
 
-            return restClient.post()
-                    .uri(detectionServiceUrl + "/predict?threshold=" + threshold)
-                    .header(HttpHeaders.USER_AGENT, "RoadSense-Backend/1.0 (Spring-Boot/3.2.5; Java/21)")
-                    .body(bodyBuilder.build())
-                    .retrieve()
-                    .body(DetectionResponseDTO.class);
+            } catch (Exception e) {
+                lastException = e;
+                logger.warn("Detection service attempt {}/{} failed: [{}] {}", attempt, maxAttempts, e.getClass().getName(), e.getMessage());
+                if (attempt < maxAttempts) {
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException ie) {
+                        Thread.currentThread().interrupt();
+                        break;
+                    }
+                    continue;
+                }
+                break;
+            }
+        }
 
-        } catch (RestClientResponseException e) {
-            logger.error(
-                    "Detection service error [HTTP {}] calling {}: {}",
-                    e.getStatusCode().value(),
-                    detectionServiceUrl + "/predict",
-                    e.getResponseBodyAsString()
-            );
-
+        if (lastException instanceof RestClientResponseException rcre) {
+            int code = rcre.getStatusCode().value();
             throw new ServiceUnavailableException(
-                    "RF-DETR Detection Service is currently unavailable: HTTP "
-                            + e.getStatusCode().value() + " - " + e.getMessage()
-            );
-
-        } catch (Exception e) {
-            logger.error(
-                    "Detection service request failed for URL {}: [{}] {}",
-                    detectionServiceUrl + "/predict",
-                    e.getClass().getName(),
-                    e.getMessage()
-            );
-
-            throw new ServiceUnavailableException(
-                    "RF-DETR Detection Service is currently unavailable: " + e.getMessage()
+                    "RF-DETR Detection Service is currently waking up or unavailable (HTTP " + code + "). Please wait 10 seconds and try submitting again."
             );
         }
+
+        throw new ServiceUnavailableException(
+                "RF-DETR Detection Service is currently unavailable: " + (lastException != null ? lastException.getMessage() : "Connection timeout")
+        );
     }
 
     @Data
