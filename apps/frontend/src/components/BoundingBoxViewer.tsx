@@ -4,8 +4,10 @@ import { DetectionResult } from '../types';
 interface BoundingBoxViewerProps {
   imageUrl: string;
   detections: DetectionResult[];
-  width: number;
-  height: number;
+  width?: number;
+  height?: number;
+  imageWidth?: number;
+  imageHeight?: number;
 }
 
 export const BoundingBoxViewer: React.FC<BoundingBoxViewerProps> = ({
@@ -13,8 +15,12 @@ export const BoundingBoxViewer: React.FC<BoundingBoxViewerProps> = ({
   detections,
   width,
   height,
+  imageWidth,
+  imageHeight,
 }) => {
-  const BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'https://roadsense-1-j77g.onrender.com').replace(/\/$/, '');
+  const effWidth = width || imageWidth || 640;
+  const effHeight = height || imageHeight || 480;
+  const BASE_URL = ((import.meta as any).env?.VITE_API_BASE_URL || 'https://roadsense-1-j77g.onrender.com').replace(/\/$/, '');
   const fullImageUrl = imageUrl.startsWith('http')
     ? imageUrl
     : `${BASE_URL}${imageUrl.startsWith('/') ? '' : '/'}${imageUrl}`;
@@ -32,10 +38,10 @@ export const BoundingBoxViewer: React.FC<BoundingBoxViewerProps> = ({
         const [xMin, yMin, xMax, yMax] = det.boundingBox;
 
         // Calculate relative percentages
-        const left = (xMin / (width || 640)) * 100;
-        const top = (yMin / (height || 480)) * 100;
-        const boxWidth = ((xMax - xMin) / (width || 640)) * 100;
-        const boxHeight = ((yMax - yMin) / (height || 480)) * 100;
+        const left = (xMin / effWidth) * 100;
+        const top = (yMin / effHeight) * 100;
+        const boxWidth = ((xMax - xMin) / effWidth) * 100;
+        const boxHeight = ((yMax - yMin) / effHeight) * 100;
 
         const colors = [
           'border-rose-500 bg-rose-500/10 text-rose-300',
