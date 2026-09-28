@@ -10,6 +10,7 @@ spring:
     mongodb:
       uri: ${MONGODB_URI:mongodb://localhost:27017/RoadSense}
       database: RoadSense
+      auto-index-creation: false
   servlet:
     multipart:
       max-file-size: 15MB

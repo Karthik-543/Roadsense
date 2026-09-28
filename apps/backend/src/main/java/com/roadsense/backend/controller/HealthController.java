@@ -9,10 +9,9 @@ import java.time.Instant;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/health")
 public class HealthController {
 
-    @GetMapping
+    @GetMapping({"/", "/health", "/api/health"})
     public ResponseEntity<Map<String, Object>> healthCheck() {
         return ResponseEntity.ok(Map.of(
                 "status", "healthy",
