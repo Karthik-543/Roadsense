@@ -9,9 +9,9 @@ import lombok.NoArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.core.io.ByteArrayResource;
+
 import org.springframework.http.MediaType;
-import org.springframework.http.client.MultipartBodyBuilder;
+
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 import org.springframework.web.client.RestClientResponseException;
@@ -36,44 +36,83 @@ public class DetectionServiceClient {
     }
 
     public DetectionResponseDTO detectDamage(byte[] imageBytes, String filename, double threshold) {
-        MediaType mediaType = MediaType.IMAGE_JPEG;
-        if (filename != null) {
-            String lower = filename.toLowerCase();
-            if (lower.endsWith(".png")) {
-                mediaType = MediaType.IMAGE_PNG;
-            } else if (lower.endsWith(".gif")) {
-                mediaType = MediaType.IMAGE_GIF;
-            } else if (lower.endsWith(".webp")) {
-                mediaType = MediaType.parseMediaType("image/webp");
-            }
-        }
+    MediaType mediaType = MediaType.IMAGE_JPEG;
 
-        try {
-            MultipartBodyBuilder bodyBuilder = new MultipartBodyBuilder();
-            bodyBuilder.part("file", new ByteArrayResource(imageBytes) {
-                @Override
-                public String getFilename() {
-                    return filename != null ? filename : "image.jpg";
-                }
-            }, mediaType);
-
-            return restClient.post()
-                    .uri(detectionServiceUrl + "/predict?threshold=" + threshold)
-                    .body(bodyBuilder.build())
-                    .retrieve()
-                    .body(DetectionResponseDTO.class);
-        } catch (RestClientResponseException e) {
-            logger.error("Detection service error [HTTP {}] calling {}: {}",
-                    e.getStatusCode().value(), detectionServiceUrl + "/predict", e.getResponseBodyAsString());
-            throw new ServiceUnavailableException("RF-DETR Detection Service is currently unavailable: HTTP "
-                    + e.getStatusCode().value() + " - " + e.getMessage());
-        } catch (Exception e) {
-            logger.error("Detection service request failed for URL {}: [{}] {}",
-                    detectionServiceUrl + "/predict", e.getClass().getName(), e.getMessage());
-            throw new ServiceUnavailableException("RF-DETR Detection Service is currently unavailable: " + e.getMessage());
+    if (filename != null) {
+        String lower = filename.toLowerCase();
+        if (lower.endsWith(".png")) {
+            mediaType = MediaType.IMAGE_PNG;
+        } else if (lower.endsWith(".gif")) {
+            mediaType = MediaType.IMAGE_GIF;
+        } else if (lower.endsWith(".webp")) {
+            mediaType = MediaType.parseMediaType("image/webp");
         }
     }
 
+    String actualFilename = filename != null ? filename : "image.jpg";
+    String boundary = "----RoadSenseBoundary" + System.currentTimeMillis();
+
+    try {
+        String header =
+                "--" + boundary + "\r\n" +
+                "Content-Disposition: form-data; name=\"file\"; filename=\"" + actualFilename + "\"\r\n" +
+                "Content-Type: " + mediaType + "\r\n\r\n";
+
+        String footer = "\r\n--" + boundary + "--\r\n";
+
+        byte[] headerBytes = header.getBytes(java.nio.charset.StandardCharsets.UTF_8);
+        byte[] footerBytes = footer.getBytes(java.nio.charset.StandardCharsets.UTF_8);
+
+        byte[] requestBody = new byte[
+                headerBytes.length + imageBytes.length + footerBytes.length
+        ];
+
+        System.arraycopy(headerBytes, 0, requestBody, 0, headerBytes.length);
+        System.arraycopy(imageBytes, 0, requestBody, headerBytes.length, imageBytes.length);
+        System.arraycopy(
+                footerBytes,
+                0,
+                requestBody,
+                headerBytes.length + imageBytes.length,
+                footerBytes.length
+        );
+
+        return restClient.post()
+                .uri(detectionServiceUrl + "/predict?threshold=" + threshold)
+                .contentType(MediaType.parseMediaType(
+                        "multipart/form-data; boundary=" + boundary
+                ))
+                .contentLength(requestBody.length)
+                .body(requestBody)
+                .retrieve()
+                .body(DetectionResponseDTO.class);
+
+    } catch (RestClientResponseException e) {
+        logger.error(
+                "Detection service error [HTTP {}] calling {}: {}",
+                e.getStatusCode().value(),
+                detectionServiceUrl + "/predict",
+                e.getResponseBodyAsString()
+        );
+
+        throw new ServiceUnavailableException(
+                "RF-DETR Detection Service is currently unavailable: HTTP "
+                        + e.getStatusCode().value() + " - " + e.getMessage()
+        );
+
+    } catch (Exception e) {
+        logger.error(
+                "Detection service request failed for URL {}: [{}] {}",
+                detectionServiceUrl + "/predict",
+                e.getClass().getName(),
+                e.getMessage()
+        );
+
+        throw new ServiceUnavailableException(
+                "RF-DETR Detection Service is currently unavailable: " + e.getMessage()
+        );
+    }
+}
     @Data
     @Builder
     @NoArgsConstructor
