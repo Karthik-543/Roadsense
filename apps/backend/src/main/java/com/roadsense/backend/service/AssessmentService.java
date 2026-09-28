@@ -326,9 +326,9 @@ public class AssessmentService {
         int nearestDist = 9999;
 
         if (loc != null && loc.getNearbyInfrastructure() != null && !loc.getNearbyInfrastructure().isEmpty()) {
-            for (Assessment.NearbyPlace place : loc.getNearbyInfrastructure()) {
-                if (place.getDistanceMeters() != null && place.getDistanceMeters() < nearestDist) {
-                    nearestDist = place.getDistanceMeters();
+            for (Assessment.NearbyFacility place : loc.getNearbyInfrastructure()) {
+                if (place.getDistanceMeters() != null && place.getDistanceMeters().intValue() < nearestDist) {
+                    nearestDist = place.getDistanceMeters().intValue();
                     nearestInfraName = place.getName() != null ? place.getName() : "Infrastructure Facility";
                 }
             }
