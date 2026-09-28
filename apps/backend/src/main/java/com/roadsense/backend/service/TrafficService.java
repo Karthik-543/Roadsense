@@ -50,8 +50,7 @@ public class TrafficService {
                     "origin", Map.of("location", Map.of("latLng", Map.of("latitude", lat, "longitude", lon))),
                     "destination", Map.of("location", Map.of("latLng", Map.of("latitude", lat2, "longitude", lon2))),
                     "travelMode", "DRIVE",
-                    "routingPreference", "TRAFFIC_AWARE",
-                    "departureTime", Instant.now().toString()
+                    "routingPreference", "TRAFFIC_AWARE"
             );
 
             Map<String, Object> response = restClient.post()

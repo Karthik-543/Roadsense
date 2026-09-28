@@ -11,6 +11,7 @@ import java.time.Instant;
 import java.time.LocalDate;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 @Service
 public class WeatherService {
@@ -19,6 +20,9 @@ public class WeatherService {
 
     private final RestClient restClient;
     private final String openMeteoUrl;
+    private final Map<String, CacheEntry> weatherCache = new ConcurrentHashMap<>();
+
+    private record CacheEntry(Assessment.WeatherContext context, Instant timestamp) {}
 
     public WeatherService(
             RestClient restClient,
@@ -37,12 +41,20 @@ public class WeatherService {
                     .build();
         }
 
+        String cacheKey = String.format(Locale.US, "%.2f_%.2f", lat, lon);
+        CacheEntry cached = weatherCache.get(cacheKey);
+        if (cached != null && cached.timestamp().isAfter(Instant.now().minusSeconds(1800))) {
+            return cached.context();
+        }
+
         LocalDate today = LocalDate.now();
         List<Assessment.WeatherDay> historical = new ArrayList<>();
         List<Assessment.WeatherDay> forecast = new ArrayList<>();
+        boolean success = false;
 
         try {
             String uri = String.format(
+                    Locale.US,
                     "%s?latitude=%.4f&longitude=%.4f&past_days=7&forecast_days=7&daily=precipitation_sum,temperature_2m_max,temperature_2m_min&timezone=auto",
                     openMeteoUrl, lat, lon
             );
@@ -84,29 +96,43 @@ public class WeatherService {
                             historical.add(day);
                         }
                     }
+                    success = true;
                 }
             }
         } catch (Exception e) {
             logger.warn("Open-Meteo weather API call failed: {}", e.getMessage());
         }
 
-        double totalHistPrecip = historical.stream()
-                .mapToDouble(d -> d.getPrecipitationMm() != null ? d.getPrecipitationMm() : 0.0)
-                .sum();
+        boolean isAvailable = success && (!historical.isEmpty() || !forecast.isEmpty());
+        String note;
+        if (isAvailable) {
+            double totalHistPrecip = historical.stream()
+                    .mapToDouble(d -> d.getPrecipitationMm() != null ? d.getPrecipitationMm() : 0.0)
+                    .sum();
 
-        String note = String.format(
-                "Recent 7-day cumulative precipitation: %.1f mm. " +
-                "Environmental moisture conditions are evaluated as a contributing factor associated with pavement deterioration. " +
-                "Available context does NOT establish rainfall as the sole or definitive cause of damage.",
-                totalHistPrecip
-        );
+            note = String.format(
+                    Locale.US,
+                    "Recent 7-day cumulative precipitation: %.1f mm. " +
+                    "Environmental moisture conditions are evaluated as a contributing factor associated with pavement deterioration. " +
+                    "Available context does NOT establish rainfall as the sole or definitive cause of damage.",
+                    totalHistPrecip
+            );
+        } else {
+            note = "Weather context unavailable due to Open-Meteo API rate limit or reachability issue.";
+        }
 
-        return Assessment.WeatherContext.builder()
-                .available(!historical.isEmpty() || !forecast.isEmpty())
+        Assessment.WeatherContext result = Assessment.WeatherContext.builder()
+                .available(isAvailable)
                 .historical7Days(historical)
                 .forecast7Days(forecast)
                 .retrievedAt(Instant.now())
                 .environmentalNote(note)
                 .build();
+
+        if (isAvailable) {
+            weatherCache.put(cacheKey, new CacheEntry(result, Instant.now()));
+        }
+
+        return result;
     }
 }
