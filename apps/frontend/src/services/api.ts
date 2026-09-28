@@ -1,6 +1,7 @@
 import { AuthResponse, Assessment, User } from '../types';
 
-const API_BASE = '/api';
+const BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'https://roadsense-1-j77g.onrender.com').replace(/\/$/, '');
+const API_BASE = `${BASE_URL}/api`;
 
 function getAuthHeaders(): Record<string, string> {
   const token = localStorage.getItem('token');

@@ -14,10 +14,15 @@ export const BoundingBoxViewer: React.FC<BoundingBoxViewerProps> = ({
   width,
   height,
 }) => {
+  const BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'https://roadsense-1-j77g.onrender.com').replace(/\/$/, '');
+  const fullImageUrl = imageUrl.startsWith('http')
+    ? imageUrl
+    : `${BASE_URL}${imageUrl.startsWith('/') ? '' : '/'}${imageUrl}`;
+
   return (
     <div className="relative inline-block w-full overflow-hidden rounded-xl border border-slate-800 bg-slate-950 shadow-2xl">
       <img
-        src={imageUrl}
+        src={fullImageUrl}
         alt="Road Damage Detection"
         className="w-full h-auto object-contain block max-h-[500px]"
       />
