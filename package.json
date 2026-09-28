@@ -1,0 +1,9 @@
+{
+  "name": "roadsense-monorepo",
+  "private": true,
+  "scripts": {
+    "install:all": "cd apps/frontend && npm install",
+    "build:frontend": "cd apps/frontend && npm run build",
+    "build": "cd apps/frontend && npm install && npm run build"
+  }
+}
